@@ -1,0 +1,8 @@
+[98021:98021:0102/103050.434788:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[98064:98064:0102/103050.495828:WARNING:sandbox_linux.cc(380)] InitializeSandbox() called with multiple threads in process gpu-process.
+[98021:98021:0102/103052.630972:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.3.2", source: https://responsiblesoy.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 (2)
+[98021:98021:0102/103053.120087:INFO:CONSOLE(1)] "Uncaught ReferenceError: grecaptcha is not defined", source: https://responsiblesoy.org/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3.2 (1)
+[98021:98021:0102/103053.169677:INFO:CONSOLE(1)] "init popups ✔", source: https://responsiblesoy.org/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1664569058&ver=1.11.2 (1)
+[98065:98082:0102/103055.457139:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[98065:98082:0102/103055.457263:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[98021:98021:0102/103055.490384:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
