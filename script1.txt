@@ -1,0 +1,175 @@
+import fitz
+import re
+import unicodedata
+import warnings
+from collections import Counter
+from unicodedata import normalize
+
+####################################################################
+################ ALLEGRO MODERATO – ADAGIO #########################
+####################################################################
+
+class DictTags:
+
+    def __init__(self, list_companies, labels): 
+
+        self.dict_companies = {}
+        self.labels = dict.fromkeys(labels)
+    
+        for dict_company in dict.fromkeys(list_companies):
+            for label in self.labels:
+                self.dict_companies[dict_company] = dict.fromkeys(self.labels)
+
+
+    def Reg_Tags(self, regtags, var_name):
+
+        for company, variables in self.dict_companies.items():
+            if var_name in variables:
+                retag_tag = regtags.get(company)
+                if retag_tag is not None:
+                    self.dict_companies[company][var_name] = retag_tag
+
+        return self.dict_companies
+        
+    def extract_pages(self, path_reports, page_start = 0, page_end = None):
+
+        def remove_special_str(str):
+            return re.sub(r'[^a-zA-Z0-9 ]', ' ', normalize('NFKD', str).encode('ASCII', 'ignore').decode('ASCII'))
+
+        def treatment_str(str):
+            return ' '.join((remove_special_str(str).split()))
+    
+        pdf_doc = fitz.open(path_reports)
+        no_pages = len(pdf_doc)
+
+        if page_end is None:
+            page_end = no_pages
+
+        join_pages = ""
+        for no_page in range(page_start, page_end):
+                        
+            join_pages += pdf_doc[no_page].get_text('opt')
+
+        pages = unicodedata.normalize("NFKD", join_pages)
+
+        self.report_pages = treatment_str(pages)
+
+        #self.report_pages = pages.replace('\n', " ")  
+        
+        return self.report_pages
+
+class Search:
+    def __init__(self):
+
+        self._dict_companies = None
+        self._report_pages = None
+        self._variable_target = None
+        self._row_length = None
+        self._fix_value = None
+    
+    @property
+    def dict_companies(self):
+        return self._dict_companies
+    
+    @dict_companies.setter
+    def dict_companies(self, value_attr):
+        self._dict_companies = value_attr
+        return self._dict_companies
+    
+    @property
+    def report_pages(self):
+        return self._report_pages
+    
+    @report_pages.setter
+    def report_pages(self, value_attr):
+        self._report_pages = value_attr
+        return self._report_pages
+    
+    @property
+    def variable_target(self):
+        return self._variable_target
+    
+    @variable_target.setter
+    def variable_target(self, value_attr):
+        self._variable_target = value_attr
+        return self._variable_target
+    
+    @property
+    def row_length(self):
+        return self._row_length
+    
+    @row_length.setter
+    def row_length(self, value_attr):
+        self._row_length = value_attr
+        return self._row_length
+    
+    @property
+    def fix_value(self):
+        return self._fix_value
+    
+    @fix_value.setter
+    def fix_value(self, value_attr):
+        self._fix_value = value_attr
+        return self._fix_value
+
+    def insert_kwargs(self, **kwargs):
+        self.__dict__.update(kwargs)
+
+    def findall(self, regex_tag):
+        return re.findall(regex_tag, self.report_pages, flags= re.DOTALL)[0]
+    
+    def add_tag(self, added_obj = None, company_name = None, no_iterator = None):
+
+        if added_obj is not None:
+            self.reg_result.append(added_obj)
+
+            if company_name is not None:
+                self.company_classify.append(company_name)
+        
+        if no_iterator is not None:
+            return self.test_list.append(no_iterator)
+        
+    def test_findall(self):
+
+        dict_to_check = Counter(self.test_list)
+        self.reports_to_fix = [i for i, j in dict_to_check.items() if j != 6]
+
+        if len(self.reg_result) != self._row_length:
+        
+            warnings.warn("The database length doesn't match with companies list length!")
+            print("The not captured report(s) has the following number(s):  ")
+            print(" ")
+            for report_to_fix in self.reports_to_fix:
+                print(report_to_fix)
+    
+    def fix_length(self):
+
+        print("""Keep in mind there is a completely unidentifiable report issued by Control Union.
+                It's unidentifiable because his pdf was created from an image.""")
+
+        if len(self.reports_to_fix) > 1:
+            raise Exception("""There are more than two unidentifiable reports.
+                            It's: {}""".format(self.reports_to_fix))
+        
+        else:
+
+            self.reg_result.insert(self.reports_to_fix[0]-1, self._fix_value)
+
+            if self.company_classify is not None:
+                self.company_classify.insert(self.reports_to_fix[0], "Control Union")
+
+            print("Now it's all right!")
+
+    def add_values_to_df_and_export(self, dataframe, root):
+
+        dataframe[self._variable_target] = self.reg_result
+
+        if self.company_classify is not None:
+            dataframe["Companies"] = self.company_classify
+        
+        dataframe.to_csv(root / 'certified_producers_rtrs.csv')
+
+
+###########################################################################################
+################################## THAT'S ALL FOLKS! ######################################
+###########################################################################################

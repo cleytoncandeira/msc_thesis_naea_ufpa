@@ -1,0 +1,98 @@
+#####################################################################
+######################## MUSICAL SCORE ##############################
+#####################################################################
+
+#It's so helpful: https://learnbyexample.github.io/tips/python-tip-12/
+#It's helpful two: https://www.raulmelo.dev/en/til/how-to-ignore-string-if-contains-certain-match-using-regex
+#If Else: https://www.regular-expressions.info/conditional.html
+#It's helpful also: https://www.pythontutorial.net/python-regex/python-regex-lookahead/
+
+
+companies = [
+    "Bureau Veritas",                     
+    "Control Union",                        
+    "FoodChain Id Certificadora Ltda",      
+    "Gênesis Certificações",                
+    "SGS Group",                           
+    "Schutter Argentina",                
+    "Cert Id Certificadora",
+    ]
+
+variables = [
+    "Total_Production",     
+   #"Audit_Type",           
+    "Issue_Date",           
+    "Expiration_Date",      
+    "Total_Farm_Area",      
+    #"Stakeholders",         
+    #"n_Members",            
+    "RegTag",
+    "1_1_criteria",
+    "1_2_criteria",
+    "1_3_criteria",
+    "2_1_criteria",
+    "2_2_criteria",
+    "2_3_criteria",
+    "2_4_criteria",
+    "2_5_criteria",
+    "3_1_criteria",
+    "3_2_criteria",
+    "3_3_criteria",
+    "3_4_criteria",
+    "4_1_criteria",
+    "4_2_criteria",
+    "4_3_criteria",
+    "4_4_criteria",
+    "4_5_criteria",
+    "5_1_criteria",
+    "5_2_criteria",
+    "5_3_criteria",
+    "5_4_criteria",
+    "5_5_criteria",
+    "5_6_criteria",
+    "5_7_criteria",
+    "5_8_criteria",
+    "5_9_criteria",
+    "5_10_criteria",
+    "5_11_criteria",              
+        ]
+
+regtags = {
+    "Bureau Veritas":                       '(RTRS\s?BV(?:\s?\w{3,4}\s?){1,3}\d{3,4})|$', 
+    "Control Union":                        '(RTRS\s?CUC(?:\s?\w{2,4}\s?){1,4}\d{4})|$', 
+    "FoodChain Id Certificadora Ltda":      '((?:FCID\s?RTRS|RTRS\s?FCID)(?:\s?\w{2,4}\s?){0,4}(?:\d{1,4}){1,3})|$', 
+    "Gênesis Certificações":                '(RTRS\s?GC(?:\s?\w{2,3}\s?){1,3}\d{3,4})|$', 
+    "SGS Group":                            '(RTRS\s?SGS(?:\s?\w{3,4}\s?){1,3}\d{3,4})|$',
+    "Schutter Argentina":                   '(RTRS\s?SCHU(?:\s?\w{3}\s?)+\d{2}(?:(?!35)\d{2}))|$',
+    "Cert Id Certificadora":                '(RTRS\s?CERTID(?:\s?\w{2,4}\s?){1,4}\d{3,4})|$',
+                          }  
+
+regtags_fix_value = 'C868389AGR-01.2020'
+
+expiration_date = {
+    "Bureau Veritas":                       '(?:[Ff]echa\s?)(?:[Dd]e\s?)?(?:[Vv]encimiento\s?)(?:del\s?)?(?:[Cc]ertificado\s?)((?:\d{1,4}\s?){3})|$', 
+    "Control Union":                        '', 
+    "FoodChain Id Certificadora Ltda":      '(?:Data\sde\svalidade\s((?:\d{2,4}\s?){3}))|$', 
+    "Gênesis Certificações":                '(?:Data\s?de\s?Validade\s?((?:\d{2,4}\s?){3}))|$', 
+    "SGS Group":                            '(?:(?:(?:[Ff]echa\s?)(?:[Dd]e\s?)?(?:[Vv]encimient\s?o?\s?)|(?:Expire\s?[Dd]ate\s))((?:\d{1,4}\s?){3}))|$',
+    "Schutter Argentina":                   '', #Same that Bureau Veritas
+    "Cert Id Certificadora":                '', #Same that FoodChain ID
+                          }
+
+expiration_date_fix_value = ''
+#The second tuple value is for regex tabula search
+
+issue_date = {
+    "Bureau Veritas":                       '(?:(?:(?:(?:[Ff]echa\s?)(?:[Dd]e\s?)?(?:[Ee]mision\s?)(?:del\s?)?(?:[Cc]ertificado\s?)?)|(?:Issue\s?date\s?))((?:\d{1,4}\s?){3}))|$', 
+    "Control Union":                        '', 
+    "FoodChain Id Certificadora Ltda":      '(?:Data\sde\semissao\s((?:\d{2,4}\s?){3}))|$', 
+    "Gênesis Certificações":                '', #Same that FoodChain ID
+    "SGS Group":                            '', #Same that Bureau Veritas
+    "Schutter Argentina":                   '', #Same that Bureau Veritas
+    "Cert Id Certificadora":                '', #Same that FoodChain ID
+                          }
+
+issue_date_fix_value = ''
+
+
+################################################################################
