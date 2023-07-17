@@ -1,0 +1,46 @@
+#Data Processing Notes
+
+1 - retirar o símbolo 'º' das cg decimais
+2 - transformar as vírgulas em pontos nos cg decimais
+3 - valores em cg (g, m, s) não foram capturados pelo regex:
+
+Para solucionar esse problema, este pequeno texto pode ser muito útil para compreender porque determinados pontos estão entre determinados números, mas que não representam números decimais. 
+
+"Na representação das coordenadas geográficas em grau, minuto e segundo, o grau e o minuto são valores inteiros, enquanto o segundo pode ser representado como um número decimal (float). Essa é uma convenção adotada para expressar a precisão da medida das coordenadas geográficas.
+
+Aqui está a estrutura geral das coordenadas geográficas em grau, minuto e segundo:
+
+- Grau: Representa a unidade principal da medida de uma coordenada geográfica. É uma unidade de medida angular que varia de 0° a 90° para a latitude (Norte ou Sul) e de 0° a 180° para a longitude (Leste ou Oeste). Os valores dos graus são sempre inteiros.
+
+- Minuto: Representa a fração de grau. Um minuto corresponde a 1/60 do valor de um grau. Os valores dos minutos também são inteiros.
+
+- Segundo: Representa uma subdivisão ainda menor de um minuto. Um segundo corresponde a 1/60 do valor de um minuto. Os valores dos segundos podem ser representados como números decimais (float) para maior precisão.
+
+A inclusão dos segundos como números decimais permite uma medida mais precisa das coordenadas geográficas, especialmente em casos em que a localização precisa ser determinada com maior precisão. Essa precisão adicional é especialmente útil quando se trabalha com sistemas de posicionamento global, como o GPS.
+
+No entanto, é importante observar que, em algumas representações e convenções específicas, os segundos podem ser expressos como inteiros em vez de números decimais, dependendo do contexto ou das normas adotadas.
+
+Portanto, a estrutura com grau e minuto como inteiros e segundo como número decimal (float) é uma convenção amplamente utilizada para expressar as coordenadas geográficas com a devida precisão."
+
+	a) 14º49´(esses possuem acento ´) 30.0”
+	b1) 17 (0-90/180º, inteiro)° 9 (minuto, 0-60) . (este é um separador, e não um valor decimal do minuto) 4 81 (o segundo é de 4.81, e é visto como decimal apesar de estar sem o ponto ou vírgula)'S	
+	(\d{1,3})[º] (\d{1,2}) [''"´\.] (\d+)
+	 
+	b2) 48° 9.5 44 (nesse caso, o segundo é decimal de 5.44, pois está separado por um whitespace)' O
+	
+		17° 4’’ 7.72’’ S	48° 22’’0.12’ O
+		16° 56.909'S	48° 18.641'O
+
+
+	4 - transformar todos os valores em negativos
+	
+	
+
+
+
+
+
+
+
+
+

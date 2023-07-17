@@ -1,12 +1,13 @@
-#####################################################################
-######################## MUSICAL SCORE ##############################
-#####################################################################
+{
+    "//": "########### MUSICAL SCORE #############"
+}
 
-#It's so helpful: https://learnbyexample.github.io/tips/python-tip-12/
-#It's helpful two: https://www.raulmelo.dev/en/til/how-to-ignore-string-if-contains-certain-match-using-regex
-#If Else: https://www.regular-expressions.info/conditional.html
-#It's helpful also: https://www.pythontutorial.net/python-regex/python-regex-lookahead/
-
+{ 
+    "//": "It's so helpful: https://learnbyexample.github.io/tips/python-tip-12/",
+    "//":  "It's helpful two: https://www.raulmelo.dev/en/til/how-to-ignore-string-if-contains-certain-match-using-regex",
+    "//": "If Else: https://www.regular-expressions.info/conditional.html",
+    "//": "It's helpful also: https://www.pythontutorial.net/python-regex/python-regex-lookahead/"
+}
 
 companies = [
     "Bureau Veritas",                     
