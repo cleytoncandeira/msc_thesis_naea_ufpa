@@ -59,6 +59,9 @@ This is where I currently find myself in my research, at the center of a challen
 
 I feel like a detective unraveling hidden secrets within the data and facing the challenges that arise along the way. But I am determined to get to the heart of the matter and provide a comprehensive and reliable set of information. 🕵️‍♂️🔐
 
+
+![RTRS_LOGO](https://www.solidaridadnetwork.org/wp-content/uploads/migrated-files/news/Screen%20Shot%202020-04-09%20at%2012.11.27%20PM_0.jpg)
+
 The investigation continues, and I am eager to unravel each mystery and bring forth a deep understanding of this intricate landscape of certified soy farms in Brazil. 🌱🔬💼
 
 
