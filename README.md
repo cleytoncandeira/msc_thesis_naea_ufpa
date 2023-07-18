@@ -41,3 +41,25 @@ This daring feat allowed me to have a treasure trove of data at my fingertips, a
 
 ### Segunda Etapa / Second Step 
 
+Após incansáveis meses de dedicação, finalmente consegui estruturar uma base de dados abrangente usando expressões regulares. 🕵️‍♀️💻 O resultado final da primeira etapa metodológica é digno de um verdadeiro investigador: as bases de dados Brazil.csv (contendo todas as informações das fazendas de soja certificadas no Brasil) e Farm_Branches.csv (com a localização das fazendas filiais), ambas guardadas no subdiretório "csv_files". 📂🌱
+
+No entanto, a jornada não para por aí. A segunda etapa envolve uma tarefa desafiadora: limpar esses dados e preencher os valores ausentes. 😰💼 Este é um trabalho minucioso e meticuloso, pois os missing_values não podem ser resolvidos apenas com métodos estatísticos. Preciso criar novos objetos de programação para preencher as lacunas restantes e garantir que tenhamos um conjunto completo de informações. 🔎🔍
+
+É aqui que me encontro até agora na minha pesquisa, no centro de uma missão de investigação desafiadora, onde cada detalhe é crucial. A cada linha de código, cada valor preenchido, estou construindo um quebra-cabeça complexo que revelará insights valiosos sobre a certificação da soja no Brasil. 💡📊
+
+Sinto-me como um detetive desvendando segredos ocultos em meio aos dados e enfrentando os desafios que surgem pelo caminho. Mas estou determinado a chegar ao cerne da questão e fornecer um conjunto de informações completo e confiável. 🕵️‍♂️🔐
+
+A investigação continua, e estou ansioso para desvendar cada mistério e trazer à tona uma compreensão aprofundada desse complexo cenário das fazendas de soja certificadas no Brasil. 🌱🔬💼
+
+After tireless months of dedication, I have finally managed to structure a comprehensive database using regular expressions. 🕵️‍♀️💻 The final outcome of the first methodological step is worthy of a true investigator: the Brazil.csv database (containing all the information on certified soy farms in Brazil) and the Farm_Branches.csv (featuring the locations of their branch farms), both stored in the "csv_files" subdirectory. 📂🌱
+
+However, the journey doesn't end there. The second step involves a challenging task: cleaning up this data and filling in the missing values. 😰💼 It is a meticulous and meticulous job, as missing values cannot be resolved solely through statistical methods. I need to create new programming objects to fill in the remaining gaps and ensure we have a complete set of information. 🔎🔍
+
+This is where I currently find myself in my research, at the center of a challenging investigative mission where every detail is crucial. With each line of code, each value filled in, I am constructing a complex puzzle that will reveal valuable insights about soy certification in Brazil. 💡📊
+
+I feel like a detective unraveling hidden secrets within the data and facing the challenges that arise along the way. But I am determined to get to the heart of the matter and provide a comprehensive and reliable set of information. 🕵️‍♂️🔐
+
+The investigation continues, and I am eager to unravel each mystery and bring forth a deep understanding of this intricate landscape of certified soy farms in Brazil. 🌱🔬💼
+
+
+
