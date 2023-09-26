@@ -27,42 +27,30 @@ So, join me on this critical journey as we closely examine the effects of privat
 
 ### Primeira Etapa / First Step
 
-A primeira etapa metodológica da minha pesquisa foi para baixo na toca do coelho 🐇✨ Envolveu a criação de um banco de dados estruturado de relatórios de auditoria, e tudo aconteceu no místico reino do diretório "1_DataSource". 📂✨ Nessa terra encantada, eu criei um inteligente bot de _web scraping_ que trabalhou sua magia para baixar automaticamente todos os relatórios de auditoria disponíveis (_.pdf_) até abril de 2023. 🧙‍♂️💻
+O primeiro passo da minha pesquisa envolveu a criação de um banco de dados de relatórios de auditoria. Isso aconteceu dentro do diretório "1_DataSource" 📂✨ Nesse local, criei um bot de web scraping que baixou automaticamente todos os relatórios de auditoria disponíveis em formato .pdf até abril de 2023. 🧙‍♂️💻
 
-Com um simples movimento de sua varinha digital, o bot coletou as informações que precisávamos, garantindo que nosso tão almejado banco de dados tivesse todos os seus recursos necessários prontos. 🌟🕸️
+O bot coletou as informações necessárias, garantindo que nosso banco de dados estivesse pronto com todos os recursos essenciais. Isso me deu acesso a uma grande quantidade de dados organizados e cheios de potencial💡 Logo, essa primeira etapa do web scraping foi apenas o começo. 🌟🕸️
 
-Essa ousada façanha me permitiu ter um tesouro de dados ao alcance das mãos, tudo organizado de forma impecável e repleto de insights potenciais. 💎💡 A aventura do web scraping foi apenas o começo. 
+The first step of my research involved creating a database of audit reports. This took place within the "1_DataSource" directory 📂✨. In this location, I developed a web scraping bot that automatically downloaded all available audit reports in .pdf format until April 2023 🧙‍♂️💻.
 
-The first methodological step of my research was going down the rabbit hole 🐇✨ It involved creating a structured database of audit reports, and it all happened in the mystical realm of the "1_DataSource" directory. 📂✨ In this enchanted land, I created a clever web scraping bot that worked its magic to automatically download all the available audit reports (.pdf) until April 2023. 🧙‍♂️💻
-
-With a flick of its digital wand, the bot collected the information we needed, ensuring that our coveted database had all its necessary resources ready. 🌟🕸️
-
-This daring feat allowed me to have a treasure trove of data at my fingertips, all organized impeccably and brimming with potential insights. 💎💡 The web scraping adventure was just the beginning.
+The bot gathered the necessary information, ensuring that our database was ready with all essential resources. This provided me access to a substantial amount of well-organized data brimming with potential 💡. Therefore, this initial web scraping stage was just the beginning 🌟🕸️.
 
 ### Segunda Etapa / Second Step 
 
-Após incansáveis meses de dedicação, finalmente consegui estruturar uma base de dados abrangente usando expressões regulares. 🕵️‍♀️💻 O resultado final da primeira etapa metodológica é digno de um verdadeiro investigador: as bases de dados Brazil.csv (contendo todas as informações das fazendas de soja certificadas no Brasil) e Farm_Branches.csv (com a localização das fazendas filiais), ambas guardadas no subdiretório "csv_files". 📂🌱
+Após meses de dedicação incansável, consegui estruturar com sucesso um banco de dados abrangente usando expressões regulares. 🕵️‍♀️💻 O resultado da primeira etapa metodológica é o Brazil.csv (contendo todas as informações sobre fazendas de soja certificadas no Brasil) e o Farm_Branches.csv (com informações sobre a localização das filiais das fazendas), ambos armazenados no subdiretório "csv_files". 📂🌱
 
-No entanto, a jornada não para por aí. A segunda etapa envolve uma tarefa desafiadora: limpar esses dados e preencher os valores ausentes. 😰💼 Este é um trabalho minucioso e meticuloso, pois os missing_values não podem ser resolvidos apenas com métodos estatísticos. Preciso criar novos objetos de programação para preencher as lacunas restantes e garantir que tenhamos um conjunto completo de informações. 🔎🔍
+A segunda etapa envolve uma tarefa desafiadora: limpar esses dados e preencher os valores ausentes 😰💼 É um trabalho meticuloso e detalhado, pois os valores ausentes não podem ser resolvidos apenas com métodos estatísticos. Preciso criar novos objetos de programação para preencher as lacunas restantes e garantir que tenhamos um conjunto completo de informações. 🔎🔍
 
-É aqui que me encontro até agora na minha pesquisa, no centro de uma missão de investigação desafiadora, onde cada detalhe é crucial. A cada linha de código, cada valor preenchido, estou construindo um quebra-cabeça complexo que revelará insights valiosos sobre a certificação da soja no Brasil. 💡📊
+É aqui que me encontro atualmente na minha pesquisa, no meio de uma missão investigativa exigente onde cada detalhe importa. Com cada linha de código e cada valor preenchido, estou montando um quebra-cabeça complexo que revelará insights valiosos sobre a certificação de soja no Brasil. 💡📊
 
-Sinto-me como um detetive desvendando segredos ocultos em meio aos dados e enfrentando os desafios que surgem pelo caminho. Mas estou determinado a chegar ao cerne da questão e fornecer um conjunto de informações completo e confiável. 🕵️‍♂️🔐
+A investigação continua, e aguardo com expectativa desvendar cada mistério e obter uma compreensão profunda desse cenário complexo das fazendas de soja certificadas no Brasil. 🌱🔬💼
 
-A investigação continua, e estou ansioso para desvendar cada mistério e trazer à tona uma compreensão aprofundada desse complexo cenário das fazendas de soja certificadas no Brasil. 🌱🔬💼
+After months of tireless dedication, I successfully structured a comprehensive database using regular expressions. 🕵️‍♀️💻 The result of the first methodological step is Brazil.csv (containing all information about certified soybean farms in Brazil) and Farm_Branches.csv (with information about the locations of farm branches), both stored in the "csv_files" subdirectory. 📂🌱
 
-After tireless months of dedication, I have finally managed to structure a comprehensive database using regular expressions. 🕵️‍♀️💻 The final outcome of the first methodological step is worthy of a true investigator: the Brazil.csv database (containing all the information on certified soy farms in Brazil) and the Farm_Branches.csv (featuring the locations of their branch farms), both stored in the "csv_files" subdirectory. 📂🌱
+The second step involves a challenging task: cleaning this data and filling in the missing values 😰💼. It's a meticulous and detailed job because missing values can't be resolved with statistical methods alone. I need to create new programming objects to fill the remaining gaps and ensure we have a complete set of information. 🔎🔍
 
-However, the journey doesn't end there. The second step involves a challenging task: cleaning up this data and filling in the missing values. 😰💼 It is a meticulous and meticulous job, as missing values cannot be resolved solely through statistical methods. I need to create new programming objects to fill in the remaining gaps and ensure we have a complete set of information. 🔎🔍
+This is where I currently find myself in my research, in the midst of a demanding investigative mission where every detail matters. With every line of code and every value filled, I'm piecing together a complex puzzle that will unveil valuable insights into soybean certification in Brazil. 💡📊
 
-This is where I currently find myself in my research, at the center of a challenging investigative mission where every detail is crucial. With each line of code, each value filled in, I am constructing a complex puzzle that will reveal valuable insights about soy certification in Brazil. 💡📊
-
-I feel like a detective unraveling hidden secrets within the data and facing the challenges that arise along the way. But I am determined to get to the heart of the matter and provide a comprehensive and reliable set of information. 🕵️‍♂️🔐
-
-
-![RTRS_LOGO](https://www.solidaridadnetwork.org/wp-content/uploads/migrated-files/news/Screen%20Shot%202020-04-09%20at%2012.11.27%20PM_0.jpg)
-
-The investigation continues, and I am eager to unravel each mystery and bring forth a deep understanding of this intricate landscape of certified soy farms in Brazil. 🌱🔬💼
-
+The investigation continues, and I look forward to unraveling each mystery and gaining a deep understanding of this intricate landscape of certified soybean farms in Brazil. 🌱🔬💼
 
 
