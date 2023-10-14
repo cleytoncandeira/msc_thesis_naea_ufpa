@@ -1,21 +1,21 @@
 ,Organization,Name,Farm,Address,Latitude,Longitude
-0,Cataratas do Iguaçu Produtos Orgânicos,Cataratas do Iguaçu Produtos Orgânicos LTDA - Fazenda Santa Barbara,Fazenda Santa Bárbara,Povoado Venda Seca – Goiatuba/Goiás,,
+0,Cataratas do Iguaçu Produtos Orgânicos,Cataratas do Iguaçu Produtos Orgânicos LTDA - Fazenda Santa Barbara,Fazenda Santa Bárbara,Povoado Venda Seca – Goiatuba/Goiás,"-17.976491821986123, -49.65875427640442",
 1,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays” - Fapcen Grupo 4,Condomínio Milla,"Rod. PI 392, km 45, Baixa Grandedo Ribeiro/PI",-8.248144444444444,-45.254925
 2,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays” - Fapcen Grupo 4,Fazenda Boa Esperança,"Rod. Transcerrado, km 51,Uruçui/PI",-8.336391666666668,-44.418369444444444
 3,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays” - Fapcen Grupo 4,Fazenda Itapuá,"MA 006, Transpenitente, TassoFragoso/MA",-8.878375,-46.06551111111111
 4,Fazenda Santa Cruz,Fazenda Santa Cruz,Fazenda Santa Cruz,,-21.64082748233687,-45.80302
 5,Serra da Pintura,Serra da Pintura,Serra da Pintura,Santa Fé de Goías/GO,-15.569666666666667,-51.20858333333334
-6,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA CACHOEIRA,Orizona sentido povoado da Cachoeira no km 22 a esquerda onde localiza-se o imóvel. Orizona-GO (Brasil),,
+6,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA CACHOEIRA,Orizona sentido povoado da Cachoeira no km 22 a esquerda onde localiza-se o imóvel. Orizona-GO (Brasil),-16.96518361395266, -48.14075401073855
 7,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA MORADA DO MUTUM,Orizona GO-219 sentido Distrito de Egerineu Teixeira no km 07 a direita onde localiza-se o imóvel. Orizona-GO (Brasil),,
 8,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA AREIAS DE BAIXO,Orizona GO-219 sentido Montes Claros após o povoado seguir por mais 2 km virar a esquerda onde se localiza o imóvel(Faz. Areias de Baixo). Orizona-GO (Brasil),,
 9,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA MORRO ALTO,Orizona GO-219 sentido Distrito de Egerineu Teixeira no km 08 a esquerda onde localiza- se o imóvel. Orizona-GO (Brasil),,
-10,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA TAQUARAL DE CIMA,Orizona/Caraiba GO 330 após 20 km virar a direita e seguir por mais 4 km até o imóvel.Vianopolis-GO (Brasil),,
+10,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA TAQUARAL DE CIMA,Orizona/Caraiba GO 330 após 20 km virar a direita e seguir por mais 4 km até o imóvel.Vianopolis-GO (Brasil),-16.936003708292695,-48.291935761095644
 11,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA ENGENHO VELHO,Estrada Silvânia S Miguel Passa Quatro km 15,,
 12,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA MUCAMBO,GO 437 KM 24 A DREITA 6KM,,
-13,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA RIO DO PEIXE,Rod. GO 330 Km 109 a direita 8 km,,
-14,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA PONTE ALTA,"GO 330 sentido Leopoldo de Bulhões trevo sentido a Cruzeiro km12, 2 km a esquerda",,
+13,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA RIO DO PEIXE,Rod. GO 330 Km 109 a direita 8 km,-14.482765549430829, -48.63779947532951
+14,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA PONTE ALTA,"GO 330 sentido Leopoldo de Bulhões trevo sentido a Cruzeiro km12, 2 km a esquerda",-15.875724813297035,-51.772552603436296
 15,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA ENGENHO VELHO,Estrada Silvânia S Miguel Passa Quatro km 16,,
-16,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA SANTA RITA,GO 330 KM 212 A ESQUERDA 14 KM,,
+16,Tecnosol Consultoria Rural,Tecnosol Consultoria Rural LTDA,FAZENDA SANTA RITA,GO 330 KM 212 A ESQUERDA 14 KM,-15.428777726417373,-51.603984882034545
 17,Agropecuaria Andrade,Agropecuaria Andrade,FAZENDA ALVORADA,,-52.72437222222222,-18.490655555555556
 18,Agropecuaria Andrade,Agropecuaria Andrade,ESTANCIA ETANER,,-52.828250000000004,-18.738244444444444
 19,Agropecuaria Andrade,Agropecuaria Andrade,FAZENDA SANTO ANTONIO,,-54.79999166666666,-20.387655555555554
@@ -175,7 +175,7 @@
 173,Archer-Daniels-Midland Company (ADM),ADM do Brasil - Fazenda Perdigão,Fazenda Perdigão,"Partindo de São Gabriel do Oeste pelo sentido areado, seguindo a sgo 066, após o rio Coxim seguir por 700 metros. Entrar na estrada a direita e seguir por mais 2 km até chegar a sede da fazenda Bela Miragem, entrar a esquerda e seguir por mais 500 metros, após o córrego Estiva chega a sede da fazenda.",-19.3549,-54.55269444444444
 174,Louis Dreyfus Company ,Louis Dreyfus Company – Bom Futuro Agrícola LTDA,Fazenda Serra Azul,"Estrada do Marzagao, Rosário do Oeste/MT",-55646,-14629
 175,Louis Dreyfus Company ,Louis Dreyfus Company – Bom Futuro Agrícola LTDA,Fazenda São Miguel,"Fazenda São Miguel, Zona rural, Campo Verde/MT",-54983,-15356
-176,Louis Dreyfus Company ,Louis Dreyfus Company – Bom Futuro Agrícola LTDA,Fazenda Itaipu,BR 364 KM-260 Vicinal a direita + 55km,,
+176,Louis Dreyfus Company ,Louis Dreyfus Company – Bom Futuro Agrícola LTDA,Fazenda Itaipu,BR 364 KM-260 Vicinal a direita + 55km,"-13.783623304017105, -56.96180390749444",
 177,Louis Dreyfus Company ,Louis Dreyfus Company – Bom Futuro Agrícola LTDA,Fazenda Vovô Ernesto,BR 163 km-665 + 17km a direita sentido Nova Mutum e Lucas do Rio Verde – Nova Mutum/MT,-55898,-13322
 178,Associação Clube Amigos da Terra ,Associação Clube Amigos da Terra – CAT Sorriso,Fazenda Alegria,"BR 163, Km 720, Sorriso-MT - Brasil",-12.804975,-55.776375
 179,Associação Clube Amigos da Terra ,Associação Clube Amigos da Terra – CAT Sorriso,Fazenda Berrante de Ouro,"MT 487, Km 23 – Gleba Barreiro, Sorriso-MT – Brasil",-12.085497222222223,-55.66502777777777
@@ -240,30 +240,30 @@
 238,Amaggi,Amaggi Exp Imp Ltda–Grupo Parecis II,Fazenda Siriema,"Rodovia MT 235, km 137 entrando a direita percorre-se uma distância de 25 quilômetros – Sapezal/MT",-13.3592,-58.8949
 239,Amaggi,Amaggi Exp Imp Ltda–Grupo Parecis II,Fazenda Tupancy,"Rodovia MT 235, Km 100 + 15 Km à direita – Sapezal/MT",-13.4602,-58.5877
 240,Amaggi,Amaggi Exp Imp Ltda–Grupo Parecis II,Fazenda Zanella II,Linha Alto Juruena - Campos de Julio/MT,-13.9476,-59.2014
-241,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda União,"Rodovia BR 174, Km 30, Zona Rural, Vilhena/RO.",,
+241,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda União,"Rodovia BR 174, Km 30, Zona Rural, Vilhena/RO.","-12.488199650969268, -60.00359198043838",
 242,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Brasil,Barra Do Garças/MT,-15.000061111111112,-52.28388888888889
 243,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Santa Terezinha,Nova Xavantina/MT,-15.000066666666667,-52.52565555555555
 244,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Querência,Tangará da Serra/MT,-14.487033333333333,-58.35509444444445
 245,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Roncador,Querência/MT,-12.144444444444444,-52.24888888888889
 246,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Casa Real,"Rodovia Br 020, Km 70 + 70 Km À Esquerda, São Desidério/BA",,
-247,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Erechim,"Rod Br 020, Km 113 + 23 Km À Direita, Sentido Lem-Brasília, São Desidério/BA",,
-248,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Cruzeiro do Sul,"Rod Mt 130 + 140 Km Sentido Santiago Do Norte, Paranatinga/MT",,
-249,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Novo Rumo,"Rod Naviraí - Porto Caiua, Km 37, Sede B, Naviraí/MS",,
-250,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda São Francisco,"Rodovia Br 020, Km 91, São Desidério/BA",,
+247,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Erechim,"Rod Br 020, Km 113 + 23 Km À Direita, Sentido Lem-Brasília, São Desidério/BA","-13.009090636758199, -46.1754291611641",
+248,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Cruzeiro do Sul,"Rod Mt 130 + 140 Km Sentido Santiago Do Norte, Paranatinga/MT","-13.445963632631212, -54.28209040686506",
+249,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Novo Rumo,"Rod Naviraí - Porto Caiua, Km 37, Sede B, Naviraí/MS","-22.996481883841412, -53.86491556093154",
+250,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda São Francisco,"Rodovia Br 020, Km 91, São Desidério/BA","-12.050938793571582, -44.46166953452224",
 251,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Paraná,Brasnorte/MT,-11.684444444444445,-58.230000000000004
-252,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Bom Jesus,"Rod Br 364, Km 126, Pedra Preta/MT",,
-253,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Santa Terezinha,Grupo Bom Jesus Agropecuária Ltda,,
-254,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Santa Maria ,"Fazenda Santa Maria Lote 11 E, Formosa Do Rio Preto/BA",,
-255,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Reata,"Rod Mt 170 - Km 75 - Sucuruina, Sn, Campo Novo Dos Parecis/MT",,
-256,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Beltrão Terra Forte,"Rod Br 163, Km 774, A Esquerda + 20km, Coxim/MS",,
+252,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Bom Jesus,"Rod Br 364, Km 126, Pedra Preta/MT","-16.800341398781303, -54.10324365989366",
+253,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Santa Terezinha,Grupo Bom Jesus Agropecuária Ltda,"-13.83737582064132, -56.074725644280534",
+254,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Santa Maria ,"Fazenda Santa Maria Lote 11 E, Formosa Do Rio Preto/BA","-10.734105388218051, -45.70805048143409",
+255,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Reata,"Rod Mt 170 - Km 75 - Sucuruina, Sn, Campo Novo Dos Parecis/MT","-12.806630315054907, -58.09559505294213",
+256,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Beltrão Terra Forte,"Rod Br 163, Km 774, A Esquerda + 20km, Coxim/MS","-18.158946131833186, -54.72201986877579",
 257,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Santa Maria,São Felix Do Araguaia /MT,-11.170416666666666,-52.818333333333335
-258,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Santo Expedito,"Rodovia Br 242, Km 45, Luís Eduardo Magalhães/BA",,
-259,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Centúria,"Rod Ba 459, Km 35, Formosa Do Rio Preto/BA",,
-260,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Sagarana,"Rod Br 020, Km 21, Correntina/BA",,
-261,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Timbaúba,"Rod Br 020, Km 175, Luís Eduardo Magalhães/BA",,
-262,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Acalanto,"Rod Br 020, Km 425/110, São Desidério/BA",,
-263,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Ventura,"Rod BR 020, Km 408/94, São Desidério/BA",,
-264,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Querubim,"Rod BR 020, Km 450/135, São Desidério/BA",,
+258,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Santo Expedito,"Rodovia Br 242, Km 45, Luís Eduardo Magalhães/BA","-12.129340930818875, -46.16087419001574",
+259,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Centúria,"Rod Ba 459, Km 35, Formosa Do Rio Preto/BA","-11.232676662796017, -46.04589526099684",
+260,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Sagarana,"Rod Br 020, Km 21, Correntina/BA","-13.761221960734343, -46.162732789986194",
+261,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Timbaúba,"Rod Br 020, Km 175, Luís Eduardo Magalhães/BA","-12.519093845285648, -46.15292044768052",
+262,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Acalanto,"Rod Br 020, Km 425/110, São Desidério/BA","-12.96254087761786, -45.982461303493444",
+263,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Ventura,"Rod BR 020, Km 408/94, São Desidério/BA","-13.134094505868115, -46.16578813711325",
+264,Bunge,Bunge Alimentos - Grupo de Productores Bunge,Fazenda Querubim,"Rod BR 020, Km 450/135, São Desidério/BA","-12.770573807156188, -46.03155616830487",
 265,Fazenda Pirulito,Inacio Carlos Urban e outros - (Fazenda Pirulito),Fazenda Pirulito,"BR 365, Km 324, São Gonçalo do Abaeté - MG, CEP: 38790-000 – Brasil",-  18.302384,-45.888822
 266,Fazenda São João Batista ,Fazenda São João Batista ,Fazenda São João Batista,"Rodovia BR 070 Km 372, + 12 Km a Esquerda.",-15404,-55.123111111111115
 267,Fazenda Santa Cruz,Fazenda Santa Cruz,Fazenda Santa Cruz,"Rua Luiz Carlos Zani, Nº 365 – A, Jardim Boa Vista – Ibiporã – PR",-21.64082748233687,-45.80302

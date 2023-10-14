@@ -1,60 +1,125 @@
+import requests
 import pandas as pd
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
-from bs4 import BeautifulSoup
-from time import sleep
 from pathlib import Path
+from PyPDF2 import PdfFileReader
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.by import By 
+from selenium.webdriver.chrome.service import Service
+from time import sleep
 
-class UFPAScraper:
-    def __init__(self, chromedriver_path):
-        self.chromedriver_path = chromedriver_path
-        self.browser = self.make_chrome_browser()
+############################################################
+############# HERE BEGINS THE OPERA ########################
+############################################################
 
-    def make_chrome_browser(self):
-        chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument("--headless")  # Para executar em segundo plano sem abrir uma janela do navegador
-        chrome_service = Service(executable_path=str(self.chromedriver_path))
-        browser = webdriver.Chrome(service=chrome_service, options=chrome_options)
+class BotDriver:
+
+    def make_chrome_browser(path, *options: str) -> webdriver.Chrome:
+        
+        chrome_options = webdriver.ChromeOptions()  #create chrome options obj
+        
+        if options is not None:
+            for option in options:
+                chrome_options.add_argument(option) #type: ignore
+            
+        chrome_service = Service(               
+            executable_path = str(path),
+        )
+        
+        browser = webdriver.Chrome(
+            service = chrome_service, 
+            options = chrome_options
+        )
+        
         return browser
 
-    def extract_theses_info(self, start_year, end_year):
-        thesis_data = []
+    def extract_general_info(html_tags, audits_r):
 
-        for year in range(start_year, end_year + 1):
-            url = f"https://www.ppgdstu.propesp.ufpa.br/index.php/br/teses-e-dissertacoes/teses?limit=10&start=0&year={year}"
-            self.browser.get(url)
-            sleep(2)  # Aguarda carregar a página
+            names, country, year, links = ([] for i in range(4))
 
-            html = BeautifulSoup(self.browser.page_source, 'html.parser')
-            theses = html.find_all("div", class_="item-page")
+            for html_tag in html_tags:
+                for audit in audits_r:
+                    found = audit.find('div', attrs = {'class':html_tag})
+    
+                    if html_tag.endswith('nombre_empresa'):
+                        names.append(found.text)
+                    elif html_tag.endswith('pais'):
+                        country.append(found.text)
+                    else:
+                        year.append(found.text)
 
-            for thesis in theses:
-                author = thesis.find("p", class_="teses-autor").text.strip()
-                title = thesis.find("h2", class_="item-title").text.strip()
-                advisor = thesis.find("p", text="Orientador:").find_next("p").text.strip()
+            #links to download audit reports             
+            a_tags = audits_r.find_all('a', href = True)
+            links = [tag['href'] for tag in a_tags]      
 
-                thesis_info = {
-                    "Year": year,
-                    "Author": author,
-                    "Title": title,
-                    "Advisor": advisor,
-                }
+            #create a data frame obj
 
-                thesis_data.append(thesis_info)
+            certified_producers_rtrs = pd.DataFrame(list(zip(
+                names[1:len(names)],
+                country[1:len(country)],
+                year[1:len(year)],
+                links)), 
+                columns = ['Names', 'Country', 'Year', 'Links'])
+            
+            certified_producers_rtrs['Year'] = pd.to_numeric(certified_producers_rtrs['Year'])
+            certified_producers_rtrs.to_csv(ROOT_FOLDER / 'certified_producers_rtrs.csv')
+        
+            return certified_producers_rtrs, links
 
-        return thesis_data
+    def download_all_reports(links):
+        i = 0
 
-    def scrape_and_save_theses(self, start_year, end_year, output_csv):
-        thesis_data = self.extract_theses_info(start_year, end_year)
+        for link in links:
 
-        df = pd.DataFrame(thesis_data)
-        df.to_csv(output_csv, index=False)
+            i += 1
+            response = requests.get(link)
 
-if __name__ == "__main__":
-    ROOT_FOLDER = Path(__file__).parent
-    CHROME_DRIVER_PATH = ROOT_FOLDER / 'drivers' / 'chromedriver.exe'
-    OUTPUT_CSV = ROOT_FOLDER / 'teses_ufpa.csv'
+            naming_files = 'audit_report_rtrs' + str(i) + '.pdf'
+            files = ROOT_FOLDER / 'audit_reports' / naming_files
+            files.touch()
 
-    scraper = UFPAScraper(CHROME_DRIVER_PATH)
-    scraper.scrape_and_save_theses(2003, 2023, OUTPUT_CSV)
+            with open(files, 'wb') as PdfObj:
+                PdfObj.write(response.content)
+
+                print("File ", i, " downloaded")
+        return print("All PDF files downloaded!")
+
+########################################################################
+#################### ACTION! ###########################################
+########################################################################
+
+ROOT_FOLDER = Path(__file__).parent
+
+CHROME_DRIVER_PATH = ROOT_FOLDER / 'drivers' / 'chromedriver'
+
+html_tags = ['vc_col-md-6 vc_col-xs-12 zyxaudit-nombre_empresa',
+                    'vc_col-md-2 vc_col-xs-12 zyxaudit-pais', 
+                    'vc_col-md-2 vc_col-xs-12 zyxaudit-anio', ]
+
+#options = 'user-data-dir=Perfil'
+options = ()
+
+browser = BotDriver.make_chrome_browser(CHROME_DRIVER_PATH, *options)
+        
+browser.get('https://responsiblesoy.org/public-audit-reports?lang=en')
+
+browser.find_element(By.CLASS_NAME, 'zyxaudit-btn_buscar').click()
+
+sleep(2)
+
+#Integrate bs4 and Selenium -- When Vegeta and Goku merge!
+
+html = BeautifulSoup(browser.page_source, 'html.parser')
+
+browser.quit()
+
+audits_r = html.find('div', 
+            attrs={'class': 'zyxaudit-buscador_results vc_col-xs-12 col-xs-12 zyxaudit-results-active'})
+
+certified_producers_rtrs, links = BotDriver.extract_general_info(html_tags, audits_r)
+
+if __name__ == '__main__':  
+
+    BotDriver.download_all_reports(links) #Problem: it's so lazy! 
+    
+########################################################################################################
