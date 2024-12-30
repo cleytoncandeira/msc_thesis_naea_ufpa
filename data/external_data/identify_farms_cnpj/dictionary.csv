@@ -1,0 +1,396 @@
+id_tabela,nome_coluna,chave,cobertura_temporal,valor
+empresas,porte,0,(1),Não Informado
+empresas,porte,1,(1),Micro Empresa
+empresas,porte,3,(1),Empresa de Pequeno Porte
+empresas,porte,5,(1),Demais
+estabelecimentos,id_pais,0,(1),COLIS POSTAUX
+estabelecimentos,id_pais,13,(1),AFEGANISTAO
+estabelecimentos,id_pais,17,(1),ALBANIA
+estabelecimentos,id_pais,20,(1),"ALBORAN-PEREJIL,ILHAS"
+estabelecimentos,id_pais,23,(1),ALEMANHA
+estabelecimentos,id_pais,25,(1),"ALEMANHA, REP. DEMOCRATICA DA"
+estabelecimentos,id_pais,31,(1),BURKINA FASO
+estabelecimentos,id_pais,37,(1),ANDORRA
+estabelecimentos,id_pais,40,(1),ANGOLA
+estabelecimentos,id_pais,41,(1),ANGUILLA
+estabelecimentos,id_pais,43,(1),ANTIGUA E BARBUDA
+estabelecimentos,id_pais,47,(1),ANTILHAS HOLANDESAS
+estabelecimentos,id_pais,53,(1),ARABIA SAUDITA
+estabelecimentos,id_pais,59,(1),ARGELIA
+estabelecimentos,id_pais,63,(1),ARGENTINA
+estabelecimentos,id_pais,64,(1),"ARMENIA, REPUBLICA DA"
+estabelecimentos,id_pais,65,(1),ARUBA
+estabelecimentos,id_pais,69,(1),AUSTRALIA
+estabelecimentos,id_pais,72,(1),AUSTRIA
+estabelecimentos,id_pais,73,(1),"AZERBAIJAO, REPUBLICA DO"
+estabelecimentos,id_pais,77,(1),BAHAMAS
+estabelecimentos,id_pais,80,(1),"Bahrein, Ilhas"
+estabelecimentos,id_pais,81,(1),BANGLADESH
+estabelecimentos,id_pais,83,(1),BARBADOS
+estabelecimentos,id_pais,85,(1),BIELO-RUSSIA (BELARUS) REP. DA
+estabelecimentos,id_pais,87,(1),BELGICA
+estabelecimentos,id_pais,88,(1),BELISE
+estabelecimentos,id_pais,90,(1),BERMUDAS
+estabelecimentos,id_pais,93,(1),Mianmar (Birmânia)
+estabelecimentos,id_pais,97,(1),BOLIVIA
+estabelecimentos,id_pais,98,(1),Bosnia-Herzegovina (Republica da)
+estabelecimentos,id_pais,100,(1),ZONA FRANCA DE MANAUS
+estabelecimentos,id_pais,101,(1),BOTSUANA
+estabelecimentos,id_pais,105,(1),BRASIL
+estabelecimentos,id_pais,106,(1),BRASIL (AFRETAMENTO)
+estabelecimentos,id_pais,108,(1),BRUNEI
+estabelecimentos,id_pais,111,(1),BULGARIA
+estabelecimentos,id_pais,115,(1),BURUNDI
+estabelecimentos,id_pais,119,(1),BUTAO
+estabelecimentos,id_pais,127,(1),"Cabo Verde,República de"
+estabelecimentos,id_pais,131,(1),CACHEMIRA
+estabelecimentos,id_pais,137,(1),"CAYMAN,ILHAS"
+estabelecimentos,id_pais,141,(1),CAMBOJA
+estabelecimentos,id_pais,145,(1),CAMAROES
+estabelecimentos,id_pais,149,(1),CANADA
+estabelecimentos,id_pais,152,(1),CANAL (ILHAS NORMANDAS)
+estabelecimentos,id_pais,153,(1),"CASAQUISTAO, REPUBLICA DO"
+estabelecimentos,id_pais,154,(1),CATAR
+estabelecimentos,id_pais,158,(1),CHILE
+estabelecimentos,id_pais,160,(1),"China, República Popular"
+estabelecimentos,id_pais,161,(1),FORMOSA (PROVINCIA DA CHINA)
+estabelecimentos,id_pais,163,(1),CHIPRE
+estabelecimentos,id_pais,165,(1),"COCOS (KEELING),ILHAS"
+estabelecimentos,id_pais,169,(1),COLOMBIA
+estabelecimentos,id_pais,173,(1),"COMORES, ILHAS"
+estabelecimentos,id_pais,177,(1),CONGO
+estabelecimentos,id_pais,183,(1),"COOK, ILHAS"
+estabelecimentos,id_pais,187,(1),"Coréia, Rep.Pop.Democrática"
+estabelecimentos,id_pais,190,(1),COREIA REPUBLICA DA
+estabelecimentos,id_pais,193,(1),COSTA DO MARFIM
+estabelecimentos,id_pais,195,(1),"CROACIA, REPUBLICA DA"
+estabelecimentos,id_pais,196,(1),COSTA RICA
+estabelecimentos,id_pais,198,(1),COVEITE
+estabelecimentos,id_pais,199,(1),CUBA
+estabelecimentos,id_pais,229,(1),BENIN
+estabelecimentos,id_pais,232,(1),DINAMARCA
+estabelecimentos,id_pais,235,(1),DOMINICA
+estabelecimentos,id_pais,237,(1),DUBAI
+estabelecimentos,id_pais,239,(1),EQUADOR
+estabelecimentos,id_pais,240,(1),EGITO
+estabelecimentos,id_pais,244,(1),EMIRADOS ARABES UNIDOS
+estabelecimentos,id_pais,245,(1),ESPANHA
+estabelecimentos,id_pais,246,(1),"ESLOVENIA, REPUBLICA DA"
+estabelecimentos,id_pais,247,(1),"ESLOVACA, REPUBLICA"
+estabelecimentos,id_pais,249,(1),ESTADOS UNIDOS
+estabelecimentos,id_pais,251,(1),"ESTONIA, REPUBLICA DA"
+estabelecimentos,id_pais,253,(1),ETIOPIA
+estabelecimentos,id_pais,255,(1),FALKLAND (ILHAS MALVINAS)
+estabelecimentos,id_pais,259,(1),"FEROE, ILHAS"
+estabelecimentos,id_pais,263,(1),FEZZAN
+estabelecimentos,id_pais,267,(1),FILIPINAS
+estabelecimentos,id_pais,271,(1),FINLANDIA
+estabelecimentos,id_pais,275,(1),FRANCA
+estabelecimentos,id_pais,281,(1),GABAO
+estabelecimentos,id_pais,285,(1),GAMBIA
+estabelecimentos,id_pais,289,(1),GANA
+estabelecimentos,id_pais,291,(1),"GEORGIA, REPUBLICA DA"
+estabelecimentos,id_pais,293,(1),GIBRALTAR
+estabelecimentos,id_pais,297,(1),GRANADA
+estabelecimentos,id_pais,301,(1),GRECIA
+estabelecimentos,id_pais,305,(1),GROENLANDIA
+estabelecimentos,id_pais,309,(1),GUADALUPE
+estabelecimentos,id_pais,313,(1),GUAM
+estabelecimentos,id_pais,317,(1),GUATEMALA
+estabelecimentos,id_pais,325,(1),GUIANA FRANCESA
+estabelecimentos,id_pais,329,(1),"GUINE, REPUBLICA DA"
+estabelecimentos,id_pais,331,(1),GUINE-EQUATORIAL
+estabelecimentos,id_pais,334,(1),GUINE BISSAU
+estabelecimentos,id_pais,337,(1),GUIANA
+estabelecimentos,id_pais,341,(1),HAITI
+estabelecimentos,id_pais,345,(1),HONDURAS
+estabelecimentos,id_pais,351,(1),HONG-KONG
+estabelecimentos,id_pais,355,(1),HUNGRIA
+estabelecimentos,id_pais,357,(1),"IEMEN, REPUBLICA DO"
+estabelecimentos,id_pais,358,(1),IEMEN DEMOCRATICO
+estabelecimentos,id_pais,361,(1),INDIA
+estabelecimentos,id_pais,365,(1),INDONESIA
+estabelecimentos,id_pais,369,(1),IRAQUE
+estabelecimentos,id_pais,372,(1),"Irã, República Islamica do"
+estabelecimentos,id_pais,375,(1),IRLANDA
+estabelecimentos,id_pais,379,(1),ISLANDIA
+estabelecimentos,id_pais,383,(1),ISRAEL
+estabelecimentos,id_pais,386,(1),ITALIA
+estabelecimentos,id_pais,388,(1),"Sérvia E Montenegro(Iugoslávia,Rep. Fede"
+estabelecimentos,id_pais,391,(1),JAMAICA
+estabelecimentos,id_pais,395,(1),JAMMU
+estabelecimentos,id_pais,399,(1),JAPAO
+estabelecimentos,id_pais,403,(1),JORDANIA
+estabelecimentos,id_pais,411,(1),KIRIBATI
+estabelecimentos,id_pais,420,(1),"LAOS, REP. POP. E DEMOCR. DO"
+estabelecimentos,id_pais,423,(1),LEBUAN(ILHA)
+estabelecimentos,id_pais,426,(1),LESOTO
+estabelecimentos,id_pais,427,(1),"LETONIA, REPUBLICA DA"
+estabelecimentos,id_pais,431,(1),LIBANO
+estabelecimentos,id_pais,434,(1),LIBERIA
+estabelecimentos,id_pais,438,(1),LIBIA
+estabelecimentos,id_pais,440,(1),LIECHTENSTEIN
+estabelecimentos,id_pais,442,(1),"LITUANIA, REPUBLICA DA"
+estabelecimentos,id_pais,445,(1),LUXEMBURGO
+estabelecimentos,id_pais,447,(1),MACAU
+estabelecimentos,id_pais,450,(1),MADAGASCAR
+estabelecimentos,id_pais,455,(1),MALAISIA
+estabelecimentos,id_pais,458,(1),MALAVI
+estabelecimentos,id_pais,461,(1),MALDIVAS
+estabelecimentos,id_pais,464,(1),MALI
+estabelecimentos,id_pais,467,(1),MALTA
+estabelecimentos,id_pais,472,(1),MARIANAS DO NORTE
+estabelecimentos,id_pais,474,(1),MARROCOS
+estabelecimentos,id_pais,476,(1),"MARSHALL, ILHA"
+estabelecimentos,id_pais,477,(1),MARTINICA
+estabelecimentos,id_pais,485,(1),MAURICIO
+estabelecimentos,id_pais,488,(1),MAURITANIA
+estabelecimentos,id_pais,493,(1),MEXICO
+estabelecimentos,id_pais,494,(1),"MOLDAVIA (MOLDAVA),REP. DA"
+estabelecimentos,id_pais,495,(1),MONACO
+estabelecimentos,id_pais,497,(1),MONGOLIA
+estabelecimentos,id_pais,499,(1),"MICRONESIA, EST.FED.DA"
+estabelecimentos,id_pais,501,(1),MONSERRAT
+estabelecimentos,id_pais,505,(1),MOCAMBIQUE
+estabelecimentos,id_pais,507,(1),NAMIBIA
+estabelecimentos,id_pais,508,(1),NAURU
+estabelecimentos,id_pais,511,(1),"Christmas,Ilhas (Navidad)"
+estabelecimentos,id_pais,517,(1),NEPAL
+estabelecimentos,id_pais,521,(1),NICARAGUA
+estabelecimentos,id_pais,525,(1),NIGER
+estabelecimentos,id_pais,528,(1),NIGERIA
+estabelecimentos,id_pais,531,(1),NIUE
+estabelecimentos,id_pais,535,(1),"NORFOLK, ILHA"
+estabelecimentos,id_pais,538,(1),NORUEGA
+estabelecimentos,id_pais,542,(1),NOVA CALEDONIA
+estabelecimentos,id_pais,545,(1),PAPUA NOVA GUINE
+estabelecimentos,id_pais,548,(1),NOVA ZELANDIA
+estabelecimentos,id_pais,551,(1),VANUATU
+estabelecimentos,id_pais,556,(1),OMA
+estabelecimentos,id_pais,563,(1),"Pacífico, Ilhas do (Administ.dos Eua)"
+estabelecimentos,id_pais,566,(1),"Pacífico, Ilhas do"
+estabelecimentos,id_pais,569,(1),PACIF. ILHAS TERR. USA
+estabelecimentos,id_pais,573,(1),Países Baixos (Holanda)
+estabelecimentos,id_pais,575,(1),"PALAU, REPUBLICA DO"
+estabelecimentos,id_pais,576,(1),PAQUISTAO
+estabelecimentos,id_pais,580,(1),PANAMA
+estabelecimentos,id_pais,583,(1),"PAPUA, TERRITORIO DE"
+estabelecimentos,id_pais,586,(1),PARAGUAI
+estabelecimentos,id_pais,589,(1),PERU
+estabelecimentos,id_pais,593,(1),"PITCAIRN, ILHA DE"
+estabelecimentos,id_pais,599,(1),POLINESIA FRANCESA
+estabelecimentos,id_pais,603,(1),POLONIA
+estabelecimentos,id_pais,607,(1),PORTUGAL
+estabelecimentos,id_pais,611,(1),PORTO RICO
+estabelecimentos,id_pais,623,(1),QUENIA
+estabelecimentos,id_pais,625,(1),"QUIRGUIZIA, REPUBLICA DA"
+estabelecimentos,id_pais,628,(1),REINO UNIDO
+estabelecimentos,id_pais,640,(1),REPUBLICA CENTRO AFRICANA
+estabelecimentos,id_pais,647,(1),REPUBLICA DOMINICANA
+estabelecimentos,id_pais,660,(1),REUNIAO
+estabelecimentos,id_pais,665,(1),ZIMBABUE
+estabelecimentos,id_pais,666,(1),COMUNIDADE ECONOMICA EUROPEIA
+estabelecimentos,id_pais,670,(1),ROMENIA
+estabelecimentos,id_pais,675,(1),RUANDA
+estabelecimentos,id_pais,676,(1),"RUSSIA, FEDERACAO DA"
+estabelecimentos,id_pais,677,(1),"SALOMAO, ILHAS"
+estabelecimentos,id_pais,685,(1),SAARA OCIDENTAL
+estabelecimentos,id_pais,687,(1),EL SALVADOR
+estabelecimentos,id_pais,690,(1),SAMOA
+estabelecimentos,id_pais,691,(1),SOMOA AMERICANA
+estabelecimentos,id_pais,695,(1),SAO CRISTOVAO E NEVES
+estabelecimentos,id_pais,697,(1),SAN MARINO
+estabelecimentos,id_pais,700,(1),SAO PEDRO E MIQUELLON
+estabelecimentos,id_pais,705,(1),SAO VICENTE E GRANADINAS
+estabelecimentos,id_pais,710,(1),SANTA HELENA
+estabelecimentos,id_pais,715,(1),SANTA LUCIA
+estabelecimentos,id_pais,720,(1),SAO TOME E PRINCIPE
+estabelecimentos,id_pais,728,(1),SENEGAL
+estabelecimentos,id_pais,731,(1),SEYCHELLES
+estabelecimentos,id_pais,735,(1),SERRA LEOA
+estabelecimentos,id_pais,738,(1),SIKKIM
+estabelecimentos,id_pais,741,(1),CINGAPURA
+estabelecimentos,id_pais,744,(1),"SIRIA, REP. ARABE DA"
+estabelecimentos,id_pais,748,(1),SOMALIA
+estabelecimentos,id_pais,750,(1),SRI-LANKA
+estabelecimentos,id_pais,754,(1),SUAZILANDIA
+estabelecimentos,id_pais,756,(1),AFRICA DO SUL
+estabelecimentos,id_pais,759,(1),SUDAO
+estabelecimentos,id_pais,764,(1),SUECIA
+estabelecimentos,id_pais,767,(1),SUICA
+estabelecimentos,id_pais,770,(1),SURINAME
+estabelecimentos,id_pais,772,(1),"TADJIQUISTAO, REPUBLICA DO"
+estabelecimentos,id_pais,776,(1),TAILANDIA
+estabelecimentos,id_pais,780,(1),TANZANIA
+estabelecimentos,id_pais,782,(1),Território Britânico no Oceano Índico
+estabelecimentos,id_pais,783,(1),DJIBUTI
+estabelecimentos,id_pais,785,(1),TERR. ALTA COMISS. PAC. OCEAN.
+estabelecimentos,id_pais,788,(1),CHADE
+estabelecimentos,id_pais,790,(1),TCHECOSLOVAQUIA
+estabelecimentos,id_pais,791,(1),"THECA, REPUBLICA"
+estabelecimentos,id_pais,795,(1),TIMOR ORIENTAL
+estabelecimentos,id_pais,800,(1),TOGO
+estabelecimentos,id_pais,805,(1),TOQUELAU
+estabelecimentos,id_pais,810,(1),TONGA
+estabelecimentos,id_pais,815,(1),TRINIDAD E TOBAGO
+estabelecimentos,id_pais,820,(1),TUNISIA
+estabelecimentos,id_pais,823,(1),"TURCAS E CAICOS, ILHAS"
+estabelecimentos,id_pais,824,(1),"Turcomenistão, República do"
+estabelecimentos,id_pais,827,(1),TURQUIA
+estabelecimentos,id_pais,828,(1),TUVALU
+estabelecimentos,id_pais,831,(1),UCRANIA
+estabelecimentos,id_pais,833,(1),UGANDA
+estabelecimentos,id_pais,840,(1),U.R.S.S.
+estabelecimentos,id_pais,845,(1),URUGUAI
+estabelecimentos,id_pais,847,(1),"UZBEQUISTAO, REPUBLICA DO"
+estabelecimentos,id_pais,848,(1),"VATICANO, CIDADE DO (SANTA SE)"
+estabelecimentos,id_pais,850,(1),VENEZUELA
+estabelecimentos,id_pais,855,(1),VIETNAME DO NORTE
+estabelecimentos,id_pais,858,(1),VIETNA
+estabelecimentos,id_pais,863,(1),"VIRGENS, ILHAS (BRITANICAS)"
+estabelecimentos,id_pais,866,(1),"VIRGENS, ILHAS (EUA)"
+estabelecimentos,id_pais,870,(1),FIJI
+estabelecimentos,id_pais,875,(1),"WALLIS E FUTURNA, ILHAS"
+estabelecimentos,id_pais,888,(1),ZAIRE
+estabelecimentos,id_pais,890,(1),ZAMBIA
+estabelecimentos,id_pais,895,(1),ZONA DO CANAL DO PANAMA
+estabelecimentos,id_pais,990,(1),PROV. DE NAVIOS E AERONAVES
+estabelecimentos,id_pais,997,(1),NAO DECLARADOS
+estabelecimentos,id_pais,998,(1),NAO DECLARADO PRELIMINAR
+estabelecimentos,id_pais,999,(1),NAO DECLARADOS
+estabelecimentos,situacao_cadastral,1,(1),Nula
+estabelecimentos,situacao_cadastral,2,(1),Ativa
+estabelecimentos,situacao_cadastral,3,(1),Suspensa
+estabelecimentos,situacao_cadastral,4,(1),Inapta
+estabelecimentos,situacao_cadastral,8,(1),Baixada
+empresas,qualificacao_responsavel,0,(1),Não informada
+empresas,qualificacao_responsavel,5,(1),Administrador
+empresas,qualificacao_responsavel,8,(1),Conselheiro de Administração
+empresas,qualificacao_responsavel,9,(1),Curador
+empresas,qualificacao_responsavel,10,(1),Diretor
+empresas,qualificacao_responsavel,11,(1),Interventor
+empresas,qualificacao_responsavel,12,(1),Inventariante
+empresas,qualificacao_responsavel,13,(1),Liquidante
+empresas,qualificacao_responsavel,14,(1),Mãe
+empresas,qualificacao_responsavel,15,(1),Pai
+empresas,qualificacao_responsavel,16,(1),Presidente
+empresas,qualificacao_responsavel,17,(1),Procurador
+empresas,qualificacao_responsavel,18,(1),Secretário
+empresas,qualificacao_responsavel,19,(1),Síndico (Condomínio)
+empresas,qualificacao_responsavel,20,(1),Sociedade Consorciada
+empresas,qualificacao_responsavel,21,(1),Sociedade Filiada
+empresas,qualificacao_responsavel,22,(1),Sócio
+empresas,qualificacao_responsavel,23,(1),Sócio Capitalista
+empresas,qualificacao_responsavel,24,(1),Sócio Comanditado
+empresas,qualificacao_responsavel,25,(1),Sócio Comanditário
+empresas,qualificacao_responsavel,26,(1),Sócio de Indústria
+empresas,qualificacao_responsavel,28,(1),Sócio-Gerente
+empresas,qualificacao_responsavel,29,(1),Sócio Incapaz ou Relat.Incapaz (exceto menor)
+empresas,qualificacao_responsavel,30,(1),Sócio Menor (Assistido/Representado)
+empresas,qualificacao_responsavel,31,(1),Sócio Ostensivo
+empresas,qualificacao_responsavel,32,(1),Tabelião
+empresas,qualificacao_responsavel,33,(1),Tesoureiro
+empresas,qualificacao_responsavel,34,(1),Titular de Empresa Individual Imobiliária
+empresas,qualificacao_responsavel,35,(1),Tutor
+empresas,qualificacao_responsavel,37,(1),Sócio Pessoa Jurídica Domiciliado no Exterior
+empresas,qualificacao_responsavel,38,(1),Sócio Pessoa Física Residente no Exterior
+empresas,qualificacao_responsavel,39,(1),Diplomata
+empresas,qualificacao_responsavel,40,(1),Cônsul
+empresas,qualificacao_responsavel,41,(1),Representante de Organização Internacional
+empresas,qualificacao_responsavel,42,(1),Oficial de Registro
+empresas,qualificacao_responsavel,43,(1),Responsável
+empresas,qualificacao_responsavel,46,(1),Ministro de Estado das Relações Exteriores
+empresas,qualificacao_responsavel,47,(1),Sócio Pessoa Física Residente no Brasil
+empresas,qualificacao_responsavel,48,(1),Sócio Pessoa Jurídica Domiciliado no Brasil
+empresas,qualificacao_responsavel,49,(1),Sócio-Administrador
+empresas,qualificacao_responsavel,50,(1),Empresário
+empresas,qualificacao_responsavel,51,(1),Candidato a cargo Político Eletivo
+empresas,qualificacao_responsavel,52,(1),Sócio com Capital
+empresas,qualificacao_responsavel,53,(1),Sócio sem Capital
+empresas,qualificacao_responsavel,54,(1),Fundador
+empresas,qualificacao_responsavel,55,(1),Sócio Comanditado Residente no Exterior
+empresas,qualificacao_responsavel,56,(1),Sócio Comanditário Pessoa Física Residente no Exterior
+empresas,qualificacao_responsavel,57,(1),Sócio Comanditário Pessoa Jurídica Domiciliado no Exterior
+empresas,qualificacao_responsavel,58,(1),Sócio Comanditário Incapaz
+empresas,qualificacao_responsavel,59,(1),Produtor Rural
+empresas,qualificacao_responsavel,60,(1),Cônsul Honorário
+empresas,qualificacao_responsavel,61,(1),Responsável indígena
+empresas,qualificacao_responsavel,62,(1),Representante da Instituição Extraterritorial
+empresas,qualificacao_responsavel,63,(1),Cotas em Tesouraria
+empresas,qualificacao_responsavel,64,(1),Administrador Judicial
+empresas,qualificacao_responsavel,65,(1),Titular Pessoa Física Residente ou Domiciliado no Brasil
+empresas,qualificacao_responsavel,66,(1),Titular Pessoa Física Residente ou Domiciliado no Exterior
+empresas,qualificacao_responsavel,67,(1),Titular Pessoa Física Incapaz ou Relativamente Incapaz (exceto menor)
+empresas,qualificacao_responsavel,68,(1),Titular Pessoa Física Menor (Assistido/Representado)
+empresas,qualificacao_responsavel,69,(1),Beneficiário Final
+empresas,qualificacao_responsavel,70,(1),Administrador Residente ou Domiciliado no Exterior
+empresas,qualificacao_responsavel,71,(1),Conselheiro de Administração Residente ou Domiciliado no Exterior
+empresas,qualificacao_responsavel,72,(1),Diretor Residente ou Domiciliado no Exterior
+empresas,qualificacao_responsavel,73,(1),Presidente Residente ou Domiciliado no Exterior
+empresas,qualificacao_responsavel,74,(1),Sócio-Administrador Residente ou Domiciliado no Exterior
+empresas,qualificacao_responsavel,75,(1),Fundador Residente ou Domiciliado no Exterior
+empresas,qualificacao_responsavel,78,(1),Titular Pessoa Jurídica Domiciliada no Brasil
+empresas,qualificacao_responsavel,79,(1),Titular Pessoa Jurídica Domiciliada no Exterior
+estabelecimentos,motivo_situacao_cadastral,0,(1),SEM MOTIVO
+estabelecimentos,motivo_situacao_cadastral,1,(1),EXTINCAO POR ENCERRAMENTO LIQUIDACAO VOLUNTARIA
+estabelecimentos,motivo_situacao_cadastral,2,(1),INCORPORACAO
+estabelecimentos,motivo_situacao_cadastral,3,(1),FUSAO
+estabelecimentos,motivo_situacao_cadastral,4,(1),CISAO TOTAL
+estabelecimentos,motivo_situacao_cadastral,5,(1),ENCERRAMENTO DA FALENCIA
+estabelecimentos,motivo_situacao_cadastral,6,(1),ENCERRAMENTO DA LIQUIDACAO
+estabelecimentos,motivo_situacao_cadastral,7,(1),ELEVACAO A MATRIZ
+estabelecimentos,motivo_situacao_cadastral,8,(1),TRANSPASSE
+estabelecimentos,motivo_situacao_cadastral,9,(1),NAO INICIO DE ATIVIDADE
+estabelecimentos,motivo_situacao_cadastral,10,(1),EXTINCAO PELO ENCERRAMENTO DA LIQUIDACAO JUDICIAL
+estabelecimentos,motivo_situacao_cadastral,11,(1),ANULACAO POR MULTICIPLIDADE
+estabelecimentos,motivo_situacao_cadastral,12,(1),ANULACAO ONLINE DE OFICIO
+estabelecimentos,motivo_situacao_cadastral,13,(1),OMISSA CONTUMAZ
+estabelecimentos,motivo_situacao_cadastral,14,(1),OMISSA NAO LOCALIZADA
+estabelecimentos,motivo_situacao_cadastral,15,(1),INEXISTENCIA DE FATO
+estabelecimentos,motivo_situacao_cadastral,16,(1),ANULACAO POR VICIOS
+estabelecimentos,motivo_situacao_cadastral,17,(1),BAIXA INICIADA EM ANALISE
+estabelecimentos,motivo_situacao_cadastral,18,(1),INTERRUPCAO TEMPORARIA DAS ATIVIDADES
+estabelecimentos,motivo_situacao_cadastral,21,(1),PEDIDO DE BAIXA INDEFERIDA
+estabelecimentos,motivo_situacao_cadastral,24,(1),POR EMISSAO CERTIDAO NEGATIVA
+estabelecimentos,motivo_situacao_cadastral,28,(1),TRANSFERENCIA FILIAL CONDICAO MATRIZ
+estabelecimentos,motivo_situacao_cadastral,31,(1),EXTINCAO-UNIFICACAO DA FILIAL
+estabelecimentos,motivo_situacao_cadastral,33,(1),TRANSFERENCIA DO ORGAO LOCAL A CONDICAO DE FILIAL DO ORGAO REGIONAL
+estabelecimentos,motivo_situacao_cadastral,34,(1),ANULACAO DE INSCRICAO INDEVIDA
+estabelecimentos,motivo_situacao_cadastral,35,(1),EMPRESA ESTRANGEIRA AGUARDANDO DOCUMENTACAO
+estabelecimentos,motivo_situacao_cadastral,36,(1),PRATICA IRREGULAR DE OPERACAO DE COMERCIO EXTERIOR
+estabelecimentos,motivo_situacao_cadastral,37,(1),BAIXA DE PRODUTOR RURAL
+estabelecimentos,motivo_situacao_cadastral,38,(1),BAIXA DEFERIDA PELA RFB AGUARDANDO ANALISE DO CONVENENTE
+estabelecimentos,motivo_situacao_cadastral,39,(1),BAIXA DEFERIDA PELA RFB E INDEFERIDA PELO CONVENENTE
+estabelecimentos,motivo_situacao_cadastral,40,(1),BAIXA INDEFERIDA PELA RFB E AGUARDANDO ANALISE DO CONVENENTE
+estabelecimentos,motivo_situacao_cadastral,41,(1),BAIXA INDEFERIDA PELA RFB E DEFERIDA PELO CONVENENTE
+estabelecimentos,motivo_situacao_cadastral,42,(1),"BAIXA DEFERIDA PELA RFB E SEFIN, AGUARDANDO ANALISE SEFAZ"
+estabelecimentos,motivo_situacao_cadastral,43,(1),"BAIXA DEFERIDA PELA RFB, AGUARDANDO ANALISE DA SEFAZ E INDEFERIDA PELA SEFIN"
+estabelecimentos,motivo_situacao_cadastral,44,(1),"BAIXA DEFERIDA PELA RFB E SEFAZ, AGUARDANDO ANALISE SEFIN"
+estabelecimentos,motivo_situacao_cadastral,45,(1),"BAIXA DEFERIDA PELA RFB, AGUARDANDO ANALISE DA SEFIN E INDEFERIDA PELA SEFAZ"
+estabelecimentos,motivo_situacao_cadastral,46,(1),BAIXA DEFERIDA PELA RFB E SEFAZ E INDEFERIDA PELA SEFIN
+estabelecimentos,motivo_situacao_cadastral,47,(1),BAIXA DEFERIDA PELA RFB E SEFIN E INDEFERIDA PELA SEFAZ
+estabelecimentos,motivo_situacao_cadastral,48,(1),"BAIXA INDEFERIDA PELA RFB, AGARDANDO ANALISE SEFAZ E DEFERIDA PELA SEFIN"
+estabelecimentos,motivo_situacao_cadastral,49,(1),"BAIXA INDEFERIDA PELA RFB, AGUARDANDO ANALISE DA SEFAZ E INDEFERIDA PELA SEFIN"
+estabelecimentos,motivo_situacao_cadastral,50,(1),"BAIXA INDEFERIDA PELA RFB, DEFERIDA PELA SEFAZ E AGUARDANDO ANALISE DA SEFIN"
+estabelecimentos,motivo_situacao_cadastral,51,(1),"BAIXA INDEFERIDA PELA RFB E SEFAZ, AGUARDANDO ANALISE DA SEFIN"
+estabelecimentos,motivo_situacao_cadastral,52,(1),"BAIXA INDEFERIDA PELA RFB, DEFERIDA PELA SEFAZ E INDEFERIDA PELA SEFIN"
+estabelecimentos,motivo_situacao_cadastral,53,(1),BAIXA INDEFERIDA PELA RFB E SEFAZ E DEFERIDA PELA SEFIN
+estabelecimentos,motivo_situacao_cadastral,54,(1),EXTINCAO - TRATAMENTO DIFERENCIADO DADO AS ME E EPP (LEI COMPLEMENTAR NUMERO 123/2006)
+estabelecimentos,motivo_situacao_cadastral,55,(1),"DEFERIDO PELO CONVENENTE, AGUARDANDO ANALISE DA RFB"
+estabelecimentos,motivo_situacao_cadastral,60,(1),"ARTIGO 30, VI, DA IN 748/2007"
+estabelecimentos,motivo_situacao_cadastral,61,(1),INDICIO INTERPOS. FRAUDULENTA
+estabelecimentos,motivo_situacao_cadastral,62,(1),FALTA DE PLURALIDADE DE SOCIOS
+estabelecimentos,motivo_situacao_cadastral,63,(1),OMISSAO DE DECLARACOES
+estabelecimentos,motivo_situacao_cadastral,64,(1),LOCALIZACAO DESCONHECIDA
+estabelecimentos,motivo_situacao_cadastral,66,(1),INAPTIDAO
+estabelecimentos,motivo_situacao_cadastral,67,(1),REGISTRO CANCELADO
+estabelecimentos,motivo_situacao_cadastral,70,(1),ANULACAO POR NAO CONFIRMADO ATO DE REGISTRO DO MEI NA JUNTA COMERCIAL
+estabelecimentos,motivo_situacao_cadastral,71,(1),INAPTIDAO (LEI 11.941/2009 ART.54)
+estabelecimentos,motivo_situacao_cadastral,72,(1),DETERMINACAO JUDICIAL
+estabelecimentos,motivo_situacao_cadastral,73,(1),OMISSAO CONTUMAZ
+estabelecimentos,motivo_situacao_cadastral,74,(1),INCONSISTENCIA CADASTRAL
+estabelecimentos,motivo_situacao_cadastral,75,(1),OBITO DO MEI - TITULAR FALECIDO
+estabelecimentos,motivo_situacao_cadastral,80,(1),"BAIXA REGISTRADA NA JUNTA, INDEFERIDA NA RFB"
+estabelecimentos,motivo_situacao_cadastral,82,(1),SUSPENSO PERANTE A COMISSAO DE VALORES MOBILIARIOS - CVM
+estabelecimentos,identificador_matriz_filial,1,(1),Matriz
+estabelecimentos,identificador_matriz_filial,2,(1),Filial

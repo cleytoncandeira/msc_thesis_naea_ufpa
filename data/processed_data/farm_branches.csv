@@ -1,0 +1,867 @@
+Latitude,Longitude,Name,Organization,Farm,State,City
+-17.976491821986123,-49.65875427640442,Cataratas do Iguaçu Produtos Orgânicos LTDA - Fazenda Santa Barbara,Cataratas do Iguaçu Produtos Orgânicos,Fazenda Santa Bárbara,Goiás,Goiatuba
+-8.248144444444444,-45.254925,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays” - Fapcen Grupo 4,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Condomínio Milla,Piauí,Baixa Grande do Ribeiro
+-8.336391666666668,-44.418369444444444,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays” - Fapcen Grupo 4,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Fazenda Boa Esperança,Piauí,Uruçuí
+-8.878375,-46.06551111111111,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays” - Fapcen Grupo 4,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Fazenda Itapuá,Maranhão,Alto Parnaíba
+-21.64082748233687,-45.80302,Fazenda Santa Cruz,Fazenda Santa Cruz,Fazenda Santa Cruz,Minas Gerais,Paraguaçu
+-15.569666666666667,-51.20858333333334,Serra da Pintura,Serra da Pintura,Serra da Pintura,Goiás,Santa Fé de Goiás
+-16.96518361395266, -48.14075401073855,Tecnosol Consultoria Rural LTDA,Tecnosol Consultoria Rural,FAZENDA CACHOEIRA,Goiás,Orizona
+-16.936003708292695,-48.291935761095644,Tecnosol Consultoria Rural LTDA,Tecnosol Consultoria Rural,FAZENDA TAQUARAL DE CIMA,Goiás,Orizona
+-14.482765549430829, -48.63779947532951,Tecnosol Consultoria Rural LTDA,Tecnosol Consultoria Rural,FAZENDA RIO DO PEIXE,Goiás,Niquelândia
+-15.875724813297035,-51.772552603436296,Tecnosol Consultoria Rural LTDA,Tecnosol Consultoria Rural,FAZENDA PONTE ALTA,Goiás,Montes Claros de Goiás
+-15.428777726417373,-51.603984882034545,Tecnosol Consultoria Rural LTDA,Tecnosol Consultoria Rural,FAZENDA SANTA RITA,Goiás,Jussara
+-18.490655555555556,-52.72437222222222,Agropecuaria Andrade,Agropecuaria Andrade,FAZENDA ALVORADA,Goiás,Chapadão do Céu
+-18.738244444444444,-52.828250000000004,Agropecuaria Andrade,Agropecuaria Andrade,ESTANCIA ETANER,Mato Grosso do Sul,Paraíso das Águas
+-20.387655555555554,-54.79999166666666,Agropecuaria Andrade,Agropecuaria Andrade,FAZENDA SANTO ANTONIO,Mato Grosso do Sul,Terenos
+-18.65628611111111,-52.74301388888889,Agropecuaria Andrade,Agropecuaria Andrade,FAZENDA SAVANA,Goiás,Chapadão do Céu
+-13.18923888888889,-56.03552777777777,GGF Agro LTDA,GGF Agro,Fazenda Água Santa,Mato Grosso,Lucas do Rio Verde
+-13.666558333333334,-55.39378611111111,GGF Agro LTDA,GGF Agro,Fazenda Pau da Onça,Mato Grosso,Santa Rita do Trivelato
+-19.254047222222223,-54.52487222222222,ADM do Brasil -Grupo Mato Grosso do Sul,Archer-Daniels-Midland Company (ADM),Fazenda Zilmar,Mato Grosso do Sul,São Gabriel do Oeste
+-19.247997222222224,-54.49455277777778,ADM do Brasil -Grupo Mato Grosso do Sul,Archer-Daniels-Midland Company (ADM),Fazenda Flamboyant,Mato Grosso do Sul,São Gabriel do Oeste
+-19.50088611111111,-54.59820833333334,ADM do Brasil -Grupo Mato Grosso do Sul,Archer-Daniels-Midland Company (ADM),Fazenda Cachoeira,Mato Grosso do Sul,São Gabriel do Oeste
+-19.21662222222222,-54.54965833333333,ADM do Brasil -Grupo Mato Grosso do Sul,Archer-Daniels-Midland Company (ADM),Fazenda São Luiz,Mato Grosso do Sul,São Gabriel do Oeste
+-19.41153333333333,-54.63433611111111,ADM do Brasil -Grupo Mato Grosso do Sul,Archer-Daniels-Midland Company (ADM),Fazenda Boa Vista,Mato Grosso do Sul,São Gabriel do Oeste
+-19.531880555555556,-54.52256388888889,ADM do Brasil -Grupo Mato Grosso do Sul,Archer-Daniels-Midland Company (ADM),Fazenda Nascente do Brioso,Mato Grosso do Sul,São Gabriel do Oeste
+-19.408052777777776,-54.61779166666667,ADM do Brasil -Grupo Mato Grosso do Sul,Archer-Daniels-Midland Company (ADM),Fazenda Minina Linda,Mato Grosso do Sul,São Gabriel do Oeste
+-19.33356388888889,-54.49084444444445,ADM do Brasil -Grupo Mato Grosso do Sul,Archer-Daniels-Midland Company (ADM),Fazenda Ponte de Pedra 2,Mato Grosso do Sul,São Gabriel do Oeste
+-17.628219444444444,-54.55594444444444,ADM do Brasil -Grupo Mato Grosso do Sul,Archer-Daniels-Midland Company (ADM),Fazenda Suez,Mato Grosso do Sul,Sonora
+-8.59715,-46.639218,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA AGRO BOA VISTA,Maranhão,Balsas
+-8.118607,-45.870153,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CERTEZA,Maranhão,Tasso Fragoso
+-8.651808,-45.945183,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CHAPADÃO,Maranhão,Tasso Fragoso
+-8.297231,-45.769278,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA SAPUCAÍ,Maranhão,Tasso Fragoso
+-7.088961,-45.945405,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA GUAÍRA,Maranhão,Fortaleza dos Nogueiras
+-8.430479,-46.618932,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CAIUÁ,Maranhão,Balsas
+-7.447427,-46.3264,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA SEIS IRMÃOS,Maranhão,Riachão
+-8.721907,-45.570364,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA JAPURÁ,Piauí,Santa Filomena
+-12.423922,-46.2506222,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ALVORADA,Bahia,Luíz Eduardo Magalhães
+-8.678837,-46.665834,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TAKAHASHI,Maranhão,Balsas
+-15.266706,-54.263947,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA LAGOA ENCANTADA,Mato Grosso,Primavera do Leste
+-7.963056,-45.92465,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ESCONDIDO,Maranhão,Balsas
+-7.965008,-45.752163,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA PIRACICABA,Maranhão,Balsas
+-8.125459,-45.789736,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ANGICOS,Maranhão,Tasso Fragoso
+-12.902398,-46.194599,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA GUARANI,Bahia,São Desidério
+-11.84223,-46.244109,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ORQUÍDEAS,Bahia,Barreiras
+-11.793402,-45.958693,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CAMPO ABERTO BARREIRAS – BA,Bahia,Barreiras
+-8.191716,-46.461772,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA BAIXÃO PRETO,Maranhão,Riachão
+-8.520959,-46.749241,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA  AGROMANTOVA  - BATAVO,Maranhão,Balsas
+-8.9949,-46.559639,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TABATINGA,Maranhão,Alto Parnaíba
+-8.672696,-46.011546,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TERRA NOVA,Maranhão,Tasso Fragoso
+-8.12433,-46.14611,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ARAPUÃ,Maranhão,Tasso Fragoso
+-8.041355,-45.976106,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA APUÃ,Maranhão,Balsas
+-8.135828,-46.133402,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA NOSSA SENHORA DAS GRAÇAS,Maranhão,Tasso Fragoso
+-12.214789,-45.958782,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA SAMA,Bahia,Luíz Eduardo Magalhães
+-11.83768,-46.28957,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CONDOMINIO IRMÃOS GATTO,Bahia,Barreiras
+-8.447452,-45.937696,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CABECEIRA,Maranhão,Tasso Fragoso
+-7.960087,-45.809129,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TEATINO,Maranhão,Balsas
+-7.798658,-45.054773,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TRADIÇÃO,Piauí,Ribeiro Gonçalves
+-13.504164,-46.113412,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA GBC,Bahia,Correntina
+-13.740469,-46.140271,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA PARANÁ,Bahia,Correntina
+-12.804929,-45.656859,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA PORTO ALEGRE,Bahia,São Desidério
+-7.849968,-45.778352,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA FAVEIRA,Maranhão,Tasso Fragoso
+-9.375476,-45.35193833333334,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ALVORADA – FRITZEN,Piauí,Gilbués
+-11.676155555555555,-45.72196666666667,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santana,Bahia,Riachão das Neves
+-9.144477777777777,-45.06604722222222,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santa Clara,Piauí,Baixa Grande do Ribeiro
+-13.55915,-54.31106944444444,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Agro Chapada,Mato Grosso,Paranatinga
+-8.068769444444444,-46.562949999999994,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Pau Brasil,Tocantins,Campos Lindos
+-8.237441666666665,-46.65549722222222,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santo Antônio Khon,Tocantins,Campos Lindos
+-12.250475,-45.86673888888889,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Sapucai,Bahia,Luís Eduardo Magalhães
+-11.4926,-45.230472222222225,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Sapucai Semear,Bahia,Riachão das Neves
+-11.71511111111111,-45.97925277777778,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santo Antônio,Bahia,Barreiras
+-14.143727777777777,-56.63576527777778,GMS Agronegócio Ltda,GMS Agronegócio ,Fazenda Uirapuru,Mato Grosso,Diamantino
+-24.739889,-49.902293,Produzindo Certo–Grupo Castrolanda,Produzindo Certo,Agropecuária Romi,Paraná,Castro
+-24.154856,-49.182219,Produzindo Certo–Grupo Castrolanda,Produzindo Certo,Bom Sucesso,São Paulo,Itararé
+-16.8375,-54.04222222222222,Girassol Agrícola Ltda,Girassol Agrícola,Fazenda Girassol,Mato Grosso,Pedra Preta
+-15.477500000000001,-54.91222222222222,Fazenda Modelo,Fazenda Modelo,Fazenda Modelo,Mato Grosso,Campo Verde
+-16.58431388888889,-54.85796944444444,Agropastoril Jotabasso Ltda-Fazenda Verde,Agropastoril Jotabasso,FAZENDA VERDE,Mato Grosso,Rondonópolis
+-12.2564,- 55.0715,Amaggi Exp Imp Ltda–Grupo III,Amaggi,25 de Dezembro,Mato Grosso,Feliz Natal
+-12.8999,- 56.3688,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Boa Esperança,Mato Grosso,Lucas do Rio Verde
+-14.8251,- 54.1653,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Caimbé,Mato Grosso,Primavera do Leste
+-10.8249,- 55.9555,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Calixbento,Mato Grosso,Nova Canaã do Norte
+-13.4167,- 58.7736,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Carajás,Mato Grosso,Sapezal
+-12.9772,- 56.1877,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Cedro,Mato Grosso,Lucas do Rio Verde
+-12.2236,- 55.2898,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Edwirges,Mato Grosso,Vera
+-9.7836,- 57.6221,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Embu,Mato Grosso,Nova Monte Verde
+-14.8578,- 53.4922,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Independencia,Mato Grosso,Santo Antônio do Leste
+-17.0215,- 54.1986,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Leonardo,Mato Grosso,Pedra Preta
+-10557,- 56.1193,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Maria Madalena,Mato Grosso,Nova Canaã do Norte
+-12.4967,-56.7382,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Martelli II,Mato Grosso,Tapurah
+-15.4738,- 54.9054,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Mourão,Mato Grosso,Campo Verde
+-15.4043,- 54.6051,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Mutum,Mato Grosso,Dom Aquino
+-11.9215,- 56.1551,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Nossa Senhora Aparecida,Mato Grosso,Ipiranga do Norte
+-14.9278,- 53.8860,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Nova/Horizonte/Passo Fundo,Mato Grosso,Santo Antônio do Leste
+-12.2178,- 55.8519,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Pirapó,Mato Grosso,Sorriso
+-13.8894,- 58.9020,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Planta,Mato Grosso,Sapezal
+-16.7098,- 54.8092,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Ponte de Pedra/Agrop Boa Vista,Mato Grosso,Rondonópolis
+-15258,- 54.1440,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Primavera/Flor do Campo,Mato Grosso,Primavera do Leste
+-13.36,- 55.6689,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Quatrilho,Mato Grosso,Sorriso
+-10.3552,- 52.4000,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Reata/Goiás,Mato Grosso,São José do Xingu
+-12.6097,- 55.5120,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Reunidas São Roberto,Mato Grosso,Vera
+-13.5218,- 55.0770,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Rio Bonito,Mato Grosso,Nova Ubiratã
+-10.4447,- 54.1320,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Santa Rita,Mato Grosso,Peixote de Azevedo
+-12.8816,- 55.5958,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Santin Cavalcante,Mato Grosso,Sorriso
+-17.1954,- 54.5083,Amaggi Exp Imp Ltda–Grupo III,Amaggi,São Miguel SM5,Mato Grosso,Itiquira
+-12.8419,-52.3886,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Tanguro,Mato Grosso,Querência
+-11.5182,- 52.4129,Amaggi Exp Imp Ltda–Grupo III,Amaggi,Três Rodas da Barra/São Luiz/Beira Rio,Mato Grosso,São Félix do Araguaia
+-19.36025,-47.364068,Aliança da Terra Grupo IV,Aliança da Terra,Água Santa,Minas Gerais,Perdizes
+-17.42317,-51.367197,Aliança da Terra Grupo IV,Aliança da Terra,Bandeirantes,Goiás,Montividiu
+-17.373805,-50.985993,Aliança da Terra Grupo IV,Aliança da Terra,Boa Esperança,Goiás,Rio Verde
+-17.354913,-51.461452,Aliança da Terra Grupo IV,Aliança da Terra,Boa Vista,Goiás,Montividiu
+-17.354913,-51.461452,Aliança da Terra Grupo IV,Aliança da Terra,Bom Jardim e Primavera,Goiás,Montividiu
+-17.286756,-51.32331,Aliança da Terra Grupo IV,Aliança da Terra,Bom Jardim (Dorothea),Goiás,Montividiu
+-17.281813,-51.329665,Aliança da Terra Grupo IV,Aliança da Terra,Bom Jardim (Marcelo),Goiás,Montividiu
+-17.492133,-51.275933,Aliança da Terra Grupo IV,Aliança da Terra,Brasilanda,Goiás,Montividiu
+-17.238443,-51.645517,Aliança da Terra Grupo IV,Aliança da Terra,Cachoeirinha,Goiás,Caiapônia
+-17.069333,-51.118167,Aliança da Terra Grupo IV,Aliança da Terra,Cana Verde,Goiás,Montividiu
+-18.072217,-46.426303,Aliança da Terra Grupo IV,Aliança da Terra,DME,Minas Gerais,Presidente Olegário
+-17.836257,-46.35671,Aliança da Terra Grupo IV,Aliança da Terra,Gameleira,Minas Gerais,Lagoa Grande
+-18.121277,-50.736345,Aliança da Terra Grupo IV,Aliança da Terra,Mata do Lobo,Goiás,Rio Verde
+-17.235353,-51.344025,Aliança da Terra Grupo IV,Aliança da Terra,Mauá,Goiás,Caiapônia
+-17.49837,-51.42451,Aliança da Terra Grupo IV,Aliança da Terra,Monte Alegre,Goiás,Rio Verde
+-17.402428,-50.821303,Aliança da Terra Grupo IV,Aliança da Terra,Monte Alegre/ Pindaíbas,Goiás,Rio Verde
+-17.739327,-51.28907,Aliança da Terra Grupo IV,Aliança da Terra,Pai Manoel,Goiás,Rio Verde
+-18.066978,-50.792807,Aliança da Terra Grupo IV,Aliança da Terra,Paraíso do Rio Preto,Goiás,Rio Verde
+-18083.0,-50.787721,Aliança da Terra Grupo IV,Aliança da Terra,Paraíso Rio Preto e Renala,Goiás,Rio Verde
+-19.222047,-48.03494,Aliança da Terra Grupo IV,Aliança da Terra,Santa Fé,Minas Gerais,Uberlândia
+-17.728242,-50.812352,Aliança da Terra Grupo IV,Aliança da Terra,Santa Mônica e Felicidade,Goiás,Rio Verde
+-17.204747,-50.525807,Aliança da Terra Grupo IV,Aliança da Terra,Santa Rita e arrendamento,Goiás,Paraúna
+-17.492395,-51.601532,Aliança da Terra Grupo IV,Aliança da Terra,São Francisco,Goiás,Rio Verde
+-18.42833,-46.056212,Aliança da Terra Grupo IV,Aliança da Terra,São João,Minas Gerais,Varjão de Minas
+-17.206031,-51.078808,Aliança da Terra Grupo IV,Aliança da Terra,São José,Goiás,Montividiu
+-17.524475,-51.464028,Aliança da Terra Grupo IV,Aliança da Terra,São Sebastião,Goiás,Rio Verde
+-17.819058,-51.115422,Aliança da Terra Grupo IV,Aliança da Terra,São Tomaz,Goiás,Rio Verde
+-18.861594,-47.707017,Aliança da Terra Grupo IV,Aliança da Terra,Segredo,Minas Gerais,Indianópolis
+-18.861594,-47.707017,Aliança da Terra Grupo IV,Aliança da Terra,Speggiorini,Minas Gerais,Indianópolis
+-17.394317,-51.403618,Aliança da Terra Grupo IV,Aliança da Terra,Tropical,Goiás,Montividiu
+-17.371451,-51.483038,Aliança da Terra Grupo IV,Aliança da Terra,Vargem Grande,Goiás,Montividiu
+-17.43054833,-51.58419667,Aliança da Terra Grupo IV,Aliança da Terra,"Vargem Grande, Planalto Verde e Unidas",Goiás,Rio Verde
+-17.43818,-51.475864,Aliança da Terra Grupo IV,Aliança da Terra,Vitória,Goiás,Rio Verde
+-14.18673888888889,-56.62916111111111,Grupo Hervalense,Grupo Hervalense,Hervalense,Mato Grosso,Diamantino
+-14.131436111111112,-57.0099,Grupo Hervalense,Grupo Hervalense,Chapadão,Mato Grosso,Diamantino
+-14.467827777777778,-56.20327777777778,Grupo Hervalense,Grupo Hervalense,Lagoa do Cervo,Mato Grosso,Diamantino
+-16.38784,-47.115216,Grupo de Produtores CJ Selecta,Grupo de Produtores CJ Selecta,Agro Verde,Minas Gerais,Unaí
+-18.995999,-47.580682,Grupo de Produtores CJ Selecta,Grupo de Produtores CJ Selecta,Antagordense,Minas Gerais,Romaria
+-16.35907,-46.90139,Grupo de Produtores CJ Selecta,Grupo de Produtores CJ Selecta,Campo Alegre,Minas Gerais,Unaí
+-16.9117,-46.5583,Grupo de Produtores CJ Selecta,Grupo de Produtores CJ Selecta,Gira Mundo,Minas Gerais,Unaí
+-16.33246,-46.504286,Grupo de Produtores CJ Selecta,Grupo de Produtores CJ Selecta,Liberdade,Minas Gerais,Unaí
+-18647377.0,-49.23964,Grupo de Produtores CJ Selecta,Grupo de Produtores CJ Selecta,Santo Antônio,Minas Gerais,Canápolis
+-18.862501,-47.706083,Grupo de Produtores CJ Selecta,Grupo de Produtores CJ Selecta,São Luiz,Minas Gerais,Indianópolis
+-17.4651716,-47.2500733,Grupo de Produtores CJ Selecta,Grupo de Produtores CJ Selecta,São Luiz,Minas Gerais,Paracatu
+-47.73718,-47.73718,Grupo de Produtores CJ Selecta,Grupo de Produtores CJ Selecta,Sayo,Minas Gerais,Indianópolis
+-15.139852777777778,-48.95296388888889,Wellington Pereira Lima - Gebana Goias,Wellington Pereira Lima - Gebana Goias,Wellington Pereira Lima - Gebana Goias,Goiás,Barro Alto
+-21.282777777777778,-45.43416666666666,Saag Comercial Exportadora Ltda - No-GMO,Saag Comercial Exportadora ,Fazenda Lage,Minas Gerais,Santana da Vargem
+-21.52791111111111,-45.25128611111111,Saag Comercial Exportadora Ltda - No-GMO,Saag Comercial Exportadora ,Faz. Saquarema,Minas Gerais,Carmo da Cachoeira
+-20.823544444444444,-45.25128611111111,Saag Comercial Exportadora Ltda - No-GMO,Saag Comercial Exportadora ,Faz. Verdes Mares,Minas Gerais,"Candeias, Minas Gerais"
+-21.380283333333335,-45.308474999999994,Saag Comercial Exportadora Ltda - No-GMO,Saag Comercial Exportadora ,Potreiro,Minas Gerais,Três Pontas
+-19.435080555555555,-46.84454166666667,Saag Comercial Exportadora Ltda - No-GMO,Saag Comercial Exportadora ,Agrorossi,Minas Gerais,Ibiá
+-19.516130555555556,-46.53453888888889,Saag Comercial Exportadora Ltda - No-GMO,Saag Comercial Exportadora ,São Pedro,Minas Gerais,Ibiá
+-19.937797222222223,-46.53453888888889,Saag Comercial Exportadora Ltda - No-GMO,Saag Comercial Exportadora ,FAZENDA ANGICOS,Minas Gerais,Medeiros
+-21.60213888888889,-46.43993333333333,Saag Comercial Exportadora Ltda - No-GMO,Saag Comercial Exportadora ,Fazenda Novo Horizonte,Minas Gerais,Botelhos
+-14.08013,-57.456034,SLC Agrícola S.A.,SLC Agrícola,Fazenda Paiaguás,Mato Grosso,Diamantino
+-11.672627,-57.456034,SLC Agrícola S.A.,SLC Agrícola,Fazenda Palmares,Mato Grosso,Porto dos Gaúchos
+-16.227882,-47.625268,SLC Agrícola S.A.,SLC Agrícola,Fazenda Pamplona,Goiás,Cristalina
+-13.407468,-46.097783,SLC Agrícola S.A.,SLC Agrícola,Fazenda Panorama,Bahia,Correntina
+-8.514722,-46.077028,SLC Agrícola S.A.,SLC Agrícola,Fazenda Parnaíba,Maranhão,Tasso Fragoso
+-11.641121,-56.260797,SLC Agrícola S.A.,SLC Agrícola,Fazenda Perdizes,Mato Grosso,Porto dos Gaúchos
+-12.100987,-52.420525,SLC Agrícola S.A.,SLC Agrícola,Fazenda Pioneira,Mato Grosso,Querência
+-18.211311,-53.204092,SLC Agrícola S.A.,SLC Agrícola,Fazenda Planalto,Mato Grosso do Sul,Costa Rica
+-8.554206,-46.859487,SLC Agrícola S.A.,SLC Agrícola,Fazenda Planeste,Maranhão,Balsas
+-13.936938,-58.898933,SLC Agrícola S.A.,SLC Agrícola,Fazenda Planorte,Mato Grosso,Sapezal
+-19.3549,-54.55269444444444,ADM do Brasil - Fazenda Perdigão,Archer-Daniels-Midland Company (ADM),Fazenda Perdigão,Mato Grosso do Sul,São Gabriel do Oeste
+-14629,-55646,Louis Dreyfus Company – Bom Futuro Agrícola LTDA,Louis Dreyfus Company ,Fazenda Serra Azul,Mato Grosso,Rosário Oeste
+-15356,-54983,Louis Dreyfus Company – Bom Futuro Agrícola LTDA,Louis Dreyfus Company ,Fazenda São Miguel,Mato Grosso,Campo Verde
+-13.783623304017105,-56.96180390749444,Louis Dreyfus Company – Bom Futuro Agrícola LTDA,Louis Dreyfus Company ,Fazenda Itaipu,Mato Grosso,São José do Rio Claro
+-55898,-13322,Louis Dreyfus Company – Bom Futuro Agrícola LTDA,Louis Dreyfus Company ,Fazenda Vovô Ernesto,Mato Grosso,Nova Mutum
+-12.804975,-55.776375,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Alegria,Mato Grosso,Sorriso
+-12.085497222222223,-55.66502777777777,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Berrante de Ouro,Mato Grosso,Sorriso
+-12.502161666666666,-56.4691125,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Cella,Mato Grosso,Tapurah
+-13.070797222222222,-54.96544166666667,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Centro da Mata,Mato Grosso,Nova Ubiratã
+-13.338591666666668,-55.11895277777778,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Criciúma,Mato Grosso,Nova Ubiratã
+-12.150277777777777,-55.75083333333333,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Jaborandi,Mato Grosso,Sorriso
+-12.575758333333333,-56.01485,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Leopoldina,Mato Grosso,Sorriso
+-13.128222222222222,-55.32194444444445,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Marauense,Mato Grosso,Sorriso
+-14365,-58.10008333333334,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Morena,Mato Grosso,Tangará da Serra
+-12.481625,-55.48473888888889,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Nossa Senhora da Salete,Mato Grosso,Vera
+-12.815619444444446,-55.764494444444445,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Pedra,Mato Grosso,Sorriso
+-12.940572222222222,-55.58058333333334,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Pinhal,Mato Grosso,Sorriso
+-12.830516666666666,-55.383494444444445,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Pluma,Mato Grosso,Sorriso
+-12.076508333333333,-56.403327777777776,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Rio Vermelho,Mato Grosso,Porto dos Gaúchos
+-12.723611111111111,-55.532777777777774,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Rodeio,Mato Grosso,Sorriso
+-12.479655555555556,-55.696305555555554,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santa Ernestina,Mato Grosso,Sorriso
+-12.371111111111112,-55805,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santa Maria da Amazônia,Mato Grosso,Sorriso
+-19.053305555555557,-65.41750833333334,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santana,Amazonas,Lábrea
+-12.947222222222223,-55.85277777777778,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santo Antônio,Mato Grosso,Lucas do Rio Verde
+-12.788533333333334,-55.78503055555555,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda São Felipe,Mato Grosso,Sorriso
+-12.859094444444445,-55.743830555555554,Associação Clube Amigos da Terra – CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Videirense,Mato Grosso,Sorriso
+-13.949582647895298,-55.78755225717667,SLC Agricola S.A. - Group II Terra Santa,SLC Agrícola,FAZENDA PIRACEMA,Mato Grosso,Nova Mutum
+-14.055526648521356,-55.381183203461205,SLC Agricola S.A. - Group II Terra Santa,SLC Agrícola,FAZENDA PIRAPORA,Mato Grosso,Santa Rita do Trivelato
+-14.232758629576953,-57.70757437834914,SLC Agricola S.A. - Group II Terra Santa,SLC Agrícola,FAZENDA PAMPEIRA,Mato Grosso,Campo Novo do Parecis
+-11.035782090505126,-56.363610883179916,SLC Agricola S.A. - Group II Terra Santa,SLC Agrícola,FAZENDA PROSPERA,Mato Grosso,Nova Canaã do Norte
+-25.777681,-51.928203,Grupo Reinhofer,Grupo Reinhofer,Fazenda Campo Bonito,Paraná,Reserva do Iguaçu
+-25.86978,-51.964361,Grupo Reinhofer,Grupo Reinhofer,Fazenda Invernada da Reserva,Paraná,Reserva do Iguaçu
+-25.525556,-51.576036,Grupo Reinhofer,Grupo Reinhofer,Fazenda Cupim,Paraná,Guarapuava
+-25.660838,-51.794032,Grupo Reinhofer,Grupo Reinhofer,Fazenda Santa Bárbara,Paraná,Pinhão
+-25.55284,-51.351425,Grupo Reinhofer,Grupo Reinhofer,Fazenda Santa Isabel,Paraná,Guarapuava
+-11.676155555555555,-45.72196666666667,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santana,Bahia,Riachão das Neves
+-9.144477777777777,-45.06604722222222,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santa Clara,Piauí,Baixa Grande do Ribeiro
+-13.55915,-54.31106944444444,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Agro Chapada,Mato Grosso,Paranatinga
+-8.068769444444444,-46.562949999999994,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Pau Brasil,Tocantins,Campos Lindos
+-8.237441666666665,-46.65549722222222,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santo Antônio Khon,Tocantins,Campos Lindos
+-12.250475,-45.86673888888889,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Sapucai,Bahia,Luís Eduardo Magalhães
+-11.4926,-45.230472222222225,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Sapucai Semear,Bahia,Riachão das Neves
+-11.71511111111111,-45.97925277777778,Cerquality Consultoria em Sustentabilidade e Certificação LTDA - Grupo IV,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santo Antônio,Bahia,Barreiras
+-25.196944444444444,-50.31522222222222,FAZENDA PAU FURADO,Fazenda Pau Furado,FAZENDA PAU FURADO,Paraná,Teixeira Soares
+-7.456163888888889,-44.16243333333333,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Progresso,Piauí,Landri Sales
+-7.408111111111111,-44.31198611111111,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Tunísia,Piauí,Sebastião Leal
+-8.362975,-45.508427777777776,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Condomínio Boa Esperança,Piauí,Ribeiro Gonçalves
+-8.83783888888889,-46.56133888888888,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Nova Holanda,Maranhão,Balsas
+-6.894322222222222,-45.32564722222222,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Serra Vermelha,Maranhão,Sambaíba
+-7.407333333333334,-46.01482222222222,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Sol Nascente,Maranhão,Balsas
+-6.865788888888889,-45.49799166666667,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Santa Luzia,Maranhão,Mirador
+-12.9903,-61.1752,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Barranco Alto (Carolina),Rondônia,Corumbiara
+-12.5894,-60.9568,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Chupinguaia (Nossa Senhora Aparecida e Vitória),Rondônia,Chupinguaia
+-13.5432,-60.4186,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Curitiba (Cabixi),Mato Grosso,Comodoro
+-13.0003,-60.9653,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Dom Pedro (Pouso Redondo),Rondônia,Corumbiara
+-12.6789,-61.1009,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Juliana (Ipê / Cacoal),Rondônia,Chupinguaia
+-14.4411,-60.1257,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Maringá 3,Mato Grosso,Vila Bela da Santíssima Trindade
+-13.1358,-58.6772,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Pérola,Mato Grosso,Sapezal
+-13.85,-57.1879,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Pirapó,Mato Grosso,São José do Rio Claro
+-12.5667,-60.0786,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Retiro (Itaúna e Parecis),Rondônia,Vilhena
+-13.4259,-58.4228,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Reunidas do Papagaio,Mato Grosso,Campo Novo do Parecis
+-12.9996,-61.23837,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Santa Ana,Rondônia,Corumbiara
+-13.8006,-58663,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Santa Cândida,Mato Grosso,Sapezal
+-13.5839,-58.7755,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,São Miguel SM5,Mato Grosso,Sapezal
+- 14.5824,-56.4549,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Sete Lagoas,Mato Grosso,Diamantino
+-13.3592,-58.8949,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Siriema,Mato Grosso,Sapezal
+-13.4602,-58.5877,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Tupancy,Mato Grosso,Sapezal
+-13.9476,-59.2014,Amaggi Exp Imp Ltda–Grupo Parecis II,Amaggi,Fazenda Zanella II,Mato Grosso,Campos de Júlio
+-12.488199650969268,-60.00359198043838,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda União,Rondônia,Vilhena
+-15.000061111111112,-52.28388888888889,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Brasil,Mato Grosso,Nova Xavantina
+-15.000066666666667,-52.52565555555555,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Santa Terezinha,Mato Grosso,Nova Xavantina
+-14.487033333333333,-58.35509444444445,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Querência,Mato Grosso,Tangará da Serra
+-12.144444444444444,-52.24888888888889,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Roncador,Mato Grosso,Querência
+-13.009090636758199,-46.1754291611641,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Erechim,Bahia,São Desidério
+-13.445963632631212,-54.28209040686506,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Cruzeiro do Sul,Mato Grosso,Paranatinga
+-22.996481883841412,-53.86491556093154,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Novo Rumo,Mato Grosso do Sul,Naviraí
+-12.050938793571582,-44.46166953452224,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda São Francisco,Bahia,Angical
+-11.684444444444445,-58.230000000000004,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Paraná,Mato Grosso,Brasnorte
+-16.800341398781303,-54.10324365989366,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Bom Jesus,Mato Grosso,Pedra Preta
+-13.83737582064132,-56.074725644280534,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Santa Terezinha,Mato Grosso,Nova Mutum
+-10.734105388218051,-45.70805048143409,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Santa Maria ,Bahia,Formosa do Rio Preto
+-12.806630315054907,-58.09559505294213,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Reata,Mato Grosso,Brasnorte
+-18.158946131833186,-54.72201986877579,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Beltrão Terra Forte,Mato Grosso do Sul,Coxim
+-11.170416666666666,-52.818333333333335,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Santa Maria,Mato Grosso,São Félix do Araguaia
+-12.129340930818875,-46.16087419001574,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Santo Expedito,Bahia,Luís Eduardo Magalhaes
+-11.232676662796017,-46.04589526099684,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Centúria,Bahia,Formosa do Rio Preto
+-13.761221960734343,-46.162732789986194,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Sagarana,Bahia,Correntina
+-12.519093845285648,-46.15292044768052,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Timbaúba,Bahia,São Desidério
+-12.96254087761786,-45.982461303493444,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Acalanto,Bahia,São Desidério
+-13.134094505868115,-46.16578813711325,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Ventura,Bahia,São Desidério
+-12.770573807156188,-46.03155616830487,Bunge Alimentos - Grupo de Productores Bunge,Bunge,Fazenda Querubim,Bahia,São Desidério
+-  18.302384,-45.888822,Inacio Carlos Urban e outros - (Fazenda Pirulito),Fazenda Pirulito,Fazenda Pirulito,Minas Gerais,São Gonçalo do Abaeté
+-15404,-55.123111111111115,Fazenda São João Batista ,Fazenda São João Batista ,Fazenda São João Batista,Mato Grosso,Campo Verde
+-21.64082748233687,-45.80302,Fazenda Santa Cruz,Fazenda Santa Cruz,Fazenda Santa Cruz,Minas Gerais,Paraguaçu
+-27.464325,-51.57991666666667,Cataratas do Iguaçu Produtos Orgânicos- Ltda – Gebana Brasil (Grupo Filipini),Cataratas do Iguaçu Produtos Orgânicos,Fazenda Santo Antônio (Rodial),Santa Catarina,Capinzal
+-27.49376666666667,-51.44497222222222,Cataratas do Iguaçu Produtos Orgânicos- Ltda – Gebana Brasil (Grupo Filipini),Cataratas do Iguaçu Produtos Orgânicos,Fazenda Umbu,Santa Catarina,Campos Novos
+-9.503105555555555,-50.83139722222223,AgroSB Agropecuária S.A.,AgroSB,Santana do Araguaia – PA,Pará,Santana do Araguaia
+-13.839122222222223,-58.84351111111111,Amaggi Commodities EU RED,Amaggi,Água Quente,Mato Grosso,Sapezal
+-13.883744444444444,-56.900816666666664,Amaggi Commodities EU RED,Amaggi,Aricá,Mato Grosso,Diamantino
+-13.88361111111111,-56.900555555555556,Amaggi Commodities EU RED,Amaggi,Cereal Ouro,Mato Grosso,Diamantino
+-13.892777777777777,-58.79277777777778,Amaggi Commodities EU RED,Amaggi,Comil I e II,Mato Grosso,Sapezal
+-13.6831,-59.14771666666667,Amaggi Commodities EU RED,Amaggi,Comil III,Mato Grosso,Campos de Júlio
+-9.571591666666666,-61.98356944444445,Amaggi Commodities EU RED,Amaggi,Don Aro,Rondônia,Machadinho D'Oeste
+-13.869941666666668,-57.96344166666667,Amaggi Commodities EU RED,Amaggi,Estrela,Mato Grosso,Campo Novo do Parecis
+-12.951833333333333,-58.59330555555556,Amaggi Commodities EU RED,Amaggi,Globo,Mato Grosso,Sapezal
+-12.586702777777779,-68.13724722222223,Amaggi Commodities EU RED,Amaggi,Independência,Departamento de La Paz,Iturralde
+-14.317305555555555,-57.951686111111115,Amaggi Commodities EU RED,Amaggi,Itamarati,Mato Grosso,Campo Novo do Parecis
+-14.106577777777778,-59.201483333333336,Amaggi Commodities EU RED,Amaggi,Lajeada,Mato Grosso,Campos de Júlio
+-13.800016666666668,-59.178288888888886,Amaggi Commodities EU RED,Amaggi,Letícia II,Mato Grosso,Campos de Júlio
+-12.898555555555555,-58.57947222222223,Amaggi Commodities EU RED,Amaggi,Matão,Mato Grosso,Sapezal
+-13.200444444444443,-58.73491666666667,Amaggi Commodities EU RED,Amaggi,Nossa Senhora Aparecida,Mato Grosso,Sapezal
+-13.300972222222223,-57.78066666666667,Amaggi Commodities EU RED,Amaggi,Pirâmide,Mato Grosso,Campo Novo do Parecis
+-13.570827777777778,-57.93633611111111,Amaggi Commodities EU RED,Amaggi,Porta Do Céu,Mato Grosso,Campo Novo do Parecis
+-13.627500000000001,-58.70388888888889,Amaggi Commodities EU RED,Amaggi,Rodeio e Canário,Mato Grosso,Sapezal
+-13.816888888888888,-57.58744444444444,Amaggi Commodities EU RED,Amaggi,Santa Amélia / Curitiba,Mato Grosso,Campo Novo do Parecis
+-13.328111111111111,-57725,Amaggi Commodities EU RED,Amaggi,Santa Maria,Mato Grosso,Campo Novo do Parecis
+-13.784975,-57.926091666666665,Amaggi Commodities EU RED,Amaggi,Santa Maria/ Primavera,Mato Grosso,Campo Novo do Parecis
+-13.411111111111111,-58.85777777777778,Amaggi Commodities EU RED,Amaggi,Santa Rosa Do Paraná I e II,Mato Grosso,Sapezal
+-13.570827777777778,-57.93633611111111,Amaggi Commodities EU RED,Amaggi,São Carlos,Mato Grosso,Campo Novo do Parecis
+-13.526583333333335,-59.154777777777774,Amaggi Commodities EU RED,Amaggi,Saudades,Mato Grosso,Campos de Júlio
+-13.34041388888889,-57.980336111111114,Amaggi Commodities EU RED,Amaggi,Três Marcos,Mato Grosso,Campo Novo do Parecis
+-13.478083333333334,-58.90891388888889,Amaggi Commodities EU RED,Amaggi,Tucunaré,Mato Grosso,Sapezal
+-11.546308333333334,-56.516375,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Fazenda América,Mato Grosso,Tabaporã
+-13.152155555555556,-55.37456666666667,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Fazenda Boa Vista,Mato Grosso,Sorriso
+-11.956708333333333,-56.152794444444446,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Fazenda Rio Branco,Mato Grosso,Ipiranga do Norte
+-24.920630555555558,-54.03516666666666,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Carlos Eduardo Silveira,Paraná,Diamante d'Oeste
+-24.946908333333333,-54.05305,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Tatiana Eloiza Scultz,Paraná,Diamante d'Oeste
+-24.920630555555558,-54.03516666666666,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Cleusa Guilherme da Silva,Paraná,Diamante d'Oeste
+-24.920283333333334,-54.038780555555554,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Diomar Zopellaro,Paraná,Diamante d'Oeste
+-24.93898888888889,-54.058386111111105,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Jose Ezildo da Silva,Paraná,Diamante d'Oeste
+-24.220277777777778,-53.71083333333333,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Flavio Luiz Berno,Paraná,Palotina
+-24.240555555555556,-53.863055555555555,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Caroline de Carle Gomes,Paraná,Palotina
+-24.499722222222225,-54.18083333333333,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Darci Dedimar Tomm,Paraná,Marechal Cândido Rondon
+-25.08861111111111,-53.581388888888895,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Hilario Mattuizzi,Paraná,Santa Tereza do Oeste
+-24.198888888888888,-53.717222222222226,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Deomiro Bernardo Lehmkuhl,Paraná,Palotina
+-24.264722222222222,-53.89361111111111,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Lauri Leo Buzanello,Paraná,Palotina
+-25.08861111111111,-53.581388888888895,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Araides Duarte da Luz,Paraná,Santa Tereza do Oeste
+-24.19361111111111,-53.726111111111116,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Roberto Pradela,Paraná,Palotina
+-25.08861111111111,-53.581388888888895,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Olindo Pierezan,Paraná,Santa Tereza do Oeste
+-14.069166666666666,-47.0675,Fazenda Nossa Senhora Aparecida ,Fazenda Nossa Senhora Aparecida ,Nossa Senhora Aparecida,Goiás,Nova Roma
+-12.9903,-61.1752,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Barranco Alto,Rondônia,Corumbiara
+-12.5894,-60.9568,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Chupinguaia,Rondônia,Chupinguaia
+-13.5432,-60.4186,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Curitiba,Mato Grosso,Comodoro
+-13.0003,-60.9653,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Dom Pedro,Rondônia,Corumbiara
+-12.6789,-61.1009,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Juliana,Rondônia,Chupinguaia
+-14.4411,-60.1257,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Maringá 3,Mato Grosso,Vila Bela da Santíssima Trindade
+-13.1358,-58.6772,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Pérola,Mato Grosso,Sapezal
+-12.5667,-60.0786,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Retiro,Rondônia,Vilhena
+-13.4259,-58.4228,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Reunidas do Papagaio,Mato Grosso,Campo Novo do Parecis
+-12.9996,-61.2383,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Santa Ana,Rondônia,Corumbiara
+-13.8006,-58663,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Santa Cândida,Mato Grosso,Sapezal
+-13.3592,-58.8949,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Siriema,Mato Grosso,Sapezal
+-13.4602,-58.5877,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Tupancy,Mato Grosso,Sapezal
+-13.9476,-59.2014,Amaggi Exp. e Imp. Ltda – Grupo Parecis II,Amaggi,Fazenda Zanella II,Mato Grosso,Campos de Júlio
+-16.36227777777778,-55.07815,Bom Jesus Agropecuaria LTDA - Fazenda Mirandópolis,Bom Jesus Agropecuaria ,Fazenda Mirandópolis,Mato Grosso,Juscimeira
+-16.09476111111111,-56.75564166666667,Fazenda Lagoa Dourada,Fazenda Lagoa Dourada,Fazenda Lagoa Dourada,Mato Grosso,Poconé
+-17.014830555555555,-48.311724999999996,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Matão,Goiás,Orizona
+-16.914902777777776,-48.15588611111111,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Cachoeira,Goiás,Orizona
+-17.05030277777778,-48.362183333333334,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Morro Alto,Goiás,Orizona
+-17.163361111111108,-48.16511111111111,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Areias de Baixo,Goiás,Orizona
+-17.06881111111111,-48.3667,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Morro Alto,Goiás,Orizona
+-16.935858333333332,-48.30178055555555,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Taquaral e Cuiabanos,Goiás,Orizona
+-16.89455,-48.36691666666667,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Taquaral de Cima,Goiás,Vianópolis
+-16.778523,-48.633775,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Engenho Velho,Goiás,Vianópolis
+-16.878407,-48.603229,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Rio dos Bois,Goiás,Vianópolis
+-16.428912,-48.634759,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Mucambo,Goiás,Gameleira de Goiás
+-16.890582,-48.43886,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Rio do Peixe,Goiás,Vianópolis
+-16.701849,-48.798744,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Ponte Alta,Goiás,Leopoldo de Bulhões
+-16.605829,-48.260294,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Boa Esperança,Goiás,Vianópolis
+-16.785815,-48.637973,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Engenho Velho,Goiás,Vianópolis
+-16.859656,-48.29299,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Santa Rita,Goiás,Orizona
+-14.1864,-56.6293,Grupo Hervalense,Grupo Hervalense,Fazenda Hervalense,Mato Grosso,Diamantino
+-14.1311,-57.0097,Grupo Hervalense,Grupo Hervalense,Fazenda Chapadão,Mato Grosso,Diamantino
+-14468,-56.2036,Grupo Hervalense,Grupo Hervalense,Fazenda Lagoa do Cervo,Mato Grosso,Diamantino
+-13.666558333333334,-55.39378611111111,GGF - Agro LTDA,GGF Agro,Fazenda Pau Da Onça,Mato Grosso,Santa Rita do Trivelato
+-15.4422970718181,-54.9268314506474,Fazenda Modelo (Eswalter Zanetti e Outros),Fazenda Modelo,Fazenda Modelo,Mato Grosso,Campo Verde
+-14.857861111111111,-53.492125,O Telhar Agropecuária LTDA ,O Telhar Agropecuária ,Fazenda Nova,Mato Grosso,Santo Antônio do Leste
+-15.23903611111111,-54.154088888888886,O Telhar Agropecuária LTDA,O Telhar Agropecuária ,Fazenda Primavera,Mato Grosso,Primavera do Leste
+-14.8586,-53.49315,O Telhar Agropecuária LTDA,O Telhar Agropecuária ,Fazenda Independência,Mato Grosso,Santo Antônio do Leste
+-13.524036111111112,-55.07678333333334,O Telhar Agropecuária LTDA,O Telhar Agropecuária ,Fazenda Rio Bonito,Mato Grosso,Nova Ubiratã
+-13.853141666666666,-57.19152777777777,O Telhar Agropecuária LTDA,O Telhar Agropecuária ,Fazenda Pirapó,Mato Grosso,São José do Rio Claro
+-14.58053611111111,-56.452422222222225,O Telhar Agropecuária LTDA,O Telhar Agropecuária ,Fazenda Sete Lagoas,Mato Grosso,Alto Paraguai
+-16.8375,-54.04222222222222,Fazenda Girassol,Girassol Agrícola,Fazenda Girassol,Mato Grosso,Pedra Preta
+-16.58431388888889,-54.85796944444444,Fazenda Verde Agropastoril Jatobasso Ltda,Agropastoril Jatobasso,Fazenda Verde,Mato Grosso,Rondonópolis
+-8.119722222222222,-46.53055555555555,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Campos Lindos,Tocantins,Campos Lindos
+-8.293055555555556,-46.776944444444446,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Chapada Alta,Tocantins,Campos Lindos
+-7.420833333333333,-46.36138888888889,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Santo Isidoro,Maranhão,Riachão
+-8.564722222222223,-46.67944444444444,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Batavo,Maranhão,Balsas
+-7.654166666666667,-46.66416666666667,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Curitiva,Maranhão,Riachão
+-12.9903,-61.1752,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Barranco Alto,Rondônia,Corumbiara
+-12.5894,-60.9568,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Chupinguaia,Rondônia,Chupinguaia
+-13.5432,-60.4186,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Curitiba,Mato Grosso,Comodoro
+-13.0003,-60.9653,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Dom Pedro,Rondônia,Corumbiara
+-12.6789,-61.1009,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Juliana,Rondônia,Chupinguaia
+-14.4411,-60.1257,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Maringá 3,Mato Grosso,Vila Bela da Santíssima Trindade
+-13.1358,-58.6772,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Pérola,Mato Grosso,Sapezal
+-12.5667,-60.0786,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Retiro,Rondônia,Vilhena
+-13.4259,-58.4228,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Reunidas do Papagaio,Mato Grosso,Campo Novo do Parecis
+-12.9996,-61.2383,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Santa Ana,Rondônia,Corumbiara
+-13.8006,-58663,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Santa Cândida,Mato Grosso,Sapezal
+-13.3592,-58.8949,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Siriema,Mato Grosso,Sapezal
+-13.4602,-58.5877,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Tupancy,Mato Grosso,Sapezal
+-13.9476,-59.2014,Amaggi Exp Imp Ltda - Grupo Parecis II,Amaggi,Fazenda Zanella II,Mato Grosso,Campos de Júlio
+-17.123078,-50.488528,Produzindo Certo - Grupo Comigo,Produzindo Certo,Boa Vista,Goiás,Paraúna
+-17.096734,-51.024631,Produzindo Certo - Grupo Comigo,Produzindo Certo,Estreito Ponte de Pedra,Goiás,Montividiu
+-17.587753,-51.421453,Produzindo Certo - Grupo Comigo,Produzindo Certo,Rio Verdinho da Barra Grande,Goiás,Rio Verde
+-17.873725,-51.028578,Produzindo Certo - Grupo Comigo,Produzindo Certo,São Tomaz,Goiás,Rio Verde
+-17.746797,-51.017607,Produzindo Certo - Grupo Comigo,Produzindo Certo,São Tomaz e arrendamento,Goiás,Rio Verde
+-17.496719,-51.649725,Produzindo Certo - Grupo Comigo,Produzindo Certo,São Tomé e arrendamento,Goiás,Rio Verde
+-17.204922,-51.2177,Produzindo Certo - Grupo Comigo,Produzindo Certo,Sol Nascente,Goiás,Montividiu
+-21.282777777777778,-45.43416666666666,Saag Comercial Exportadora Ltda no-GMO,Saag Comercial Exportadora ,Fazenda Lage,Minas Gerais,Santana da Vargem
+-21.52791111111111,-45.25128611111111,Saag Comercial Exportadora Ltda no-GMO,Saag Comercial Exportadora ,Fazenda Saquarema,Minas Gerais,Carmo da Cachoeira
+-20.823544444444444,-45.25128611111111,Saag Comercial Exportadora Ltda no-GMO,Saag Comercial Exportadora ,Agropecuaria Verdes Mares,Minas Gerais,"Candeias, Minas Gerais"
+-21.380283333333335,-45.308474999999994,Saag Comercial Exportadora Ltda no-GMO,Saag Comercial Exportadora ,Potreiro,Minas Gerais,Três Pontas
+-19.435080555555555,-46.84454166666667,Saag Comercial Exportadora Ltda no-GMO,Saag Comercial Exportadora ,Agrorossi,Minas Gerais,Ibiá
+-19.516130555555556,-46.53453888888889,Saag Comercial Exportadora Ltda no-GMO,Saag Comercial Exportadora ,São Pedro,Minas Gerais,Ibiá
+-19.516130555555556,-46.53453888888889,Saag Comercial Exportadora Ltda no-GMO,Saag Comercial Exportadora ,FAZENDA ANGICOS,Minas Gerais,Ibiá
+-19.937797222222223,-46.43993333333333,Saag Comercial Exportadora Ltda no-GMO,Saag Comercial Exportadora ,Fazenda Novo Horizonte,Minas Gerais,Medeiros
+-18.771695,-49.225519,Bartira Gestão Agropecuária,Bartira Agropecuária,Fazenda Pirapitinga,Minas Gerais,Canápolis
+-18.716026,-53.168611,Bartira Gestão Agropecuária,Bartira Agropecuária,Fazenda San Jorge,Mato Grosso do Sul,Costa Rica
+-14.354563,-57.948723,Bartira Gestão Agropecuária,Bartira Agropecuária,Fazenda San Antônio,Mato Grosso,Tangará da Serra
+-11.855835,-51.930628,Bartira Gestão Agropecuária,Bartira Agropecuária,Fazenda Morumbi Agropecuária S.A,Mato Grosso,Bom Jesus do Araguaia
+-8.372257,-46.425744,Bartira Gestão Agropecuária,Bartira Agropecuária,Fazenda Bacuri,Maranhão,Balsas
+-7.870731,-45.747764,Bartira Gestão Agropecuária,Bartira Agropecuária,Fazenda Horizontina Leste,Maranhão,Tasso Fragoso
+-8.249321,-46.613116,Bartira Gestão Agropecuária,Bartira Agropecuária,Fazenda Horizontina Norte,Tocantins,Campos Lindos
+-6.539068,-48.22474,Bartira Gestão Agropecuária,Bartira Agropecuária,Flores,Tocantins,Piraquê
+-12.804975,-55.776375,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Alegria,Mato Grosso,Sorriso
+-12.085497222222223,-55.66502777777777,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Berrante de Ouro,Mato Grosso,Sorriso
+-12.502161666666666,-56.4691125,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Cella,Mato Grosso,Tapurah
+-13.070797222222222,-54.96544166666667,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Centro da Mata,Mato Grosso,Nova Ubiratã
+-13.338591666666668,-55.11895277777778,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Criciúma,Mato Grosso,Nova Ubiratã
+-12.150277777777777,-55.75083333333333,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Jaborandi,Mato Grosso,Sorriso
+-12.575758333333333,-56.01485,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Leopoldina,Mato Grosso,Sorriso
+-13.128222222222222,-55.32194444444445,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Marauense,Mato Grosso,Sorriso
+-14365,-58.10008333333334,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Morena,Mato Grosso,Tangará da Serra
+-12.960486111111111,-55.77930555555555,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda São Marcos,Mato Grosso,Lucas do Rio Verde
+-12.481625,-55.48473888888889,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Nossa Senhora da Salete,Mato Grosso,Vera
+-12.815619444444446,-55.764494444444445,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Pedra,Mato Grosso,Sorriso
+-12.940572222222222,-55.58058333333334,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Pinhal,Mato Grosso,Sorriso
+-12.830516666666666,-55.383494444444445,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Pluma,Mato Grosso,Sorriso
+-12.723611111111111,-55.532777777777774,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Rodeio,Mato Grosso,Sorriso
+-12.479655555555556,-55.696305555555554,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santa Ernestina,Mato Grosso,Sorriso
+-12.371111111111112,-55805,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santa Maria da Amazônia,Mato Grosso,Sorriso
+-9.053305555555557,-65.41750833333334,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santana,Amazonas,Lábrea
+-12.947222222222223,-55.85277777777778,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santo Antônio,Mato Grosso,Lucas do Rio Verde
+-12.788533333333334,-55.78503055555555,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda São Felipe,Mato Grosso,Sorriso
+-10.422672222222221,-55.67885833333333,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Gamada,Mato Grosso,Colíder
+-12.859094444444445,-55.743830555555554,Associação Clube Amigos da Terra CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Videirense,Mato Grosso,Sorriso
+-24.739889,-49.902293,Produzindo Certo-Grupo Castrolanda,Produzindo Certo,Agropecuária Romi,Paraná,Castro
+-13.339561111111111,-45.79119722222222,Agricola Xingu S.A,Agricola Xingu,Fazenda Tabuleiro I,Bahia,Correntina
+-13.258611111111112,-45.726111111111116,Agricola Xingu S.A,Agricola Xingu,Fazenda Tabuleiro II,Bahia,Correntina
+-13.190527777777778,-45.78301666666667,Agricola Xingu S.A,Agricola Xingu,Fazenda Tabuleiro III,Bahia,São Desidério
+-24.154856,-49.182219,Produzindo Certo-Grupo Castrolanda,Produzindo Certo,Bom Sucesso,São Paulo,Itararé
+-18.211311,-53.204092,SLC Agrícola,SLC Agrícola,Fazenda Planalto,Mato Grosso do Sul,Costa Rica
+-16.227882,-47.625268,SLC Agrícola,SLC Agrícola,Fazenda Pamplona,Goiás,Cristalina
+-13.407468,-46.097783,SLC Agrícola,SLC Agrícola,Fazenda Panorama,Bahia,Correntina
+-8.514722,-46.077028,SLC Agrícola,SLC Agrícola,Fazenda Parnaíba,Maranhão,Tasso Fragoso
+-8.554206,-46.859487,SLC Agrícola,SLC Agrícola,Fazenda Planeste,Maranhão,Balsas
+-14.08013,-57.456034,SLC Agrícola,SLC Agrícola,Fazenda Paiaguás,Mato Grosso,Diamantino
+-13.936938,-58.898933,SLC Agrícola,SLC Agrícola,Fazenda Planorte,Mato Grosso,Sapezal
+- 18.771695,-49.225519,Fazendas Bartira ,Bartira Agropecuária,Fazenda Pirapitinga,Minas Gerais,Canápolis
+- 18.716026,-53.168611,Fazendas Bartira,Bartira Agropecuária,Fazenda San Jorge,Minas Gerais,Costa Rica
+-14.354563,-57.948723,Fazendas Bartira ,Bartira Agropecuária,Fazenda San Antônio,Mato Grosso,Tangará da Serra
+-11.855835,-51.930628,Fazendas Bartira,Bartira Agropecuária,Fazenda Morumbi Agropecuária S.A,Mato Grosso,Bom Jesus do Araguaia
+-14.354563,-57.948723,Fazendas Bartira - non-GMO,Bartira Agropecuária,Fazenda San Antônio,Mato Grosso,Tangará da Serra
+-47.364068,-47.364068,Aliança da Terra - Grupo IV,Aliança da Terra,Água Santa,,
+-17.42317,-51.367197,Aliança da Terra - Grupo IV,Aliança da Terra,Bandeirantes,Goiás,Montividiu
+-17.373805,-50.98599,Aliança da Terra - Grupo IV,Aliança da Terra,Boa Esperança,Goiás,Rio Verde
+-17.354913,-51.461452,Aliança da Terra - Grupo IV,Aliança da Terra,Boa Vista,Goiás,Montividiu
+-17.354913,-51.461452,Aliança da Terra - Grupo IV,Aliança da Terra,Bom Jardim e Primavera,Goiás,Montividiu
+-17.286756,-51.32331,Aliança da Terra - Grupo IV,Aliança da Terra,Bom Jardim (Dorothea),Goiás,Montividiu
+-17.281813,-51.329665,Aliança da Terra - Grupo IV,Aliança da Terra,Bom Jardim (Marcelo),Goiás,Montividiu
+-17.492133,-51.275933,Aliança da Terra - Grupo IV,Aliança da Terra,Brasilanda,Goiás,Montividiu
+-17.238443,-51.645517,Aliança da Terra - Grupo IV,Aliança da Terra,Cachoeirinha,Goiás,Caiapônia
+-17.069333,-51.118167,Aliança da Terra - Grupo IV,Aliança da Terra,Cana Verde,Goiás,Montividiu
+-18.072217,-46.426303,Aliança da Terra - Grupo IV,Aliança da Terra,DME,Minas Gerais,Presidente Olegário
+-17.836257,-46.35671,Aliança da Terra - Grupo IV,Aliança da Terra,Gameleira,Minas Gerais,Lagoa Grande
+-18.121277,-50.736345,Aliança da Terra - Grupo IV,Aliança da Terra,Mata do Lobo,Goiás,Rio Verde
+-17.235353,-51.344025,Aliança da Terra - Grupo IV,Aliança da Terra,Mauá,Goiás,Caiapônia
+-17.49837,-51.42451,Aliança da Terra - Grupo IV,Aliança da Terra,Monte Alegre,Goiás,Rio Verde
+-17.402428,-50.821303,Aliança da Terra - Grupo IV,Aliança da Terra,Monte Alegre Pindaíbas,Goiás,Rio Verde
+-17.739327,-51.28907,Aliança da Terra - Grupo IV,Aliança da Terra,Pai Manoel,Goiás,Rio Verde
+-18.066978,-50.792807,Aliança da Terra - Grupo IV,Aliança da Terra,Paraíso do Rio Preto,Goiás,Rio Verde
+-18083,-50.787721,Aliança da Terra - Grupo IV,Aliança da Terra,Paraíso Rio Preto e Renala,Goiás,Rio Verde
+-19.222047,-48.03494,Aliança da Terra - Grupo IV,Aliança da Terra,Santa Fé,Minas Gerais,Uberlândia
+-17.728242,-50.812352,Aliança da Terra - Grupo IV,Aliança da Terra,Santa Mônica e Felicidade,Goiás,Rio Verde
+-17.204747,-50.525807,Aliança da Terra - Grupo IV,Aliança da Terra,Santa Rita e arrendamento,Goiás,Paraúna
+-17.492395,-51.601532,Aliança da Terra - Grupo IV,Aliança da Terra,São Francisco,Goiás,Rio Verde
+-18.42833,-46.056212,Aliança da Terra - Grupo IV,Aliança da Terra,São João,Minas Gerais,Varjão de Minas
+-17.206031,-51.078808,Aliança da Terra - Grupo IV,Aliança da Terra,São José,Goiás,Montividiu
+-17.524475,-51.464028,Aliança da Terra - Grupo IV,Aliança da Terra,São Sebastião,Goiás,Rio Verde
+-17.819058,-51.115422,Aliança da Terra - Grupo IV,Aliança da Terra,São Tomaz,Goiás,Rio Verde
+-18.861594,-47.707017,Aliança da Terra - Grupo IV,Aliança da Terra,Segredo,Minas Gerais,Indianópolis
+-18.861594,-47.707017,Aliança da Terra - Grupo IV,Aliança da Terra,Speggiorini,Minas Gerais,Indianópolis
+-17.353563,-51.881125,Aliança da Terra - Grupo IV,Aliança da Terra,Torre,Goiás,Jataí
+-17.394317,-51.403618,Aliança da Terra - Grupo IV,Aliança da Terra,Tropical,Goiás,Montividiu
+-17.371451,-51.483038,Aliança da Terra - Grupo IV,Aliança da Terra,Vargem Grande,Goiás,Montividiu
+-17.43054833,-51.58419667,Aliança da Terra - Grupo IV,Aliança da Terra,"Vargem Grande, Planalto Verde e Unidas",Goiás,Rio Verde
+-17.43818,-51.475864,Aliança da Terra - Grupo IV,Aliança da Terra,Vitória,Goiás,Rio Verde
+-14.372530555555556,-56.76291666666667,Fazenda Agrícola Dourado S.A.,Fazenda Agrícola Dourado,Fazenda Agrícola Dourado,Mato Grosso,Nortelândia
+-13.3939,-58.53006388888889,Amaggi Commodities EU RED,Amaggi,Don Aro,Mato Grosso,Sapezal
+-13.892777777777777,-58.79277777777778,Amaggi Commodities EU RED,Amaggi,Flexa De Ouro I,Mato Grosso,Sapezal
+-12.951833333333333,-58.59330555555556,Amaggi Commodities EU RED,Amaggi,Flexa De Ouro II,Mato Grosso,Sapezal
+-12.586702777777779,-68.13724722222223,Amaggi Commodities EU RED,Amaggi,Saudades / Paixão / Masutti,Departamento de La Paz,Iturralde
+-9.571591666666666,-61.98356944444445,Amaggi Commodities EU RED,Amaggi,JK,Rondônia,Machadinho D'Oeste
+-12.554166666666667,-58.09955555555556,Amaggi Commodities EU RED,Amaggi,Letícia II,Mato Grosso,Brasnorte
+-11.544027777777778,-57.89213888888889,Amaggi Commodities EU RED,Amaggi,Lajeada,Mato Grosso,Juara
+-13.526583333333335,-59.154777777777774,Amaggi Commodities EU RED,Amaggi,Grupo Comil III,Mato Grosso,Campos de Júlio
+-13.037975,-59.90998888888889,Amaggi Commodities EU RED,Amaggi,Fortaleza Do Guaporé NL,Mato Grosso,Comodoro
+-13.800016666666668,-59.178288888888886,Amaggi Commodities EU RED,Amaggi,Piramide,Mato Grosso,Campos de Júlio
+-14.106577777777778,-59.201483333333336,Amaggi Commodities EU RED,Amaggi,São Carlos,Mato Grosso,Campos de Júlio
+-3.6831,-59.14771666666667,Amaggi Commodities EU RED,Amaggi,Porta Do Céu,Amazonas,Autazes
+-14.395555555555555,-60.027499999999996,Amaggi Commodities EU RED,Amaggi,Santa Maria,Mato Grosso,Vila Bela da Santíssima Trindade
+-13.300972222222223,-57.78066666666667,Amaggi Commodities EU RED,Amaggi,Estrela,Mato Grosso,Campo Novo do Parecis
+-13.570827777777778,-57.93633611111111,Amaggi Commodities EU RED,Amaggi,Três Marcos,Mato Grosso,Campo Novo do Parecis
+-13.570827777777778,-57.93633611111111,Amaggi Commodities EU RED,Amaggi,Santa Maria,Mato Grosso,Campo Novo do Parecis
+-13.784975,-57.926091666666665,Amaggi Commodities EU RED,Amaggi,Santa Amélia / Curitiba,Mato Grosso,Campo Novo do Parecis
+-13.869941666666668,-57.96344166666667,Amaggi Commodities EU RED,Amaggi,Tucano I e II / Ponte de Pedra,Mato Grosso,Campo Novo do Parecis
+-13.34041388888889,-57.980336111111114,Amaggi Commodities EU RED,Amaggi,Cereal Ouro,Mato Grosso,Campo Novo do Parecis
+-13.328111111111111,-57725,Amaggi Commodities EU RED,Amaggi,Aricá,Mato Grosso,Campo Novo do Parecis
+-13.816888888888888,-57.58744444444444,Amaggi Commodities EU RED,Amaggi,Matão,Mato Grosso,Campo Novo do Parecis
+-13.584427777777778,-57.555527777777776,Amaggi Commodities EU RED,Amaggi,Nossa Senhora Aparecida,Mato Grosso,Nova Maringá
+-13.88361111111111,-56.900555555555556,Amaggi Commodities EU RED,Amaggi,Santa Rosa Do Paraná I e II,Mato Grosso,Diamantino
+-13.3939,-58.53006388888889,Amaggi Commodities EU RED,Amaggi,Rodeio e Canário,Mato Grosso,Sapezal
+-13.892777777777777,-58.79277777777778,Amaggi Commodities EU RED,Amaggi,Paraíso ,Mato Grosso,Sapezal
+-12.951833333333333,-58.59330555555556,Amaggi Commodities EU RED,Amaggi,Grupo Comil I e II,Mato Grosso,Sapezal
+-12.586702777777779,-68.13724722222223,Amaggi Commodities EU RED,Amaggi,Globo,Departamento de La Paz,Iturralde
+-9.571591666666666,-61.98356944444445,Amaggi Commodities EU RED,Amaggi,Independência,Rondônia,Machadinho D'Oeste
+-7.456163888888889,-44.16243333333333,FAPCEN I,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Fazenda Progresso,Piauí,Landri Sales
+-7.408111111111111,-44.31198611111111,FAPCEN I,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Fazenda Tunísia,Piauí,Sebastião Leal
+-8.362975,-45.508427777777776,FAPCEN I,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Condomínio Boa Esperança,Piauí,Ribeiro Gonçalves
+-8.83783888888889,-46.56133888888888,FAPCEN I,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Fazenda Nova Holanda,Maranhão,Balsas
+-6.894322222222222,-45.32564722222222,FAPCEN I,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Fazenda Serra Vermelha,Maranhão,Sambaíba
+-7.407333333333334,-46.01482222222222,FAPCEN I,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Fazenda Sol Nascente,Maranhão,Balsas
+-6.865788888888889,-45.49799166666667,FAPCEN I,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Fazenda Santa Luzia,Maranhão,Mirador
+-9.23286388888889,-46.53489166666667,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Carolina do Norte,Maranhão,Alto Parnaíba
+-7.854863888888889,-45.79848055555556,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Rio Verde,Maranhão,Tasso Fragoso
+-7.2877777777777775,-46.21008055555556,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Granja Ceres,Maranhão,Riachão
+-9.056405555555557,-46.34009166666667,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Itapuá,Maranhão,Alto Parnaíba
+-17.216733333333334,-47.0485,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Ouro Branco,Minas Gerais,Paracatu
+-7.929830555555556,-44.408975,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte,Rainha da Serra,Piauí,Uruçuí
+-24.920630555555558,-54.05305,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Carlos Eduardo Silveira,Paraná,Diamante d'Oeste
+-24.946908333333333,-54.05305,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Tatiana Eloiza Scultz,Paraná,Diamante d'Oeste
+-24.920630555555558,-54.03516666666666,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Cleusa Guilherme da Silva,Paraná,Diamante d'Oeste
+-24.920283333333334,-54.038780555555554,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Diomar Zopellaro,Paraná,Diamante d'Oeste
+-24.93898888888889,-54.058386111111105,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Jose Ezildo da Silva,Paraná,Diamante d'Oeste
+-24.220277777777778,-53.71083333333333,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Flavio Luiz Berno,Paraná,Palotina
+-24.240555555555556,-53.863055555555555,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Caroline de Carle Gomes,Paraná,Palotina
+-24.499722222222225,-54.18083333333333,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Darci Dedimar Tomm,Paraná,Marechal Cândido Rondon
+-25.08861111111111,-53.581388888888895,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Hilario Mattuizzi,Paraná,Santa Tereza do Oeste
+-24.198888888888888,-53.717222222222226,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Deomiro Bernardo Lehmkuhl,Paraná,Palotina
+-24.264722222222222,-53.89361111111111,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Lauri Leo Buzanello,Paraná,Palotina
+-25.08861111111111,-53.581388888888895,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Araides Duarte da Luz,Paraná,Santa Tereza do Oeste
+-24.19361111111111,-53.726111111111116,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Roberto Pradela,Paraná,Palotina
+-25.08861111111111,-53.581388888888895,Cataratas do Iguaçu Produtos Orgânicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Pierezan,Paraná,Santa Tereza do Oeste
+-9.503105555555555,-50.83139722222223,AgroSB Agropecuária S.A.,AgroSB,Fazenda Nova Vida,Pará,Santana do Araguaia
+-8.119722222222222,-46.53055555555555,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Campos Lindos,Tocantins,Campos Lindos
+-8.293055555555556,-46.776944444444446,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Chapada Alta,Tocantins,Campos Lindos
+-7.420833333333333,-46.36138888888889,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Santo Isidoro,Maranhão,Riachão
+-8.564722222222223,-46.67944444444444,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Batavo,Maranhão,Balsas
+-7.654166666666667,-46.66416666666667,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Curitiva,Maranhão,Riachão
+- 8.597150,- 46.639218,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA AGRO BOA VISTA,Maranhão,Mandacaru
+- 8.118607,- 45.870153,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CERTEZA,Maranhão,Tasso Fragoso
+- 8.651808,- 45.945183,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CHAPADÃO,Maranhão,Tasso Fragoso
+- 8.297231,- 45.769278,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA SAPUCAÍ,Maranhão,Tasso Fragoso
+- 7.088961,- 45.945405,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA GUAÍRA,Maranhão,Fortaleza dos Nogueiras
+- 8.430479,- 46.618932,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CAIUÁ,Maranhão,Balsas
+- 7.447427,-46.3264,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA SEIS IRMÃOS,Maranhão,Balsas
+- 8.721907,- 45.570364,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA JAPURÁ,Piauí,Santa Filomena
+- 12.423922,- 46.250622,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ALVORADA,Bahia,Luíz Eduardo Magalhães
+- 8.678837,- 46.665834,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TAKAHASHI,Maranhão,Balsas
+- 15.266706,-54.263947,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA LAGOA ENCANTADA,Mato Grosso,Primavera do Leste
+- 7.963056,- 45.924650,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ESCONDIDO,Maranhão,Balsas
+- 7.965008,- 45.752163,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA PIRACICABA,Maranhão,Tasso Fragoso
+- 8.125459,- 45.789736,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ANGICOS,Maranhão,Tasso Fragoso
+-12.902398,-46.194599,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA GUARANI,Bahia,São Desidério
+-11.84223,-46.244109,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ORQUÍDEAS,Bahia,Barreiras
+- 11.793402,- 45.958693,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CAMPO ABERTO,Bahia,Barreiras
+-8.191716,-46.461772,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA BAIXÃO PRETO,Maranhão,Riachão
+-8.520959,-46.749241,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA  AGROMANTOVA  BATAVO,Maranhão,Balsas
+-8.9949,-46.559639,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TABATINGA,Maranhão,Alto Parnaíba
+-8.672696,- 46.011546,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TERRA NOVA,Maranhão,Tasso Fragoso
+-8.12433,-46.146117,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ARAPUÃ,Maranhão,Tasso Fragoso
+-8.041355,-45.976106,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA APUÃ,Maranhão,Balsas
+-8.135828,-46.133402,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA NOSSA SENHORA DAS GRAÇAS,Maranhão,Tasso Fragoso
+-12.214789,-45.958782,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA SAMA,Bahia,Luíz Eduardo Magalhães
+-11.83768,-46.28957,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CONDOMINIO IRMÃOS GATTO,Bahia,Barreias
+-8.447452,-45.937696,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CABECEIRA,Maranhão,Tasso Fragoso
+-7.960087,-45.809129,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TEATINO,Maranhão,Balsas
+-7.798658,-45.054773,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TRADIÇÃO,Piauí,Ribeiro Gonçalves
+-13.504164,-46.113412,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA GBC,Bahia,Correntina
+-13.740469,-46.140271,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA PARANÁ,Bahia,Correntina
+-12.804929,-45.656859,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA PORTO ALEGRE,Bahia,São Desidério
+-7.849968,-45.778352,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA FAVEIRA,Maranhão,Tasso Fragoso
+-9.375476,-45.216978,Cerquality Consultoria em Sustentabilidade e Certificação LTDA Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ALVORADA - FRITZEN,Piauí,Gilbués
+-14825,-47.72638888888889,Fazenda Nossa Senhora Aparecida,Fazenda Nossa Senhora Aparecida,Fazenda Nossa Senhora Aparecida,Goiás,Água Fria de Goiás
+-12.26558611111111,-56.19936388888888,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,AgroAna,Mato Grosso,Ipiranga do Norte
+-11.546308333333334,-56.516375,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,América,Mato Grosso,Tabaporã
+-12.003072222222222,-54.671613888888885,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Conquista,Mato Grosso,Santa Carmem
+-12.125052777777778,-55.48029722222223,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Diamantino,Mato Grosso,Sinop
+-11.748022222222222,-56.117777777777775,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Fênix,Mato Grosso,Porto dos Gaúchos
+-13.245861111111111,-55.187263888888886,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,JP,Mato Grosso,Nova Ubiratã
+-12.401736111111111,-55.975455555555556,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Nossa Sr? do Carmo,Mato Grosso,Sorriso
+-12.922130555555555,-55.53149722222222,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Potrich,Mato Grosso,Sorriso
+-12.234741666666666,-55.76791388888889,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Pressi,Mato Grosso,Sorriso
+-11.956708333333333,-56.152794444444446,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Rio Branco,Mato Grosso,Ipiranga do Norte
+-12.772680555555556,-55.95436666666667,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Santa Felicidade,Mato Grosso,Sorriso
+-12.505386111111111,-55.866036111111114,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Santa Helena,Mato Grosso,Sorriso
+-12.818438888888888,-54.93896944444444,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,São José,Mato Grosso,Nova Ubiratã
+-12.496224999999999,-55.81568333333333,Louis Dreyfus Company - LDC Sorriso,Louis Dreyfus Company ,Sichieri,Mato Grosso,Sorriso
+-14.143727777777777,-56.63576527777778,Fazenda Uirapuru,Fazenda Uirapuru,Fazenda Uirapuru,Mato Grosso,Diamantino
+-16.984333333333336,-54.75418888888889,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda Santa Mônica,Mato Grosso,Rondonópolis
+-13.187850000000001,-57.99461111111111,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda Tolosa,Mato Grosso,Brasnorte
+-15.156175000000001,-54.146924999999996,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda Caroline,Mato Grosso,Primavera do Leste
+-15.182258333333333,-54.50257222222222,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda Garça Branca,Mato Grosso,Primavera do Leste
+-11.89273888888889,-46.01746388888889,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda Rio de Janeiro,Bahia,Luís Eduardo Magalhães
+-12.583083333333333,-46.02796111111111,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda São Pedro,Bahia,São Desidério
+-8.806372222222222,-46.84554444444445,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda Serra Branca,Maranhão,Balsas
+-8.448791666666667,-46.053752777777774,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda Graziele,Maranhão,Tasso Fragoso
+-13.591775,-45.99348611111111,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda Cambará,Bahia,Correntina
+-10.997847222222221,-52.16065833333333,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazemda Santa Maria da Fontoura,Mato Grosso,Canabrava do Norte
+-13.666558333333334,-55.39378611111111,GGF - Agro LTDA,GGF Agro,Pau da Onça,Mato Grosso,Santa Rita do Trivelato
+-8.514116666666666,-46.07788333333334,SLC Agricola S.A. - EU RED,SLC Agrícola,Fazenda Parnaíba,Maranhão,Tasso Fragoso
+-8.553880555555557,-46.859300000000005,SLC Agricola S.A. - EU RED,SLC Agrícola,Fazenda Planeste,Maranhão,Balsas
+-18.211030555555556,-53.203450000000004,SLC Agricola S.A. - EU RED,SLC Agrícola,Fazenda Planalto,Mato Grosso do Sul,Costa Rica
+-16.227416666666667,-47.62601111111111,SLC Agricola S.A. - EU RED,SLC Agrícola,Fazenda Pamplona,Goiás,Cristalina
+-13.408269444444445,-46.09628333333333,SLC Agricola S.A. - EU RED,SLC Agrícola,Fazenda Panorama,Bahia,Correntina
+-14.080727777777778,-57.455194444444444,SLC Agricola S.A. - EU RED,SLC Agrícola,Fazenda Paiaguás,Mato Grosso,Diamantino
+-13.936172222222222,-58.894333333333336,SLC Agricola S.A. - EU RED,SLC Agrícola,Fazenda Planorte,Mato Grosso,Sapezal
+-8.514116666666666,-46.07788333333334,SLC Agricola S.A.,SLC Agrícola,Fazenda Parnaíba,Maranhão,Tasso Fragoso
+-8.553880555555557,-46.859300000000005,SLC Agricola S.A. ,SLC Agrícola,Fazenda Planeste,Maranhão,Balsas
+-18.211030555555556,-53.203450000000004,SLC Agricola S.A. ,SLC Agrícola,Fazenda Planalto,Mato Grosso do Sul,Costa Rica
+-16.227416666666667,-47.62601111111111,SLC Agricola S.A. ,SLC Agrícola,Fazenda Pamplona,Goiás,Cristalina
+-13.408269444444445,-46.09628333333333,SLC Agricola S.A.,SLC Agrícola,Fazenda Panorama,Bahia,Correntina
+-14.925738888888889,-53.88522777777778,O Telhar Agropecuária LTDA,O Telhar Agropecuária,Fazenda Nova,Mato Grosso,Santo Antônio do Leste
+-15.258522222222222,-54.154088888888886,O Telhar Agropecuária LTDA,O Telhar Agropecuária ,Fazenda Primavera,Mato Grosso,Primavera do Leste
+-16.584680555555554,-54.85796944444444,Fazenda Verde Agropastoril Jotabasso Ltda,Agropastoril Jatobasso,Sementes Jotabasso - Fazenda Verde,Mato Grosso,Rondonópolis
+-16.8375,-54.04222222222222,Fazenda Girassol,Girassol Agrícola,Fazenda Girassol,Mato Grosso,Pedra Preta
+-14.1864,-56629,Grupo Hervalense,Grupo Hervalense,Grupo Hervalense,Mato Grosso,Diamantino
+-14.1311,-57.01,Fazenda Chapadão,Fazenda Chapadão,Grupo Hervalense,Mato Grosso,Diamantino
+-14468,-56204,Fazenda Lagoa do Cervo,Fazenda Lagoa do Cervo,Grupo Hervalense,Mato Grosso,Diamantino
+-15.4422970718181,-54.9268314506474,Fazenda Modelo (Eswalter Zanetti e Outros),Fazenda Modelo,Fazenda Modelo,Mato Grosso,Campo Verde
+-17.014830555555555,-48.311724999999996,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Matão,Goiás,Orizona
+-16.914902777777776,-48.15588611111111,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Cachoeira,Goiás,Orizona
+-17.06336388888889,-48.30898055555555,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Areias,Goiás,Orizona
+-17.05030277777778,-48.362183333333334,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Morro Alto,Goiás,Orizona
+-17.163361111111108,-48.16511111111111,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Areias de Baixo,Goiás,Orizona
+-17.07025,-48.36688888888889,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Morro Alto,Goiás,Orizona
+-16.8675,-48385,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Santana,Goiás,Caraíba
+-16.935858333333332,-48.30178055555555,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Taquaral e Cuiabanos,Goiás,Orizona
+-16.778523,-48.633775,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Engenho Velho,Goiás,Vianópolis
+-16.878407,-48.603229,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Rio dos Bois,Goiás,Vianópolis
+-16.522268,-48.553153,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Retiro,Goiás,Silvânia
+-16.428912,-48.634759,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Mucambo,Goiás,Gameleira de Goiás
+-16.890582,-48.43886,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Rio do Peixe,Goiás,Vianópolis
+-16.890582,-48.43886,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Ponte Alta,Goiás,Vianópolis
+-16.701849,-48.798744,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Boa Esperança,Goiás,Leopoldo de Bulhões
+-16.605829,-48.260294,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Engenho Velho,Goiás,Vianópolis
+-16.859656,-48.29299,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Santa Rita,Goiás,Orizona
+-16.89455,-48.36691666666667,CRESOL - Estrada de Ferro,Cresol Estrada de Ferro,Fazenda Taquaral de Cima,Goiás,Vianópolis
+-25.182880555555556,-50.33135555555556,Fazenda Pau Furado,Fazenda Pau Furado,Fazenda Pau Furado,Paraná,Teixeira Soares
+-24.961066666666667,-50.11816388888889,Fazenda Aurora,Fazenda Aurora,Fazenda Aurora,Paraná,Carambeí
+-16.36227777777778,-55.07815,Bom Jesus Agropecuaria Ltda,Bom Jesus Agropecuaria ,Fazenda Mirandópolis,Mato Grosso,Juscimeira
+-19.36025,-47.364068,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Água Santa,Minas Gerais,Perdizes
+-17.42317,-51.367197,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Bandeirantes,Goiás,Montividiu
+-17.373805,-50.985993,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Boa Esperança,Goiás,Rio Verde
+-17.354913,-51.461452,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Boa Vista,Goiás,Montividiu
+-17.354913,-51.461452,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Bom Jardim,Goiás,Montividiu
+-17.286756,-51.32331,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Bom Jardim (Dorothea),Goiás,Montividiu
+-17.281813,-51.329665,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Bom Jardim (Marcelo),Goiás,Montividiu
+-17.492133,-51.275933,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Brasilanda,Goiás,Montividiu
+-17.238443,-51.645517,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Cachoeirinha,Goiás,Caiapônia
+-17.069333,-51.118167,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Cana Verde,Goiás,Montividiu
+-18.072217,-46.426303,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,DME,Minas Gerais,Presidente Olegário
+-17.836257,-46.35671,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Gameleira,Minas Gerais,Lagoa Grande
+-18.121277,-50.736345,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Mata do Lobo,Goiás,Rio Verde
+-17.235353,-51.344025,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Mauá,Goiás,Caiapônia
+-17.49837,-51.42451,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Monte Alegre,Goiás,Rio Verde
+-17.402428,-50.821303,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Monte Alegre Pindaíbas,Goiás,Rio Verde
+-17.739327,-51.28907,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Pai Manoel,Goiás,Rio Verde
+-18.066978,-50.792807,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Paraíso do Rio Preto,Goiás,Rio Verde
+-18083,-50.787721,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Paraíso Rio Preto,Goiás,Rio Verde
+-19.13843,-48.77671,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Salto de Minas,Minas Gerais,Uberlândia
+-19.222047,-48.03494,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Santa Fé,Minas Gerais,Uberlândia
+-17.728242,-50.812352,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Santa Mônica,Goiás,Rio Verde
+-17.204747,-50.525807,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Santa Rita e arrendamento,Goiás,Paraúna
+-17.492395,-51.601532,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,São Francisco,Goiás,Rio Verde
+-18.42833,-46.056212,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,São João,Minas Gerais,Varjão de Minas
+-17.206031,-51.078808,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,São José,Goiás,Montividiu
+-17.524475,-51.464028,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,São Sebastião,Goiás,Rio Verde
+-17.819058,-51.115422,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,São Tomaz,Goiás,Rio Verde
+-18.861594,-47.707017,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Segredo,Minas Gerais,Indianópolis
+-18.861594,-47.707017,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Speggiorini,Minas Gerais,Indianópolis
+-17.353563,-51.881125,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Torre,Goiás,Jataí
+-17.394317,-51.403618,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Tropical,Goiás,Montividiu
+-17.371451,-51.483038,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Vargem Grande,Goiás,Montividiu
+-17.43054833,-51.58419667,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Vargem Grande/Planalto Verde,Goiás,Rio Verde
+-17.43818,-51.475864,Aliança da Terra Gestora - Grupo IV,Aliança da Terra,Vitória,Goiás,Rio Verde
+-12.150277777777777,-55.75083333333333,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Jaborandi,Mato Grosso,Sorriso
+-12.788533333333334,-55.78503055555555,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda São Felipe,Mato Grosso,Sorriso
+-12.960486111111111,-55.77930555555555,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda São Marcos,Mato Grosso,Lucas do Rio Verde
+-12.371111111111112,-55805,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santa Maria Amazônia,Mato Grosso,Sorriso
+-9.053305555555557,-65.41750833333334,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santana,Amazonas,Lábrea
+-12.859094444444445,-55.743830555555554,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Videirense,Mato Grosso,Sorriso
+-12.502161666666666,-56.4691125,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Cella,Mato Grosso,Tapurah
+-12.085497222222223,-55.66502777777777,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Berrante de Ouro,Mato Grosso,Sorriso
+-12.804975,-55.776375,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Alegria,Mato Grosso,Sorriso
+-10.422672222222221,-55.67885833333333,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Gamada,Mato Grosso,Colíder
+-12.815619444444446,-55.764494444444445,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Pedra,Mato Grosso,Sorriso
+-12.830516666666666,-55.383494444444445,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Pluma,Mato Grosso,Sorriso
+-12.940572222222222,-55.58058333333334,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Pinhal,Mato Grosso,Sorriso
+-12.947222222222223,-55.85277777777778,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santo Antônio,Mato Grosso,Lucas do Rio Verde
+-12.481625,-55.48473888888889,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Nossa Senhora da Salete,Mato Grosso,Vera
+-14365,-58.10008333333334,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Morena,Mato Grosso,Tangará da Serra
+-13.070797222222222,-54.96544166666667,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Centro da Mata,Mato Grosso,Nova Ubiratã
+-12.723611111111111,-55.532777777777774,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Rodeio,Mato Grosso,Sorriso
+-12.479655555555556,-55.696305555555554,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Santa Ernestina,Mato Grosso,Sorriso
+-12.575758333333333,-56.01485,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Leopoldina,Mato Grosso,Sorriso
+-13.128222222222222,-55.32194444444445,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Marauense,Mato Grosso,Sorriso
+-13.338591666666668,-55.11895277777778,Associacao Clube Amigos da Terra -CAT Sorriso,Associação Clube Amigos da Terra ,Fazenda Criciúma,Mato Grosso,Nova Ubiratã
+-14.372530555555556,-56.76291666666667,Fazenda Agrícola Dourado S.A,Fazenda Agrícola Dourado,Fazenda Agrícola Dourado,Mato Grosso,Nortelândia
+-16.984333333333336,-54.75418888888889,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santa Mônica,Mato Grosso,Rondonópolis
+-13.187850000000001,-57.99461111111111,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Tolosa,Mato Grosso,Brasnorte
+-15.156175000000001,-54.146924999999996,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Caroline,Mato Grosso,Primavera do Leste
+-15.182258333333333,-54.50257222222222,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Garça Branca,Mato Grosso,Primavera do Leste
+-11.89273888888889,-46.01746388888889,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Rio de Janeiro,Bahia,Luís Eduardo Magalhães
+-12.583083333333333,-46.02796111111111,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda São Pedro,Bahia,São Desidério
+-8.806372222222222,-46.84554444444445,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Serra Branca,Maranhão,Balsas
+-8.448791666666667,-46.053752777777774,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Graziele,Maranhão,Tasso Fragoso
+-13.591775,-45.99348611111111,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Cambará,Bahia,Correntina
+-10.997847222222221,-52.16065833333333,Cerquality Consultoria em Sustentabilidade e Certificação LTDA. Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,Fazenda Santa Maria da Fontoura,Mato Grosso,Canabrava do Norte
+-25.777569444444442,-51.92722777777777,Grupo Reinhofer,Grupo Reinhofer,Fazenda Campo Bonito,Paraná,Reserva do Iguaçu
+-25.654052777777775,-51.79506666666666,Grupo Reinhofer,Grupo Reinhofer,Fazenda Santa Bárbara,Paraná,Pinhão
+-25.560591666666667,-51.51327222222222,Grupo Reinhofer,Grupo Reinhofer,Fazenda Cupim,Paraná,Guarapuava
+-25.552802777777778,-51.35186111111111,Grupo Reinhofer,Grupo Reinhofer,Fazenda Santa Isabel,Paraná,Guarapuava
+-25.869819444444445,-51.97208055555556,Grupo Reinhofer,Grupo Reinhofer,Fazenda Invernada da Reserva,Paraná,Reserva do Iguaçu
+-8.119722222222222,-46.53055555555555,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Campos Lindos,Tocantins,Campos Lindos
+-8.293055555555556,-46.776944444444446,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Chapada Alta,Tocantins,Campos Lindos
+-7.420833333333333,-46.36138888888889,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Santo Isidoro,Maranhão,Riachão
+-8.564722222222223,-46.67944444444444,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Batavo,Maranhão,Balsas
+-11.548055555555555,-46.67944444444444,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda União,Tocantins,Dianópolis
+-7.654166666666667,-46.66416666666667,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Curitiva,Maranhão,Riachão
+-21.52791111111111,-45.25128611111111,SAAG Comercial Exportadora Ltda. non-GMO,Saag Comercial Exportadora ,Faz. Saquarema,Minas Gerais,Carmo da Cachoeira
+-20.823544444444444,-45.938377777777774,SAAG Comercial Exportadora Ltda. non-GMO,Saag Comercial Exportadora ,Faz. Verdes Mares,Minas Gerais,Guapé
+-21.380283333333335,-45.308474999999994,SAAG Comercial Exportadora Ltda. non-GMO,Saag Comercial Exportadora ,Faz. Potreiro,Minas Gerais,Três Pontas
+-19.435080555555555,-46.84454166666667,SAAG Comercial Exportadora Ltda. non-GMO,Saag Comercial Exportadora ,Agrorossi,Minas Gerais,Ibiá
+-19.516130555555556,-46.53453888888889,SAAG Comercial Exportadora Ltda. non-GMO,Saag Comercial Exportadora ,São Pedro,Minas Gerais,Ibiá
+-19.937797222222223,-46.43993333333333,SAAG Comercial Exportadora Ltda. non-GMO,Saag Comercial Exportadora ,Fazenda Novo Horizonte,Minas Gerais,Medeiros
+-21.60213888888889,-45.10445555555556,SAAG Comercial Exportadora Ltda. non-GMO,Saag Comercial Exportadora ,Fazenda Vitoria,Minas Gerais,Três Corações
+-21.380283333333335,-45.308474999999994,SAAG Comercial Exportadora Ltda. non-GMO,Saag Comercial Exportadora ,Fazenda Potreiro,Minas Gerais,Três Pontas
+-9.23286388888889,-46.53489166666667,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Carolina do Norte,Maranhão,Alto Parnaíba
+-7.854863888888889,-45.79848055555556,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Rio Verde,Maranhão,Tasso Fragoso
+-7.2877777777777775,-46.21008055555556,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Granja Ceres,Maranhão,Riachão
+-9.056405555555557,-46.34009166666667,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Itapuá,Maranhão,Alto Parnaíba
+-17.216733333333334,-47.0485,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Ouro Branco,Minas Gerais,Paracatu
+-7.929830555555556,-44.408975,FAPCEN III,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Rainha da Serra,Piauí,Uruçuí
+-7.456163888888889,-44.162416666666665,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Progresso,Piauí,Landri Sales
+-7.4108888888888895,-44.31197222222222,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Tunísia,Piauí,Sebastião Leal
+-8.83783888888889,-46.56133333333333,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Nova Holanda,Maranhão,Balsas
+-7.407333333333334,-46.014833333333335,FAPCEN,Fundação de Apoio à Pesquisa do Corredor de Exportação Norte “Irineu Alcides Bays,Fazenda Sol Nascente,Maranhão,Balsas
+-18.773725,-49.22685,Fazendas Bartira,Bartira Agropecuária,Fazenda Pirapitinga,Minas Gerais,Canápolis
+-18.716055555555556,-53.168416666666666,Fazendas Bartira,Bartira Agropecuária,Fazenda San Jorge,Mato Grosso do Sul,Costa Rica
+-14.320113888888889,-57.89548888888889,Fazendas Bartira,Bartira Agropecuária,Fazenda San Antônio,Mato Grosso,Tangará da Serra
+-11.888805555555555,-51.91063888888889,Fazendas Bartira,Bartira Agropecuária,Fazenda Morumbi Agropecuária S.A,Mato Grosso,Bom Jesus do Araguaia
+-8.376416666666668,-46.42808888888889,Fazendas Bartira,Bartira Agropecuária,Fazenda Bacuri,Maranhão,Balsas
+-7.8708027777777785,-45.74746388888889,Fazendas Bartira,Bartira Agropecuária,Fazenda Horizontina Leste,Maranhão,Tasso Fragoso
+-8.249437,-7.8708027777777785,Fazendas Bartira,Bartira Agropecuária,Fazenda Horizontina Norte,,
+-12.26558611111111,-56.19936388888888,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,AgroAna,Mato Grosso,Ipiranga do Norte
+-11.546308333333334,-56.516375,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,América,Mato Grosso,Tabaporã
+-13.152155555555556,-55.37456666666667,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Boa Vista,Mato Grosso,Sorriso
+-12.003072222222222,-54.671613888888885,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Conquista,Mato Grosso,Santa Carmem
+-12.125052777777778,-55.48029722222223,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Diamantino,Mato Grosso,Sinop
+-11.748022222222222,-56.117777777777775,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Fênix,Mato Grosso,Porto dos Gaúchos
+-13.245861111111111,-55.187263888888886,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,JP,Mato Grosso,Nova Ubiratã
+-12.401736111111111,-55.975455555555556,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Nossa Sr? da Carmo,Mato Grosso,Sorriso
+-12.922130555555555,-55.53149722222222,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Potrich,Mato Grosso,Sorriso
+-12.234741666666666,-55.76791388888889,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Pressi,Mato Grosso,Sorriso
+-11.956708333333333,-56.152794444444446,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Rio Branco,Mato Grosso,Ipiranga do Norte
+-12.772680555555556,-55.95436666666667,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Santa Carmen,Mato Grosso,Sorriso
+-12.505386111111111,-55.866036111111114,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Santa Helena,Mato Grosso,Sorriso
+-12.818438888888888,-54.93896944444444,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,São José,Mato Grosso,Nova Ubiratã
+-12.496224999999999,-55.81568333333333,Cerquality Consultoria em Sustentabilidade e Certificacao LTDA - Grupo I,Cerquality Consultoria em Sustentabilidade e Certificação,Sichieri,Mato Grosso,Sorriso
+-8.119722222222222,-46.53055555555555,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Campos Lindos,Tocantins,Campos Lindos
+-8.293055555555556,-46.776944444444446,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Chapada Alta,Tocantins,Campos Lindos
+-7.420833333333333,-46.36138888888889,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Santo Isidoro,Maranhão,Riachão
+-8.564722222222223,-46.67944444444444,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Batavo,Maranhão,Balsas
+-11.548055555555555,-48.40138888888889,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda União,Tocantins,São Valério da Natividade
+-7.654166666666667,-46.66416666666667,Agrex do Brasil S.A.,Agrex do Brasil,Fazenda Curitiva,Maranhão,Riachão
+-14.857861111111111,-53.492125,GGF - Guerino Ferrarin e Outros,GGF Agro,Fazenda Izabela,Mato Grosso,Santo Antônio do Leste
+-15.23903611111111,-54.154088888888886,GGF - Guerino Ferrarin e Outros,GGF Agro,Fazenda Primavera,Mato Grosso,Primavera do Leste
+-14.8586,-53.49315,GGF - Guerino Ferrarin e Outros,GGF Agro,Fazenda Independência,Mato Grosso,Santo Antônio do Leste
+-13.524036111111112,-55.07678333333334,GGF - Guerino Ferrarin e Outros,GGF Agro,Fazenda Rio Bonito,Mato Grosso,Nova Ubiratã
+-13.853141666666666,-57.19152777777777,GGF - Guerino Ferrarin e Outros,GGF Agro,Fazenda Pirapó,Mato Grosso,São José do Rio Claro
+-21.282777777777778,-45.43416666666666,Saag Comercial Exportadora Ltda,Saag Comercial Exportadora ,Fazenda Lage,Minas Gerais,Santana da Vargem
+-21.52791111111111,-45.25128611111111,Saag Comercial Exportadora Ltda,Saag Comercial Exportadora ,Fazenda Saquarema,Minas Gerais,Carmo da Cachoeira
+-20.823544444444444,-45.25128611111111,Saag Comercial Exportadora Ltda,Saag Comercial Exportadora ,Agropecuaria Verdes Mares,Minas Gerais,"Candeias, Minas Gerais"
+-21.380283333333335,-45.308474999999994,Saag Comercial Exportadora Ltda,Saag Comercial Exportadora ,Potreiro,Minas Gerais,Três Pontas
+-19.435080555555555,-46.84454166666667,Saag Comercial Exportadora Ltda,Saag Comercial Exportadora ,Agrorossi,Minas Gerais,Ibiá
+-19.516130555555556,-46.53453888888889,Saag Comercial Exportadora Ltda,Saag Comercial Exportadora ,São Pedro,Minas Gerais,Ibiá
+-19.516130555555556,-46.53454166666666,Saag Comercial Exportadora Ltda,Saag Comercial Exportadora ,Fazenda Angico,Minas Gerais,Ibiá
+-19.937797222222223,-46.43993333333333,Saag Comercial Exportadora Ltda,Saag Comercial Exportadora ,Fazenda Novo Horizonte,Minas Gerais,Medeiros
+-21.60213888888889,-45.10445555555556,Saag Comercial Exportadora Ltda,Saag Comercial Exportadora ,Fazenda da Laje,Minas Gerais,Três Corações
+-13.666558333333334,-55.39378611111111,GGF - GUERINO FERRARIN E OUTROS,GGF Agro,Pau da Onça,Mato Grosso,Santa Rita do Trivelato
+-14.82449,-47.72547,Fazenda Nossa Senhora Aparecida,Fazenda Nossa Senhora Aparecida,Nossa Senhora Aparecida,Goiás,Água Fria de Goiás
+-8.59715,-46.639218,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA AGRO BOA VISTA,Maranhão,Balsas
+-8.118607,-45.870153,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CERTEZA,Maranhão,Tasso Fragoso
+-8.651808,-45.945183,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CHAPADÃO,Maranhão,Tasso Fragoso
+-8.297231,-45.769278,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA SAPUCAÍ,Maranhão,Tasso Fragoso
+-7.088961,-45.945405,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA GUAÍRA,Maranhão,Fortaleza dos Nogueiras
+-8.430479,-46.618932,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CAIUÁ,Maranhão,Balsas
+-7.447427,-46.3264,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA SEIS IRMÃOS,Maranhão,Riachão
+-8.721907,-45.570364,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA JAPURÁ,Piauí,Santa Filomena
+-12.423922,-46.2506222,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ALVORADA,Bahia,Luíz Eduardo Magalhães
+-8.678837,-46.665834,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TAKAHASHI,Maranhão,Balsas
+-15.266706,-54.263947,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA LAGOA ENCANTADA,Mato Grosso,Primavera do Leste
+-7.963056,-45.92465,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ESCONDIDO,Maranhão,Balsas
+-7.965008,-45.752163,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA PIRACICABA,Maranhão,Balsas
+-8.125459,-45.789736,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ANGICOS,Maranhão,Tasso Fragoso
+-12.902398,-46.194599,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA GUARANI,Bahia,São Desidério
+-11.84223,-46.244109,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ORQUÍDEAS,Bahia,Barreiras
+-11.793402,-45.958693,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CAMPO ABERTO BARREIRAS – BA,Bahia,Barreiras
+-8.191716,-46.461772,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA BAIXÃO PRETO,Maranhão,Riachão
+-8.520959,-46.749241,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA  AGROMANTOVA  - BATAVO,Maranhão,Balsas
+-8.9949,-46.559639,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TABATINGA,Maranhão,Alto Parnaíba
+-8.672696,-46.011546,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TERRA NOVA,Maranhão,Tasso Fragoso
+-8.12433,-46.14611,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ARAPUÃ,Maranhão,Tasso Fragoso
+-8.041355,-45.976106,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA APUÃ,Maranhão,Balsas
+-8.135828,-46.133402,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA NOSSA SENHORA DAS GRAÇAS,Maranhão,Tasso Fragoso
+-12.214789,-45.958782,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA SAMA,Bahia,Luíz Eduardo Magalhães
+-11.83768,-46.28957,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CONDOMINIO IRMÃOS GATTO,Bahia,Barreiras
+-8.447452,-45.937696,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA CABECEIRA,Maranhão,Tasso Fragoso
+-7.960087,-45.809129,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TEATINO,Maranhão,Balsas
+-7.798658,-45.054773,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA TRADIÇÃO,Piauí,Ribeiro Gonçalves
+-13.504164,-46.113412,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA GBC,Bahia,Correntina
+-13.740469,-46.140271,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA PARANÁ,Bahia,Correntina
+-12.804929,-45.656859,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA PORTO ALEGRE,Bahia,São Desidério
+-7.849968,-45.778352,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA FAVEIRA,Maranhão,Tasso Fragoso
+-9.375476,-45.35193833333334,CerQuality Consultoria em Sustentabilidade e Certificação Ltda Grupo III,Cerquality Consultoria em Sustentabilidade e Certificação,FAZENDA ALVORADA – FRITZEN,Piauí,Gilbués
+-24.920630555555558,-54.03516666666666,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Carlos Eduardo Silveira,Paraná,Diamante d'Oeste
+-24.946908333333333,-54.05305,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Tatiana Eloiza Scultz,Paraná,Diamante d'Oeste
+-24.920630555555558,-54.03516666666666,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Cleusa Guilherme da Silva,Paraná,Diamante d'Oeste
+-24.920283333333334,-54.038780555555554,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Diomar Zopellaro,Paraná,Diamante d'Oeste
+-24.93898888888889,-54.058386111111105,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Jose Ezildo da Silva,Paraná,Diamante d'Oeste
+-24.220277777777778,-53.71083333333333,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Flavio Luiz Berno,Paraná,Palotina
+-24.240555555555556,-53.863055555555555,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Caroline de Carle Gomes,Paraná,Palotina
+-24.499722222222225,-54.18083333333333,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Darci Dedimar Tomm,Paraná,Marechal Cândido Rondon
+-25.08861111111111,-53.581388888888895,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Hilario Mattuizzi,Paraná,Santa Tereza do Oeste
+-24.198888888888888,-53.717222222222226,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Deomiro Bernardo Lehmkuhl,Paraná,Palotina
+-24.264722222222222,-53.89361111111111,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Lauri Leo Buzanello,Paraná,Palotina
+-25.08861111111111,-53.581388888888895,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Araides Duarte da Luz,Paraná,Santa Tereza do Oeste
+-24.19361111111111,-53.726111111111116,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Roberto Pradela,Paraná,Palotina
+-25.08861111111111,-53.581388888888895,Cataratas do Iguacu Produtos Organicos Ltda - Gebana Brasil,Cataratas do Iguaçu Produtos Orgânicos,Olindo Pierezan,Paraná,Santa Tereza do Oeste
+-12.875211111111112,-52.39218888888889,Amaggi EU RED 2,Amaggi,Fazenda Tanguro,Mato Grosso,Querência
+-14.318152777777778,-57.95717777777778,Amaggi EU RED 2,Amaggi,Fazenda Itamarati,Mato Grosso,Campo Novo do Parecis
+-13.752711111111111,-55.87307222222222,Amaggi Commodities,Amaggi,Fabiane II,Mato Grosso,Nova Mutum
+-11.890555555555554,-56.06805555555556,Amaggi Commodities,Amaggi,Horizontina,Mato Grosso,Ipiranga do Norte
+-12.516944444444444,-56.64475,Amaggi Commodities,Amaggi,Nova Esperança,Mato Grosso,Tapurah
+-12.364722222222222,-55.87138888888889,Amaggi Commodities,Amaggi,Pomba Branca,Mato Grosso,Sorriso
+-12.469444444444445,-55.617222222222225,Amaggi Commodities,Amaggi,Poranga,Mato Grosso,Sorriso
+-14.114527777777777,-55.30086111111111,Amaggi Commodities,Amaggi,Rancho Alegre,Mato Grosso,Santa Rita do Trivelato
+-12.617222222222223,-55.51277777777778,Amaggi Commodities,Amaggi,Reunidas São Roberto,Mato Grosso,Vera
+-12.330333333333334,-56311,Amaggi Commodities,Amaggi,Rincão Florido,Mato Grosso,Ipiranga do Norte
+-12.557222222222222,-55.63472222222222,Amaggi Commodities,Amaggi,Riograndense,Mato Grosso,Sorriso
+-12.588166666666668,-56.642472222222224,Amaggi Commodities,Amaggi,Santa Ignes,Mato Grosso,Tapurah
+-12.865444444444444,-55.7215,Amaggi Commodities,Amaggi,Santa Lucia,Mato Grosso,Sorriso
+-12.592622222222223,-56.65819722222222,Amaggi Commodities,Amaggi,São Francisco Do Sul,Mato Grosso,Tapurah
+-12.052536111111111,-56.350833333333334,Amaggi Commodities,Amaggi,Vendaval,Mato Grosso,Porto dos Gaúchos
+-12.516944444444444,-56.64475,Amaggi Commodities,Amaggi,Nova Esperança,Mato Grosso,Tapurah
+-12.588166666666668,-56.642472222222224,Amaggi Commodities,Amaggi,Santa Ignes,Mato Grosso,Tapurah
+-12.592622222222223,-56.65819722222222,Amaggi Commodities,Amaggi,São Francisco do Sul,Mato Grosso,Tapurah
+-9.571591666666666,-61.98356944444445,Amaggi Commodities,Amaggi,Don Aro,Rondônia,Machadinho D'Oeste
+-12.330333333333334,-56311,Amaggi Commodities,Amaggi,Rincão Florido,Mato Grosso,Tapurah
+-12.052536111111111,-56.350833333333334,Amaggi Commodities,Amaggi,Vendaval,Mato Grosso,Porto dos Gaúchos
+-12.469444444444445,-55.617222222222225,Amaggi Commodities,Amaggi,Poranga,Mato Grosso,Sorriso
+-12.617222222222223,-55.51277777777778,Amaggi Commodities,Amaggi,Reunidas São Roberto,Mato Grosso,Vera
+-12.461141666666666,-55.032183333333336,Amaggi Commodities,Amaggi,Vitoria,Mato Grosso,Feliz Natal
+-12.557222222222222,-55.63472222222222,Amaggi Commodities,Amaggi,Riograndense,Mato Grosso,Sorriso
+-12.364722222222222,-55.87138888888889,Amaggi Commodities,Amaggi,Pomba Branca,Mato Grosso,Sorriso
+-11.890555555555554,-56.06805555555556,Amaggi Commodities,Amaggi,Horizontina,Mato Grosso,Ipiranga do Norte
+-12.556775,-55.56934722222223,Amaggi Commodities,Amaggi,Silvano I e Nossa Senhora Aparecida,Mato Grosso,Sorriso
+-12.865444444444444,-55.7215,Amaggi Commodities,Amaggi,Santa Lucia,Mato Grosso,Sorriso
+-14.114527777777777,-55.30086111111111,Amaggi Commodities,Amaggi,Rancho Alegre,Mato Grosso,Santa Rita do Trivelato
+-13.752711111111111,-55.87307222222222,Amaggi Commodities,Amaggi,Fabiane II,Mato Grosso,Nova Mutum
+-12.951833333333333,-58.59330555555556,Amaggi Commodities,Amaggi,Globo,Mato Grosso,Sapezal
+-13.411111111111111,-58.85777777777778,Amaggi Commodities,Amaggi,Santa Rosa do Paraná I e II,Mato Grosso,Sapezal
+-13.375833333333334,-58.46083333333333,Amaggi Commodities,Amaggi,Paraíso,Mato Grosso,Sapezal
+-13.627500000000001,-58.70388888888889,Amaggi Commodities,Amaggi,Canário e Rodeio,Mato Grosso,Sapezal
+-12.554166666666667,-58.09955555555556,Amaggi Commodities,Amaggi,Flexa de Ouro I,Mato Grosso,Brasnorte
+-11.544027777777778,-57.89213888888889,Amaggi Commodities,Amaggi,Flexa de Ouro II,Mato Grosso,Juara
+-14.106388888888889,-59.201483333333336,Amaggi Commodities,Amaggi,Lajeada,Mato Grosso,Campos de Júlio
+-13.869941666666668,-57.96344166666667,Amaggi Commodities,Amaggi,Estrela,Mato Grosso,Campo Novo do Parecis
+-13.328111111111111,-57725,Amaggi Commodities,Amaggi,Santa Maria,Mato Grosso,Campo Novo do Parecis
+-13.784975,-57.926091666666665,Amaggi Commodities,Amaggi,Santa Maria (Cristina),Mato Grosso,Campo Novo do Parecis
+-13.816888888888888,-57.58744444444444,Amaggi Commodities,Amaggi,Santa Amelia / Curitiba,Mato Grosso,Campo Novo do Parecis
+-13.55963888888889,-57.726305555555555,Amaggi Commodities,Amaggi,Vista Alegre,Mato Grosso,Campo Novo do Parecis
+-13.757388888888888,-57.54072222222222,Amaggi Commodities,Amaggi,Sudoeste,Mato Grosso,Campo Novo do Parecis
+-13.300972222222223,-57.78066666666667,Amaggi Commodities,Amaggi,Piramide,Mato Grosso,Campo Novo do Parecis
+-13.570827777777778,-57.93633611111111,Amaggi Commodities,Amaggi,São Carlos,Mato Grosso,Campo Novo do Parecis
+-13.570827777777778,-57.93633611111111,Amaggi Commodities,Amaggi,Porta do Céu,Mato Grosso,Campo Novo do Parecis
