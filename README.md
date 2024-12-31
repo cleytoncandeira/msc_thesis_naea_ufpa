@@ -16,7 +16,7 @@ A **questão central** da pesquisa consiste em investigar quais **efeitos econô
 ## Metodologia de Resolução
 
 1. **Coleta de Dados (Web Scrapping)**  
-   - **Tarefa 1**: Desenvolvi um algoritmo *web scrapping* para coletar os relatórios de auditoria públicos disponibilizados pela RTRS e armazená-los em um repositório aberto, hospedado em uma conta do Google Drive.  
+   - **Tarefa 1**: Desenvolvi um algoritmo *web scrapping* para coletar os relatórios de auditoria públicos disponibilizados pela RTRS nesse [link](https://github.com/cleytoncandeira/msc_thesis_naea_ufpa/tree/main/scripts/data_scrapping).  
 
 2. **Extração e Transformação de Informações**  
    - **Tarefa 2**: Extrair dados dos arquivos PDF coletados (por exemplo, localização geográfica, datas, indicadores de conformidade e outras variáveis de auditoria).  
