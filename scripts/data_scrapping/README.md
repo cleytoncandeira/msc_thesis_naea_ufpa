@@ -1,64 +1,67 @@
-# Web Scraping Bot
+# BotDriver: Selenium Web Scraper for Audit Reports
 
-This script performs web scraping on `https://responsiblesoy.org/public-audit-reports` to extract general information and download reports.
+This script automates the extraction of audit report data from the RTRS website using Selenium. It collects data such as producer names, countries, years, and links to audit reports, and saves the information as a CSV file. Additionally, it downloads the audit reports in PDF format.
+
+## Features
+
+- Automates navigation and interaction with the RTRS website.
+- Extracts country options from a dropdown menu.
+- Retrieves data (producer name, country, year, and report links) from the audit reports table.
+- Saves the extracted data to a CSV file.
+- Downloads all audit reports in PDF format.
 
 ## Requirements
 
-- Python 3.8+
-- Python libraries: 
-    - `requests 2.25.1`
-    - `pandas 1.2.3`
-    - `beautifulsoup4 4.9.3`
-    - `selenium 3.141.0`
-    - `Firefox (comentar a versão usada em BotDriver)`
-    - `Geckodriver (compatível com a versão do Firefox)`
+- Python 3.7+
+- Google Chrome browser
 
 ## Installation
 
-Install the dependencies using pip:
+1. Clone this repository:
 
-```bash
-pip install requests pandas beautifulsoup4 selenium
+   ```bash
+   git clone <https://github.com/cleytoncandeira/msc_thesis_naea_ufpa/tree/main/scripts/data_scrapping>
+   ```
 
-```
+2. Install the required dependencies:
 
-### Script Structure
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-```python
-BotDriver class
-__init__(self, driver_path, *options)
+## Usage
 
-```
-- Description: Initializes the browser driver.
-- Parameters:
-        driver_path: Path to the Geckodriver executable.
-        *options: Additional options for the Firefox browser.
-- Functionality: Creates an instance of the Firefox browser with the options provided and sets the root directory to save the downloaded files.
+1. Run the script:
 
-```python
-make_firefox_browser(self, path, *options)
-```
+   ```bash
+   python botdriver.py
+   ```
 
-- Description: Creates an instance of the Firefox browser.
-- Parameters:
-        path: Path to the Geckodriver executable.
-        *options: Additional options for the Firefox browser.
-- Return: Firefox browser instance configured.
+2. The script will:
 
-```python
-extract_general_info(self, html_tags, audits_r)
-```
+   - Open the RTRS audit reports webpage.
+   - Display a list of available countries from the dropdown menu.
+   - Automatically select "Brazil" and initiate a search.
+   - Extract relevant data and save it as a CSV file in the `data/external_data` folder.
+   - Download the PDF audit reports to the `data/external_data/audit_reports` folder.
 
-- Description: Extracts general information from audit reports from an HTML page.
-- Parameters:
-    - html_tags: List of CSS classes to locate the HTML elements containing the desired information.
-    - audits_r: BeautifulSoup object representing the HTML of the reports page.
-    - Return: pandas DataFrame containing the extracted information and the list of download links.
+## File Structure
 
-```python
-download_all_reports(self, links)
-```
-- Description: Downloads all the reports listed in the links provided.
-- Parameters:
-- links: List of URLs of the reports to download.
-- Functionality: Iterates over the list of links, downloads each report and saves it in the specified directory.
+- **data/external_data/**
+  - Contains the CSV file with extracted data.
+  - Subfolder for downloaded audit reports in PDF format.
+
+## Customization
+
+- You can modify the default country selection by changing the `bot.select_country("Brazil")` line to your desired country.
+
+## Notes
+
+- Ensure that Google Chrome is installed on your machine.
+- If the website layout changes, some selectors may need to be updated in the script.
+- Adjust the timeout durations in `WebDriverWait` if necessary for your network conditions.
+
+## Dependencies
+
+Refer to the `requirements.txt` file for the list of Python dependencies.
+
