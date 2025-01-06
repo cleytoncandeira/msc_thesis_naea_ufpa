@@ -21,10 +21,10 @@ A **questão central** da pesquisa consiste em investigar quais **efeitos econô
 2. **Extração e Transformação de Informações**  
    - **Tarefa 2**: Extrair dados dos arquivos PDF coletados (por exemplo, localização geográfica, datas, indicadores de conformidade e outras variáveis de auditoria).  
    - As informações foram convertidas em uma **base de dados** unificada, que permite consultas, atualizações e análises estatísticas.  
-   - Técnicas de raspagem de texto (OCR, parsing de PDF, etc.) foram empregadas para assegurar a integridade e a consistência dos dados.
+   - Técnicas de raspagem de texto (OCR, parsing de PDF, etc.) foram empregadas para assegurar a integridade e a consistência dos dados nesse [link](https://github.com/cleytoncandeira/msc_thesis_naea_ufpa/blob/main/scripts/data_reader/pre_processing_jsonl_files.ipynb).
 
 3. **Análise por LLM (Large Language Models)**  
-   - **Tarefa 3**: Utilizou-se de um modelo de LLM para realizar análise de texto, identificando se as empresas cumprem ou deixam de cumprir cada princípio estabelecido pela RTRS.  
+   - **Tarefa 3**: Utilizou-se de um modelo de LLM para realizar análise de texto, identificando se as empresas cumprem ou deixam de cumprir cada princípio estabelecido pela RTRS nesse [link](https://www.kaggle.com/code/cleytoncandeira/llama2-content-analysis).  
 
 ---
 
