@@ -24,21 +24,18 @@ def dms_to_decimal(degrees, minutes, seconds):
         return None
     
 def string_to_float(string):
-
-    if '.' in string:
-        float_value = float(string)
-        return float_value
-    
-    if len(string) == 1:
-        return float(string)
-
-    if len(string) >= 2:
-        if int(string[0]) > 5:
-            float_value = float(f"{string[0]}.{string[1:]}")        
-        else: 
-            float_value = float(f"{string[0:2]}.{string[2:]}")
-    
-        return float_value
+    try:
+        if '.' in string:
+            return float(string)
+        if len(string) == 1:
+            return float(string)
+        if len(string) >= 2:
+            if int(string[0]) > 5:
+                return float(f"{string[0]}.{string[1:]}")
+            return float(f"{string[0:2]}.{string[2:]}")
+    except (TypeError, ValueError):
+        return None
+    return None
 
 def convert_to_negative_float(value):
 
@@ -49,7 +46,7 @@ def convert_to_negative_float(value):
             float_value = float(value)
             return float_value if float_value < 0 else -float_value
         except ValueError:
-            pass
+            return None
         
     return value
 
@@ -73,7 +70,7 @@ def extract_gc(str_text):
         # Trate exceções aqui, se necessário
         pass
     
-    return str_text
+    return None
 
 if __name__ == '__main__':
 
@@ -102,4 +99,4 @@ if __name__ == '__main__':
             else:
                 farm_branches[col][index] = farm_branches[col][index]
 
-farm_branches.to_csv('/home/cleyton/ProjetosGit/msc_thesis_naea_ufpa/2_DataProcessing/cg_farm_branches_to_decimal.csv', encoding='utf-8')
+    farm_branches.to_csv('/home/cleyton/ProjetosGit/msc_thesis_naea_ufpa/2_DataProcessing/cg_farm_branches_to_decimal.csv', encoding='utf-8')

@@ -1,2 +1,17 @@
 data/external_data/
 data/raw_data/
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+tmp/
+
+# Reproducible local artifacts and bulky OCR/image datasets.
+outputs/
+data/ready_data/
+data/processed_data/audit_reports_database/
+data/processed_data/organized_audit_reports/
+datasets/
+references/*.pdf
+references/*.zip

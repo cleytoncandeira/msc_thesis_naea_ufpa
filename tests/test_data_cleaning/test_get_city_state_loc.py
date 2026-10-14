@@ -4,7 +4,7 @@ from scripts.data_cleaning.get_city_state_loc import *
 
 class TestGeoCoder(unittest.TestCase):
 
-    @patch('seu_modulo.requests.get')
+    @patch('scripts.data_cleaning.get_city_state_loc.requests.get')
     def test_geocode_success(self, mock_get):
         # Simula uma resposta bem-sucedida da API do Google Maps Geocoding
         mock_response = {
@@ -32,7 +32,7 @@ class TestGeoCoder(unittest.TestCase):
         result = geocoder.geocode(-1.455755, -48.490180)
         self.assertEqual(result, {"state": "Pará", "city": "Belém"})
 
-    @patch('seu_modulo.requests.get')
+    @patch('scripts.data_cleaning.get_city_state_loc.requests.get')
     def test_geocode_failure(self, mock_get):
         # Simula uma resposta falha da API do Google Maps Geocoding
         mock_response = {"status": "ZERO_RESULTS"}

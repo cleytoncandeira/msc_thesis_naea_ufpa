@@ -37,6 +37,18 @@ This script automates the extraction of audit report data from the RTRS website 
    python botdriver.py
    ```
 
+2. Run with common CLI options:
+
+   ```bash
+   python botdriver.py --country Brazil --download-pdfs --headless
+   ```
+
+3. Run with a custom output folder and extra Chrome options:
+
+   ```bash
+   python botdriver.py --external-data-folder ../../data/external_data --chrome-option="--window-size=1920,1080"
+   ```
+
 2. The script will:
 
    - Open the RTRS audit reports webpage.
@@ -54,6 +66,17 @@ This script automates the extraction of audit report data from the RTRS website 
 ## Customization
 
 - You can modify the default country selection by changing the `bot.select_country("Brazil")` line to your desired country.
+- For scripts and notebooks, you can call `run_scraping()` directly:
+
+  ```python
+  from scripts.data_scrapping.botdriver import run_scraping
+
+  df, links, countries = run_scraping(
+      country="Brazil",
+      download_pdfs=True,
+      chrome_options=["--headless=new"],
+  )
+  ```
 
 ## Notes
 
@@ -64,4 +87,3 @@ This script automates the extraction of audit report data from the RTRS website 
 ## Dependencies
 
 Refer to the `requirements.txt` file for the list of Python dependencies.
-

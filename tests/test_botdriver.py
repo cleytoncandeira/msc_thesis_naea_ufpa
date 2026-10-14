@@ -1,108 +1,156 @@
-import pytest
-import os
-from unittest.mock import patch, MagicMock
+import sys
 from pathlib import Path
-from scripts.data_scrapping.botdriver import BotDriver 
+from unittest.mock import MagicMock
+
+import pytest
+from bs4 import BeautifulSoup
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+import scripts.data_scrapping.botdriver as botdriver_module
+from scripts.data_scrapping.botdriver import BotDriver
+
 
 @pytest.fixture
-def bot():
-    """
-    Cria uma instância do BotDriver em modo headless 
-    para ser usada nos testes. 
-    """
-    return BotDriver("--headless") 
+def browser():
+    return MagicMock(name="browser")
 
-def test_botdriver_instantiation(bot):
-    """
-    Testa se o BotDriver é instanciado corretamente.
-    """
-    assert bot is not None
-    assert bot.browser is not None
-    assert isinstance(bot.root_folder, Path)
 
-def test_get_country_list(bot):
-    """
-    Testa se get_country_list() retorna algo plausível.
-    (Aqui, rodamos de verdade, então pode abrir o navegador e acessar a página.)
-    Se você quiser evitar abrir o navegador, use mock. 
-    """
-    bot.browser.get("https://responsiblesoy.org/public-audit-reports?lang=en")
-    countries = bot.get_country_list()
-    assert isinstance(countries, list)
-    assert len(countries) > 0
-    print("Países encontrados:", countries)
-    # Verifica se "Brazil" está na lista (pode mudar se a página mudar)
-    assert "Brazil" in countries
+@pytest.fixture
+def bot(tmp_path, browser):
+    return BotDriver(browser=browser, external_data_folder=tmp_path)
 
-def test_select_country(bot):
-    """
-    Testa se select_country("Brazil") não gera erro.
-    """
-    bot.browser.get("https://responsiblesoy.org/public-audit-reports?lang=en")
-    countries = bot.get_country_list()
-    if "Brazil" in countries:
-        bot.select_country("Brazil")
-        # Se chegar aqui sem dar exceção, consideramos OK
-        assert True
-    else:
-        pytest.skip("País 'Brazil' não está na lista neste momento.")
 
-def test_click_search(bot):
-    """
-    Testa se click_search() funciona (inclusive fechando pop-up).
-    """
-    bot.browser.get("https://responsiblesoy.org/public-audit-reports?lang=en")
-    bot.get_country_list()  # garante que a página carregue
+def test_init_uses_custom_external_data_folder(bot, tmp_path):
+    assert bot.external_data_folder == tmp_path
+    assert bot.external_data_folder.exists()
+
+
+def test_get_country_list_returns_trimmed_names(bot, monkeypatch):
+    fake_element = MagicMock()
+    wait_mock = MagicMock(return_value=fake_element)
+    monkeypatch.setattr(bot, "_wait_until", wait_mock)
+
+    fake_select = MagicMock()
+    fake_select.options = [MagicMock(text=" Brazil "), MagicMock(text="USA")]
+    monkeypatch.setattr(botdriver_module, "Select", MagicMock(return_value=fake_select))
+
+    result = bot.get_country_list()
+
+    assert result == ["Brazil", "USA"]
+    wait_mock.assert_called_once()
+    botdriver_module.Select.assert_called_once_with(fake_element)
+
+
+def test_select_country_invokes_select(bot, monkeypatch):
+    fake_element = MagicMock()
+    monkeypatch.setattr(bot, "_wait_until", MagicMock(return_value=fake_element))
+
+    fake_select = MagicMock()
+    monkeypatch.setattr(botdriver_module, "Select", MagicMock(return_value=fake_select))
+
     bot.select_country("Brazil")
-    try:
-        bot.click_search()
-        assert True
-    except Exception as e:
-        pytest.fail(f"Erro ao clicar em Search: {e}")
 
-def test_extract_and_download(bot):
-    """
-    Faz um teste de fluxo completo:
-    1) Acessa página
-    2) Seleciona 'Brazil'
-    3) Clica em Search
-    4) Coleta <div class='zyxaudit-result-line'>
-    5) Extrai info e faz download (mas usando mock pra requests.get, p/ não baixar de fato)
-    """
-    import time
-    from bs4 import BeautifulSoup
+    fake_select.select_by_visible_text.assert_called_once_with("Brazil")
 
-    # 1) Acessa e configura
-    bot.browser.get("https://responsiblesoy.org/public-audit-reports?lang=en")
-    bot.get_country_list()
-    bot.select_country("Brazil")
+
+def test_click_search_handles_pop_up(bot, monkeypatch):
+    wait_mock = MagicMock()
+    search_button = MagicMock()
+    search_button.click.side_effect = [
+        botdriver_module.ElementClickInterceptedException("popup"),
+        None,
+    ]
+    close_button = MagicMock()
+
+    wait_mock.until.side_effect = [search_button, search_button, close_button]
+    monkeypatch.setattr(botdriver_module, "WebDriverWait", MagicMock(return_value=wait_mock))
+
     bot.click_search()
-    time.sleep(2)
 
-    # 2) Pega o HTML
-    html = BeautifulSoup(bot.browser.page_source, "html.parser")
-    audits_r_list = html.find_all("div", class_="zyxaudit-result-line")
+    assert search_button.click.call_count == 2
+    close_button.click.assert_called_once()
 
-    # 3) Se não há relatórios, não há o que fazer
-    if not audits_r_list:
-        pytest.skip("Nenhum relatório encontrado na página no momento.")
-    
-    # 4) Mockar requests.get para não baixar PDFs de verdade
-    with patch("requests.get") as mock_get:
-        mock_get.return_value.status_code = 200
-        mock_get.return_value.content = b"%PDF-1.4\nFake PDF Content"
 
-        df, links = bot.extract_general_info(audits_r_list)
-        assert not df.empty
-        assert len(links) == len(df)
+def test_extract_general_info_creates_csv(bot, tmp_path):
+    sample_html = BeautifulSoup(
+        """
+        <div class="zyxaudit-result-line">
+            <div class="vc_col-md-6 vc_col-xs-12 zyxaudit-nombre_empresa">Empresa 1</div>
+            <div class="vc_col-md-2 vc_col-xs-12 zyxaudit-pais">Brazil</div>
+            <div class="vc_col-md-2 vc_col-xs-12 zyxaudit-anio">2023</div>
+            <a href="http://example.com/report1.pdf">PDF</a>
+        </div>
+        <div class="zyxaudit-result-line">
+            <div class="vc_col-md-6 vc_col-xs-12 zyxaudit-nombre_empresa">Empresa 2</div>
+            <div class="vc_col-md-2 vc_col-xs-12 zyxaudit-pais">Argentina</div>
+            <div class="vc_col-md-2 vc_col-xs-12 zyxaudit-anio">2022</div>
+            <a href="http://example.com/report2.pdf">PDF</a>
+        </div>
+        """,
+        "html.parser",
+    )
 
-        bot.download_all_reports(links)
-        # Verifica se chamou requests.get ao menos uma vez
-        assert mock_get.called
+    audits = sample_html.find_all("div", class_="zyxaudit-result-line")
+    df, links = bot.extract_general_info(audits, csv_name="test_reports.csv")
 
-def test_cleanup(bot):
-    """
-    Fecha o browser no fim.
-    """
-    bot.browser.quit()
-    assert True
+    assert list(df["Names"]) == ["Empresa 1", "Empresa 2"]
+    assert list(df["Country"]) == ["Brazil", "Argentina"]
+    assert links == ["http://example.com/report1.pdf", "http://example.com/report2.pdf"]
+
+    csv_path = tmp_path / "test_reports.csv"
+    assert csv_path.exists()
+    assert "Empresa 1" in csv_path.read_text()
+
+
+def test_download_all_reports_streams_content(bot, tmp_path, monkeypatch):
+    fake_response = MagicMock()
+    fake_response.iter_content.return_value = [b"chunk1", b"", b"chunk2"]
+    fake_response.raise_for_status = MagicMock()
+
+    def fake_get(url, stream, timeout):
+        assert stream is True
+        assert timeout == bot.request_timeout
+        return fake_response
+
+    monkeypatch.setattr(botdriver_module.requests, "get", fake_get)
+    monkeypatch.setattr(botdriver_module, "tqdm", lambda iterable, **_: iterable)
+
+    bot.download_all_reports(["http://example.com/report1.pdf", ""])
+
+    pdf_folder = tmp_path / "audit_reports"
+    pdf_file = pdf_folder / "audit_report_rtrs1.pdf"
+
+    assert pdf_file.exists()
+    assert pdf_file.read_bytes() == b"chunk1chunk2"
+    fake_response.raise_for_status.assert_called_once()
+
+
+def test_download_all_reports_skips_existing(bot, tmp_path, monkeypatch):
+    pdf_folder = tmp_path / "audit_reports"
+    pdf_folder.mkdir()
+    existing_file = pdf_folder / "audit_report_rtrs1.pdf"
+    existing_file.write_bytes(b"old")
+
+    fake_response = MagicMock()
+    fake_response.iter_content.return_value = [b"new"]
+    fake_response.raise_for_status = MagicMock()
+
+    monkeypatch.setattr(botdriver_module.requests, "get", lambda *args, **kwargs: fake_response)
+    monkeypatch.setattr(botdriver_module, "tqdm", lambda iterable, **_: iterable)
+
+    bot.download_all_reports(["http://example.com/report1.pdf"])
+
+    assert existing_file.read_bytes() == b"old"
+    fake_response.raise_for_status.assert_called_once()
+
+
+def test_close_quits_browser(bot):
+    original_browser = MagicMock()
+    bot.browser = original_browser
+    bot.close()
+
+    original_browser.quit.assert_called_once_with()
+    assert bot.browser is None
