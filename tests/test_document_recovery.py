@@ -37,4 +37,3 @@ def test_catalog_manifest_preserves_url_and_flags_duplicates(tmp_path: Path):
     assert rows[0]["source_url"] == "https://example.org/a.pdf"
     assert rows[0]["url_duplicate"] == "false"
     assert rows[1]["url_duplicate"] == "true"
-

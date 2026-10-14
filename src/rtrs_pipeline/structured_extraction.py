@@ -164,4 +164,3 @@ def write_candidates_csv(jsonl_path: Path, output_csv: Path) -> int:
         writer.writeheader()
         writer.writerows(rows)
     return len(rows)
-

@@ -279,4 +279,3 @@ class PdfDownloader:
 def write_download_log(results: Iterable[DownloadResult], output_path: Path) -> None:
     rows = [asdict(result) | {"logged_at_utc": utc_now()} for result in results]
     write_csv(output_path, rows, ["source_url", "local_path", "status", "sha256", "size_bytes", "attempts", "error", "logged_at_utc"])
-

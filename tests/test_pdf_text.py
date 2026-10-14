@@ -32,4 +32,3 @@ def test_processing_registry_queues_only_pages_without_native_text(tmp_path: Pat
     documents, candidates = write_processing_registry(input_path, tmp_path / "registry.csv", tmp_path / "queue.csv")
     assert (documents, candidates) == (2, 1)
     assert "mixed_or_blank_pages" in (tmp_path / "registry.csv").read_text(encoding="utf-8")
-

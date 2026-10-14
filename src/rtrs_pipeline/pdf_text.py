@@ -242,4 +242,3 @@ def ocr_approved_pages(decisions_path: Path, output_path: Path, *, dpi: int = 20
             PageText(document_id, str(pdf_path), document_sha, page_number, text, "ocr_tesseract_eng", status, utc_now())
         )
     return write_jsonl(output_path, results)
-

@@ -80,4 +80,3 @@ def aggregate_validated_labels(rows: Iterable[dict[str, str]]) -> dict[str, int]
     if invalid:
         raise ValueError(f"Rótulos inválidos: {sorted(invalid)}")
     return {label: counts[label] for label in VALID_LABELS}
-
